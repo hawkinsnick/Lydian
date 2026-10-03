@@ -1,0 +1,5191 @@
+[
+  {
+    "record_id": "lydian:ediana:95",
+    "source_document_id": "95",
+    "source_catalog_label": "LW 1 (Sardis)",
+    "source_response_groups": [
+      "LW 1 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 1 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[  ]",
+        "source_pointer": "/LW 1 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "[o]ṛaλ išlλ pakillλ ešṭ mrud essk [wãnas]",
+        "source_pointer": "/LW 1 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "laqrišak qelak kudkit ešλ wãṇ[aλ]",
+        "source_pointer": "/LW 1 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "pλtarwod akad manelid kumlilid šilukalid akit ṇ[ãqiš]",
+        "source_pointer": "/LW 1 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "ešλ mruλ puk ešλ wãnaλ puk ešνaν",
+        "source_pointer": "/LW 1 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "laqrịšaν pukit kud išt ešλ wãnaλ pλtarwọ[d]",
+        "source_pointer": "/LW 1 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "aktin nãqiš qelλ=k fẽnšλifid fakmλ artimus",
+        "source_pointer": "/LW 1 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "ipsimšiš artimuk kulumšiš aaraλ piraλk",
+        "source_pointer": "/LW 1 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "kλidaλ kofuλk qiraλ qelλk pilλ wcpaqẽnt",
+        "source_pointer": "/LW 1 (Sardis)/9"
+      }
+    ],
+    "references": [
+      "Gusmani 1960a:250"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:51",
+    "source_document_id": "51",
+    "source_catalog_label": "LW 10 (Sardis)",
+    "source_response_groups": [
+      "LW 10 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 10 (Sardis)",
+      "· 20’"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "eš[t] ṃṛud karos katowališ pilλ",
+        "source_pointer": "/LW 10 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "wora[λ ka]ṇtrol katowaλ karoḷλ",
+        "source_pointer": "/LW 10 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "woraλ pλ̣ [pilλk] iškuptoλ dummλiš šelliš",
+        "source_pointer": "/LW 10 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "wesfak woras dacal",
+        "source_pointer": "/LW 10 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "eštit qid trodν šẽšwad qištoridν kastãν",
+        "source_pointer": "/LW 10 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "mruλit trodν fẽllakin tamν trf̣ãν",
+        "source_pointer": "/LW 10 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "fas katul fakit mruλk ẽṇšarptat",
+        "source_pointer": "/LW 10 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "ak cẽnal nãrs qλ šers ciwνališ kaττadmẽs",
+        "source_pointer": "/LW 10 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "fakmit ẽnud išt katowalλ šadmẽλ",
+        "source_pointer": "/LW 10 (Sardis)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "fakmsaḍ amu kow ciward kot",
+        "source_pointer": "/LW 10 (Sardis)/10"
+      },
+      {
+        "source_row_label": "· 11",
+        "reading": "šλẽcaḍ laλẽns ciwν fadofidν",
+        "source_pointer": "/LW 10 (Sardis)/11"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "tawsẽν ak=um nãqid kol fakmit",
+        "source_pointer": "/LW 10 (Sardis)/12"
+      },
+      {
+        "source_row_label": "· 13",
+        "reading": "el edš wastνunliš qašaas",
+        "source_pointer": "/LW 10 (Sardis)/13"
+      },
+      {
+        "source_row_label": "· 14",
+        "reading": "nãm qid kot aλtokad akmλad",
+        "source_pointer": "/LW 10 (Sardis)/14"
+      },
+      {
+        "source_row_label": "· 15",
+        "reading": "šλ̣ẽcad qirad isqkụm qardoλcν",
+        "source_pointer": "/LW 10 (Sardis)/15"
+      },
+      {
+        "source_row_label": "· 16",
+        "reading": "fạcašidν fakum ãn išlodaλ",
+        "source_pointer": "/LW 10 (Sardis)/16"
+      },
+      {
+        "source_row_label": "· 17",
+        "reading": "alarmn kastaλcν kudnak",
+        "source_pointer": "/LW 10 (Sardis)/17"
+      },
+      {
+        "source_row_label": "· 18",
+        "reading": "ẽnas amãs qedm piš ẽtamν unadν",
+        "source_pointer": "/LW 10 (Sardis)/18"
+      },
+      {
+        "source_row_label": "· 19",
+        "reading": "ak epad inãnidν sfarwad",
+        "source_pointer": "/LW 10 (Sardis)/19"
+      },
+      {
+        "source_row_label": "· 20",
+        "reading": "ak cẽnu ẽnak taadak šiḍ?etτiš šantoλτ",
+        "source_pointer": "/LW 10 (Sardis)/20"
+      },
+      {
+        "source_row_label": "· 21",
+        "reading": "fasiša malãν nak kim ãš",
+        "source_pointer": "/LW 10 (Sardis)/22"
+      },
+      {
+        "source_row_label": "· 22",
+        "reading": "ẽnaλt pakiwalλ mrud psl",
+        "source_pointer": "/LW 10 (Sardis)/23"
+      },
+      {
+        "source_row_label": "· 23",
+        "reading": "ešλit ṃr qiš fẽnšλipid akaν wissiš",
+        "source_pointer": "/LW 10 (Sardis)/24"
+      },
+      {
+        "source_row_label": "· 24",
+        "reading": "niwiscν warptok",
+        "source_pointer": "/LW 10 (Sardis)/25"
+      }
+    ],
+    "references": [
+      "Gusmani 1960a:254"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:101",
+    "source_document_id": "101",
+    "source_catalog_label": "LW 100 (Sardis)",
+    "source_response_groups": [
+      "LW 100 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 100 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "(-)]ụṛdo",
+        "source_pointer": "/LW 100 (Sardis)/1"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:107",
+    "source_document_id": "107",
+    "source_catalog_label": "LW 101 (Sardis)",
+    "source_response_groups": [
+      "LW 101 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 101 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[....... m]aneliš",
+        "source_pointer": "/LW 101 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "[....... -]ịṣ̌ inal",
+        "source_pointer": "/LW 101 (Sardis)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:157"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:26",
+    "source_document_id": "26",
+    "source_catalog_label": "LW 102",
+    "source_response_groups": [
+      "LW 102"
+    ],
+    "source_headings": [
+      "· LW 102"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "osfls",
+        "source_pointer": "/LW 102/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:157"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:108",
+    "source_document_id": "108",
+    "source_catalog_label": "LW 103 (Sardis)",
+    "source_response_groups": [
+      "LW 103 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 103 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "šrkaštuliš sf[",
+        "source_pointer": "/LW 103 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:158"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:27",
+    "source_document_id": "27",
+    "source_catalog_label": "LW 104",
+    "source_response_groups": [
+      "LW 104"
+    ],
+    "source_headings": [
+      "· LW 104"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "artymalim",
+        "source_pointer": "/LW 104/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:158"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:28",
+    "source_document_id": "28",
+    "source_catalog_label": "LW 105",
+    "source_response_groups": [
+      "LW 105"
+    ],
+    "source_headings": [
+      "· LW 105"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "las[.]ẽ",
+        "source_pointer": "/LW 105/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:158"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:29",
+    "source_document_id": "29",
+    "source_catalog_label": "LW 106",
+    "source_response_groups": [
+      "LW 106"
+    ],
+    "source_headings": [
+      "· LW 106"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "miλas",
+        "source_pointer": "/LW 106/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:158"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:109",
+    "source_document_id": "109",
+    "source_catalog_label": "LW 107 (Sardis)",
+    "source_response_groups": [
+      "LW 107 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 107 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "] lefstλ pa.[-",
+        "source_pointer": "/LW 107 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:158"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:102",
+    "source_document_id": "102",
+    "source_catalog_label": "LW 108 (Sardis)",
+    "source_response_groups": [
+      "LW 108 (Sardis)"
+    ],
+    "source_headings": [
+      "· Sardes No. 108"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[e]ss wanas pakiẉ[ališ]",
+        "source_pointer": "/LW 108 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "[...]ṃi.ãliš pa.[- .....]",
+        "source_pointer": "/LW 108 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "[.....] wsta!s awši.̣[(-) ....]",
+        "source_pointer": "/LW 108 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "[ak e]ṣ̌λ wãnaλ q[iṣ̌]",
+        "source_pointer": "/LW 108 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "[fẽnšλ]ịf̣ịd puk ẹṣ̌[λ]",
+        "source_pointer": "/LW 108 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "[   ]",
+        "source_pointer": "/LW 108 (Sardis)/6"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:158f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:8",
+    "source_document_id": "8",
+    "source_catalog_label": "LW 109 (Sardis)",
+    "source_response_groups": [
+      "LW 109 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 109 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "so.[-",
+        "source_pointer": "/LW 109 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:159"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:52",
+    "source_document_id": "52",
+    "source_catalog_label": "LW 11 (Sardis)",
+    "source_response_groups": [
+      "LW 11 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 11 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ešt mruwaad šarištrosλ sfarwad astrkoλ",
+        "source_pointer": "/LW 11 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "wãnτas wicν areλ kaτaredkms iškos",
+        "source_pointer": "/LW 11 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "aνis qidad šawν wratuλ arsτãnšrs kašnod",
+        "source_pointer": "/LW 11 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "kspλtaλks atrgolλ tafaaλ fapaλkol",
+        "source_pointer": "/LW 11 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "awkaν ẽtamν uwedmas waredtaλ sfatos",
+        "source_pointer": "/LW 11 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "kotas cat qedkτad cfisad išaaλal umνod",
+        "source_pointer": "/LW 11 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "šarištrosλ šrkaštus katowališ suλos",
+        "source_pointer": "/LW 11 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "datrosiš qaλmλad qiš laptãnal atrokl",
+        "source_pointer": "/LW 11 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "sfardak artimuλ dãν caqrlaλ astrkoλ",
+        "source_pointer": "/LW 11 (Sardis)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "fakiτ ešt inal adalλ akšaakmλ iškod",
+        "source_pointer": "/LW 11 (Sardis)/10"
+      },
+      {
+        "source_row_label": "· 11",
+        "reading": "wãnτakt ešνaν ifrol qiš fakorfid katofn",
+        "source_pointer": "/LW 11 (Sardis)/11"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "puk mruwaaλ fakmλataν wissiš waars nid kantrod",
+        "source_pointer": "/LW 11 (Sardis)/12"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:255"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:53",
+    "source_document_id": "53",
+    "source_catalog_label": "LW 12 (Sardis)",
+    "source_response_groups": [
+      "LW 12 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 12 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "est mru šiwãmlλ šaroλ ẽntarfλod",
+        "source_pointer": "/LW 12 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "dumλiš nid qaašlλ wesfas alarmλ cawλos",
+        "source_pointer": "/LW 12 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "akaν mλwẽšiš wνišλ lẽν šawkarplos",
+        "source_pointer": "/LW 12 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "cinaλ qiš qiraλ fẽtwintat tutrloλ",
+        "source_pointer": "/LW 12 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "ninin nid qaašliš wãnaλ akτaλ fawkufot",
+        "source_pointer": "/LW 12 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "isas il alarms τesas kudãk išlukol",
+        "source_pointer": "/LW 12 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "nirat nãν širmaλ ẽn ãn išmẽnliš sfatos",
+        "source_pointer": "/LW 12 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "piḷik esṣ sfatrτas wroλt laafcν tulod",
+        "source_pointer": "/LW 12 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "kot lumpaas dummλit kocwid niqašllλ tatrot",
+        "source_pointer": "/LW 12 (Sardis)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "ṇịṇ linẽd wνišλ lẽν fẽntašẽnaν ḷạfod",
+        "source_pointer": "/LW 12 (Sardis)/10"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:255"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:54",
+    "source_document_id": "54",
+    "source_catalog_label": "LW 13 (Sardis)",
+    "source_response_groups": [
+      "LW 13 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 13 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ilim ãnaš isas kudmãk cẽnšidν alarmas",
+        "source_pointer": "/LW 13 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "amuk nãšik ẽmiš ištaminliš wstaas",
+        "source_pointer": "/LW 13 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "datrosišk šarys nãν išqašãnwν qiraad",
+        "source_pointer": "/LW 13 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "kotτin asfãk cešwν astrkot midaτad",
+        "source_pointer": "/LW 13 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "kudτin atνãν nak fašiwν afaλaλk",
+        "source_pointer": "/LW 13 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "nikτas pitat ulτiṇ koττis tarplas",
+        "source_pointer": "/LW 13 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "fakτin dawicil ištaminlaν qiraaλ",
+        "source_pointer": "/LW 13 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "ẽnat fasfe͂nwν lẽmk τaλalaν aνatν",
+        "source_pointer": "/LW 13 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "akad wratos asẽmλ wotlλ tarpτad",
+        "source_pointer": "/LW 13 (Sardis)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "[... -]ẽν šiτẽnit kotτin kocwid kancat",
+        "source_pointer": "/LW 13 (Sardis)/10"
+      },
+      {
+        "source_row_label": "· 11",
+        "reading": "[....... -]ãn τẽnwν niτin wratos šikimλaν",
+        "source_pointer": "/LW 13 (Sardis)/11"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "[......... -]ṣṭọlν qednak wolν kipτad",
+        "source_pointer": "/LW 13 (Sardis)/12"
+      },
+      {
+        "source_row_label": "· 13",
+        "reading": "[..............] ạsẽmiṣ̌ ẹλos islạạṣ",
+        "source_pointer": "/LW 13 (Sardis)/13"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:256"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:55",
+    "source_document_id": "55",
+    "source_catalog_label": "LW 14 (Sardis)",
+    "source_response_groups": [
+      "LW 14 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 14 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "mrumit paal dumiš qλ̣ [...... -]ṣ factot",
+        "source_pointer": "/LW 14 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "astrkotak šawtaars eλfk [.... ]λ̣k tasok",
+        "source_pointer": "/LW 14 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "nãm paλτas išt šawkorfλ [... šaw]ṭaarλk arktoλ",
+        "source_pointer": "/LW 14 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "fakmat τeλmdaν sνãλaν ẽ[- ......] sakos",
+        "source_pointer": "/LW 14 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "caqrlãν akum adẽnν ạlarmlν ẽtolt",
+        "source_pointer": "/LW 14 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "fasqν niqaašlad akm ciraλad iškod",
+        "source_pointer": "/LW 14 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "ištaν qλastãnu nik mršlas šitarfλos",
+        "source_pointer": "/LW 14 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "dãkum ešt šiqṛ[- ] šaralλ taktod",
+        "source_pointer": "/LW 14 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "kotis famrašidν [      ] qiraλ ẽnwνatoλk",
+        "source_pointer": "/LW 14 (Sardis)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "lẽmsum taadạ[s ] est kaτfλadš qλ satrot",
+        "source_pointer": "/LW 14 (Sardis)/10"
+      },
+      {
+        "source_row_label": "· 11",
+        "reading": "ãns qλ nsạ[- ] ararms facato[.]",
+        "source_pointer": "/LW 14 (Sardis)/11"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "kipτama[- ] ankãν [... -]strol",
+        "source_pointer": "/LW 14 (Sardis)/12"
+      },
+      {
+        "source_row_label": "· 13",
+        "reading": "qaλmk c[- ] fam qiraλ [..... -]trol",
+        "source_pointer": "/LW 14 (Sardis)/13"
+      },
+      {
+        "source_row_label": "· 14",
+        "reading": "dumνit [     ] otraν aḍalλ fartol",
+        "source_pointer": "/LW 14 (Sardis)/14"
+      },
+      {
+        "source_row_label": "· 15",
+        "reading": "[... (-)]s[(-) ] tartas fakmiš col",
+        "source_pointer": "/LW 14 (Sardis)/15"
+      },
+      {
+        "source_row_label": "· 16",
+        "reading": "[      ] famλad taadas ẽntrol",
+        "source_pointer": "/LW 14 (Sardis)/16"
+      },
+      {
+        "source_row_label": "· 17",
+        "reading": "[     ] facatil kukok",
+        "source_pointer": "/LW 14 (Sardis)/17"
+      },
+      {
+        "source_row_label": "· 18",
+        "reading": "[ -]ṣ̌id fapad ẽnτawλoλ",
+        "source_pointer": "/LW 14 (Sardis)/18"
+      },
+      {
+        "source_row_label": "· 19",
+        "reading": "[ -]ṣ šiwraλaλ karftos",
+        "source_pointer": "/LW 14 (Sardis)/19"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:256f.",
+      "Gusmani 1964a:257"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:56",
+    "source_document_id": "56",
+    "source_catalog_label": "LW 15 (Sardis)",
+    "source_response_groups": [
+      "LW 15 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 15 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ṃλiλs nid ḳaf̣olcν fadil",
+        "source_pointer": "/LW 15 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "] kolciš tarplas fẽnanil",
+        "source_pointer": "/LW 15 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "-]ṣtil ãns kocwid qiš tfil",
+        "source_pointer": "/LW 15 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "] ḳudãk fašiwλidν",
+        "source_pointer": "/LW 15 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "-]τ̣ad tarplatil marị[..]",
+        "source_pointer": "/LW 15 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "-]ịš irẽnν šanil",
+        "source_pointer": "/LW 15 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "-]mtν fištroẉν̣ a[..]",
+        "source_pointer": "/LW 15 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "] q̇eḷq̇il šiwis",
+        "source_pointer": "/LW 15 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "] ẉãnaλ ṗạ[-",
+        "source_pointer": "/LW 15 (Sardis)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "] caqṛ[l-",
+        "source_pointer": "/LW 15 (Sardis)/10"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:57",
+    "source_document_id": "57",
+    "source_catalog_label": "LW 16 (Sardis)",
+    "source_response_groups": [
+      "LW 16 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 16 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "w]ạ̃nas tiwdališ [",
+        "source_pointer": "/LW 16 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "[istupe]λmliš porlλ s[-",
+        "source_pointer": "/LW 16 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "qa]λmλuλ dãν [",
+        "source_pointer": "/LW 16 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "] ạlarms šidλ̣ [",
+        "source_pointer": "/LW 16 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "(-)]ẽl[(-)",
+        "source_pointer": "/LW 16 (Sardis)/5"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:258"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:90",
+    "source_document_id": "90",
+    "source_catalog_label": "LW 17 (Sardis)",
+    "source_response_groups": [
+      "LW 17 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 17 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[...šiw]ạ̃mliš akit qiš",
+        "source_pointer": "/LW 17 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "[...ešνa]ν anlolaν fẽnšλiṗ[id]",
+        "source_pointer": "/LW 17 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "[...katša]ṛlokid ẽnakmλ̣[...]",
+        "source_pointer": "/LW 17 (Sardis)/3"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:258"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:58",
+    "source_document_id": "58",
+    "source_catalog_label": "LW 18 (Sardis)",
+    "source_response_groups": [
+      "LW 18 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 18 (Sardis)",
+      "· 1"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 2",
+        "reading": "ạkmsin sof",
+        "source_pointer": "/LW 18 (Sardis)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:258"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:59",
+    "source_document_id": "59",
+    "source_catalog_label": "LW 19 (Sardis)",
+    "source_response_groups": [
+      "LW 19 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 19 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "fẹ̃ṇṣ̌λ̣ịṗịḍ pị[-",
+        "source_pointer": "/LW 19 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "fẽncãν ṗị[-",
+        "source_pointer": "/LW 19 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "faḳ[",
+        "source_pointer": "/LW 19 (Sardis)/3"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:258"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:96",
+    "source_document_id": "96",
+    "source_catalog_label": "LW 2 (Sardis)",
+    "source_response_groups": [
+      "LW 2 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 2 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[p]ọrlλ X III II   oraλ cuwellλ artaksaššaλs",
+        "source_pointer": "/LW 2 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "[q]aλmλuλ dãν ess wãnas mruk pλašokiτ",
+        "source_pointer": "/LW 2 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "q̇id kataνil laqrišakin qid! ẽtosrs akad",
+        "source_pointer": "/LW 2 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "karolid šapλalid istupeλmlid aktin",
+        "source_pointer": "/LW 2 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "nãqiš fẽnšλipid ešνaν mλwẽndạν iṣ̌kon",
+        "source_pointer": "/LW 2 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "qida tamν puk wãnaλ esλ pu!k mruλ puk",
+        "source_pointer": "/LW 2 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "pλašoλ ešλ puk laqrišaν pukin aλẽν",
+        "source_pointer": "/LW 2 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "awλãν qišk w!ctdid išt ešλ wãnaλ karolλ",
+        "source_pointer": "/LW 2 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "šapλalλ karolas sfẽndaν arwol akṃλ",
+        "source_pointer": "/LW 2 (Sardis)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "artimuν ipšimνaν kulumνak šiwraλmn",
+        "source_pointer": "/LW 2 (Sardis)/10"
+      },
+      {
+        "source_row_label": "· 11",
+        "reading": "[in]ãnu aktin nãqiš fẽnšλipid fak=at=aν epad",
+        "source_pointer": "/LW 2 (Sardis)/11"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "[..]ra pištaν taqaλaν šisirors sfẽndak!mλ̣in",
+        "source_pointer": "/LW 2 (Sardis)/12"
+      },
+      {
+        "source_row_label": "· 13",
+        "reading": "[..]ḷpụqid",
+        "source_pointer": "/LW 2 (Sardis)/13"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:251"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:60",
+    "source_document_id": "60",
+    "source_catalog_label": "LW 20 (Sardis)",
+    "source_response_groups": [
+      "LW 20 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 20 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "nannas pakiwališ artimuλ",
+        "source_pointer": "/LW 20 (Sardis)/1"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:61",
+    "source_document_id": "61",
+    "source_catalog_label": "LW 21 (Sardis)",
+    "source_response_groups": [
+      "LW 21 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 21 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[m]ạṇ[e]s pakiwališ manẹ[liš] ạṛṭịṃ[uλ]",
+        "source_pointer": "/LW 21 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:259"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:62",
+    "source_document_id": "62",
+    "source_catalog_label": "LW 22 (Sardis)",
+    "source_response_groups": [
+      "LW 22 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 22 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ešt mrud sfardẽnτ facνiriš mλimnas wicν",
+        "source_pointer": "/LW 22 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "dumms epad fawnẽriš amẽd sfardẽtλ astrkoλ",
+        "source_pointer": "/LW 22 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "mλatalad mλimns aλidad wiswid kaττirs",
+        "source_pointer": "/LW 22 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "fak sfardẽtak ãn katwνẽl ãnad fẽntašẽnaν",
+        "source_pointer": "/LW 22 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "nãqida mλimns išt sfarλ iitλ akms aλidad",
+        "source_pointer": "/LW 22 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "wiswid kaττiwν kotit cidaλmdaν ẽnwaλaλ",
+        "source_pointer": "/LW 22 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "wastνunkms niqesik dẽt datroskms qesiš",
+        "source_pointer": "/LW 22 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "cẽntλ mλimnaν šawν sfardẽtaν akmsad",
+        "source_pointer": "/LW 22 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "šiwraλmiš artimul kaττirs kawek pakilliš",
+        "source_pointer": "/LW 22 (Sardis)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "armτak qida iitλ mλimns išt sfarλ akms",
+        "source_pointer": "/LW 22 (Sardis)/10"
+      },
+      {
+        "source_row_label": "· 11",
+        "reading": "irduν šiwraλmiš artimul kaττirs akad",
+        "source_pointer": "/LW 22 (Sardis)/11"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "šiwraλmiš artimul asfãν cẽqraλ qiraλ",
+        "source_pointer": "/LW 22 (Sardis)/12"
+      },
+      {
+        "source_row_label": "· 13",
+        "reading": "taqtulãt akmsas asfãν wcpinwν sfardẽtik",
+        "source_pointer": "/LW 22 (Sardis)/13"
+      },
+      {
+        "source_row_label": "· 14",
+        "reading": "astrkos mλimlλ nãkukod fakatwãmid ak qed",
+        "source_pointer": "/LW 22 (Sardis)/14"
+      },
+      {
+        "source_row_label": "· 15",
+        "reading": "aλidad tasod akmλad inãnt",
+        "source_pointer": "/LW 22 (Sardis)/15"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:259"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:63",
+    "source_document_id": "63",
+    "source_catalog_label": "LW 23 (Sardis)",
+    "source_response_groups": [
+      "LW 23 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 23 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ess šyrmas qλdãnl artimuλk dacuwerst",
+        "source_pointer": "/LW 23 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "wintas akit ešλ širmaλ qyš fẽnsλipid",
+        "source_pointer": "/LW 23 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "niwiscν fakmλit qλdãns tawsas",
+        "source_pointer": "/LW 23 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "artimuk ipsimšiš katšarlokid prwãs",
+        "source_pointer": "/LW 23 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "III II dãν ãnτẽt mitridaštas mitratališ",
+        "source_pointer": "/LW 23 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "kawes citoλs puk afaris qλ dẽt amudãν",
+        "source_pointer": "/LW 23 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "akmaν prafršiš prafrlλ šawtarid fakud",
+        "source_pointer": "/LW 23 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "amu owν akit qed fasfẽnu akat qλ fakantrow",
+        "source_pointer": "/LW 23 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "akmλiš qiš citollad pitad",
+        "source_pointer": "/LW 23 (Sardis)/9"
+      },
+      {
+        "source_row_label": "·",
+        "reading": "fakmλtin qλdãnk artimuk katšarlokid",
+        "source_pointer": "/LW 23 (Sardis)/10"
+      },
+      {
+        "source_row_label": "· 11",
+        "reading": "puλ pilλk arlyllλ qyraλ ẽtwerškin",
+        "source_pointer": "/LW 23 (Sardis)/11"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "šarokak ešνaν ciwaν nikumẽk",
+        "source_pointer": "/LW 23 (Sardis)/12"
+      },
+      {
+        "source_row_label": "· 13",
+        "reading": "šawẽnt nik piš nik piliš arlylliš",
+        "source_pointer": "/LW 23 (Sardis)/13"
+      },
+      {
+        "source_row_label": "· 14",
+        "reading": "qyšk amukit qyd fasfẽnu akat",
+        "source_pointer": "/LW 23 (Sardis)/14"
+      },
+      {
+        "source_row_label": "· 15",
+        "reading": "padafuλ šelλk kantoru aλaλ nid",
+        "source_pointer": "/LW 23 (Sardis)/15"
+      },
+      {
+        "source_row_label": "· 16",
+        "reading": "qλk pλešak dẽt tafaas aλas",
+        "source_pointer": "/LW 23 (Sardis)/16"
+      },
+      {
+        "source_row_label": "· 17",
+        "reading": "akit edkok ẽtqratad kotaḍ aṃu",
+        "source_pointer": "/LW 23 (Sardis)/17"
+      },
+      {
+        "source_row_label": "· 18",
+        "reading": "mitridaštas fẽtamνidν aks qiš",
+        "source_pointer": "/LW 23 (Sardis)/18"
+      },
+      {
+        "source_row_label": "· 19",
+        "reading": "ẽmν ẽtamν uν f̣awcνasoḍ puk!in",
+        "source_pointer": "/LW 23 (Sardis)/19"
+      },
+      {
+        "source_row_label": "· 20",
+        "reading": "mẽtrid puk pidẽν qik int akmλi[š]",
+        "source_pointer": "/LW 23 (Sardis)/20"
+      },
+      {
+        "source_row_label": "· 21",
+        "reading": "qed ẽṇud ẽṭaṃν? ụν akad artimus",
+        "source_pointer": "/LW 23 (Sardis)/21"
+      },
+      {
+        "source_row_label": "· 22",
+        "reading": "piferst",
+        "source_pointer": "/LW 23 (Sardis)/22"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:259f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:64",
+    "source_document_id": "64",
+    "source_catalog_label": "LW 24 (Sardis)",
+    "source_response_groups": [
+      "LW 24 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 24 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ãnτẽt mitridaštas mitra[tališ]",
+        "source_pointer": "/LW 24 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "kawes nak amu katošν faow",
+        "source_pointer": "/LW 24 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "akit nãqid šerliš šrmliš",
+        "source_pointer": "/LW 24 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "amu fadifil pukτad amudãν",
+        "source_pointer": "/LW 24 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "faḳ[.]ṇal pukmλad amu pitocν",
+        "source_pointer": "/LW 24 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "pidν qedkmλ aλad fẽtamνidν",
+        "source_pointer": "/LW 24 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "akmλiš qiš citollad pitaad",
+        "source_pointer": "/LW 24 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "pukmλiš fakaršed qik pukmλa[d]",
+        "source_pointer": "/LW 24 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "fapuwerftaλ pukmλit pašνsakνãkid",
+        "source_pointer": "/LW 24 (Sardis)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "niwislλ qelλk puk",
+        "source_pointer": "/LW 24 (Sardis)/10"
+      },
+      {
+        "source_row_label": "· 11",
+        "reading": "mẽtlid puk pidẽν qik int",
+        "source_pointer": "/LW 24 (Sardis)/11"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "fakmλiṭ aṛtimus ipsimšiš",
+        "source_pointer": "/LW 24 (Sardis)/12"
+      },
+      {
+        "source_row_label": "· 13",
+        "reading": "katšarlokid pλ pilλk arlilλ",
+        "source_pointer": "/LW 24 (Sardis)/13"
+      },
+      {
+        "source_row_label": "· 14",
+        "reading": "qiraλ artimuλkin ẽtweršn",
+        "source_pointer": "/LW 24 (Sardis)/14"
+      },
+      {
+        "source_row_label": "· 15",
+        "reading": "šarokak nikumẽk šawẽnt nik",
+        "source_pointer": "/LW 24 (Sardis)/15"
+      },
+      {
+        "source_row_label": "· 16",
+        "reading": "piš nik pil sfẽniš šerlik šrmliṣ̌",
+        "source_pointer": "/LW 24 (Sardis)/16"
+      },
+      {
+        "source_row_label": "· 17",
+        "reading": "ãnτẽt nak amu mitridaštaλs",
+        "source_pointer": "/LW 24 (Sardis)/17"
+      },
+      {
+        "source_row_label": "· 18",
+        "reading": "katošν faow akit amu nãqid",
+        "source_pointer": "/LW 24 (Sardis)/18"
+      },
+      {
+        "source_row_label": "· 19",
+        "reading": "fasfẽnu nak aaraν nak pirak",
+        "source_pointer": "/LW 24 (Sardis)/19"
+      },
+      {
+        "source_row_label": "· 20",
+        "reading": "[n]ak dẽtν ẽmν akat amu mitridaš[taλ]",
+        "source_pointer": "/LW 24 (Sardis)/20"
+      },
+      {
+        "source_row_label": "· 21",
+        "reading": "[ka]weλ kantoru šawwasτal akmλ̣",
+        "source_pointer": "/LW 24 (Sardis)/21"
+      },
+      {
+        "source_row_label": "· 22",
+        "reading": "[....] ṇid qišk dẽt ifrliš mitridašta[.]",
+        "source_pointer": "/LW 24 (Sardis)/22"
+      },
+      {
+        "source_row_label": "· 23",
+        "reading": "[...(~15).. p]ịṭạḍ mitridaštas [",
+        "source_pointer": "/LW 24 (Sardis)/23"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:260f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:65",
+    "source_document_id": "65",
+    "source_catalog_label": "LW 25 (Sardis)",
+    "source_response_groups": [
+      "LW 25 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 25 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-l]iṣ̌ ṭạ[-",
+        "source_pointer": "/LW 25 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "kat]owališ man[eliš",
+        "source_pointer": "/LW 25 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "k]aroliš tiwd[ališ",
+        "source_pointer": "/LW 25 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "k]aroliš ma[neliš",
+        "source_pointer": "/LW 25 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "ar]timuliš [",
+        "source_pointer": "/LW 25 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "-l]ịṣ̌ ṃ[aneliš",
+        "source_pointer": "/LW 25 (Sardis)/6"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:261"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:66",
+    "source_document_id": "66",
+    "source_catalog_label": "LW 26 (Sardis)",
+    "source_response_groups": [
+      "LW 26 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 26 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "es šadmẽs eṣ̌k mrud alikrelịd kaṛol[id] anlalik atraṣṭ[alid]",
+        "source_pointer": "/LW 26 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ḳạwes laṃẽtruliš qiš ạḷịkamsok piliš [ti]wḍališ atalid a[kit]",
+        "source_pointer": "/LW 26 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "[ešλ š]admẽλ puk ešλ mruλ puk ešνaν mastãν qiš fẽṇ[šλipid]",
+        "source_pointer": "/LW 26 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "] ḷạṃẽtrus …. ša[dmẽ]λ ạrṭimuk aṣṗluwaṣ wis[-",
+        "source_pointer": "/LW 26 (Sardis)/4"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:261f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:67",
+    "source_document_id": "67",
+    "source_catalog_label": "LW 27 (Sardis)",
+    "source_response_groups": [
+      "LW 27 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 27 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "(-)]ẹ̃rploc̣imλ",
+        "source_pointer": "/LW 27 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "-]ịl karokit ẽnḍiplint",
+        "source_pointer": "/LW 27 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "-]ocν irạν cuλdalẽλ taạcdaν pimirs sfardak",
+        "source_pointer": "/LW 27 (Sardis)/3"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:262"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:68",
+    "source_document_id": "68",
+    "source_catalog_label": "LW 28 (Sardis)",
+    "source_response_groups": [
+      "LW 28 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 28 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]f̣telliš kawes inl",
+        "source_pointer": "/LW 28 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:262"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:69",
+    "source_document_id": "69",
+    "source_catalog_label": "LW 29 (Sardis)",
+    "source_response_groups": [
+      "LW 29 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 29 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]ud",
+        "source_pointer": "/LW 29 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "-]ṛe",
+        "source_pointer": "/LW 29 (Sardis)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:262"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:99",
+    "source_document_id": "99",
+    "source_catalog_label": "LW 3 (Sardis)",
+    "source_response_groups": [
+      "LW 3 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 3 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "prwãν III II aλikšãntruλ dãν ess wãnas ešk mrud",
+        "source_pointer": "/LW 3 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "atrastalid timlelid ardẽc alarms fadol wstas",
+        "source_pointer": "/LW 3 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "ak qis qišred fakas šilawad fat nid ẽnšλipid akmλ",
+        "source_pointer": "/LW 3 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "lews šarẽtas qišit fẽnšλipid ešλ wãnaλ",
+        "source_pointer": "/LW 3 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "puk ešλ̣ mruλ fakmλ lews wcpaqẽnt",
+        "source_pointer": "/LW 3 (Sardis)/5"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:251"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:10",
+    "source_document_id": "10",
+    "source_catalog_label": "LW 30 (Sardis)",
+    "source_response_groups": [
+      "LW 30 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 30 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "tịtisin : ẽmν : tisarḍν : fapil",
+        "source_pointer": "/LW 30 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ataλ : kitwaλ",
+        "source_pointer": "/LW 30 (Sardis)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:262"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:11",
+    "source_document_id": "11",
+    "source_catalog_label": "LW 31 (Sardis)",
+    "source_response_groups": [
+      "LW 31 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 31 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "sasạ",
+        "source_pointer": "/LW 31 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:263"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:12",
+    "source_document_id": "12",
+    "source_catalog_label": "LW 32 (Sardis)",
+    "source_response_groups": [
+      "LW 32 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 32 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]raluliṣ̌ kardal",
+        "source_pointer": "/LW 32 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:263"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:70",
+    "source_document_id": "70",
+    "source_catalog_label": "LW 33 (Sardis)",
+    "source_response_groups": [
+      "LW 33 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 33 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "miwad",
+        "source_pointer": "/LW 33 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:263"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:71",
+    "source_document_id": "71",
+    "source_catalog_label": "LW 34 (Sardis)",
+    "source_response_groups": [
+      "LW 34 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 34 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "eg",
+        "source_pointer": "/LW 34 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:263"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:72",
+    "source_document_id": "72",
+    "source_catalog_label": "LW 35 (Sardis)",
+    "source_response_groups": [
+      "LW 35 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 35 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "cm",
+        "source_pointer": "/LW 35 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:263"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:73",
+    "source_document_id": "73",
+    "source_catalog_label": "LW 36 (Sardis)",
+    "source_response_groups": [
+      "LW 36 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 36 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "x̣ru",
+        "source_pointer": "/LW 36 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:263"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:74",
+    "source_document_id": "74",
+    "source_catalog_label": "LW 37 (Sardis)",
+    "source_response_groups": [
+      "LW 37 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 37 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "art f",
+        "source_pointer": "/LW 37 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:263"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:75",
+    "source_document_id": "75",
+    "source_catalog_label": "LW 38 (Sardis)",
+    "source_response_groups": [
+      "LW 38 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 38 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ly",
+        "source_pointer": "/LW 38 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:263"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:76",
+    "source_document_id": "76",
+    "source_catalog_label": "LW 39 (Sardis)",
+    "source_response_groups": [
+      "LW 39 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 39 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "tiw",
+        "source_pointer": "/LW 39 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:263"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:103",
+    "source_document_id": "103",
+    "source_catalog_label": "LW 40 (Pergamum)",
+    "source_response_groups": [
+      "LW 40 (Pergamum)"
+    ],
+    "source_headings": [
+      "· LW 40 (Pergamum)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ẹšν̣ tasẹ̃ν̣ f̣?acνil",
+        "source_pointer": "/LW 40 (Pergamum)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "partaraṣ maλiλ",
+        "source_pointer": "/LW 40 (Pergamum)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:264 / Payne & Sasseville 2016a"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:97",
+    "source_document_id": "97",
+    "source_catalog_label": "LW 41 (Middle Kaystros)",
+    "source_response_groups": [
+      "LW 41 (Middle Kaystros)"
+    ],
+    "source_headings": [
+      "· LW 41 (Middle Kaystros)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "porlλ X III III   arta[ksašš]//aλ",
+        "source_pointer": "/LW 41 (Middle Kaystros)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "qaλmλuλ dãν",
+        "source_pointer": "/LW 41 (Middle Kaystros)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "oraλ kanlalaλ karọ[lλ]",
+        "source_pointer": "/LW 41 (Middle Kaystros)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "trolλ wra[t]uλ artimulλ",
+        "source_pointer": "/LW 41 (Middle Kaystros)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "ešν tacn pantakasa[s]",
+        "source_pointer": "/LW 41 (Middle Kaystros)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "aprnališ kãnak piḷ[iš]",
+        "source_pointer": "/LW 41 (Middle Kaystros)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "[.]ṛetk ạṣaν qaλẹṃ[",
+        "source_pointer": "/LW 41 (Middle Kaystros)/7"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:264"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:82",
+    "source_document_id": "82",
+    "source_catalog_label": "LW 42 (Emre; Maionia)",
+    "source_response_groups": [
+      "LW 42 (Emre; Maionia)"
+    ],
+    "source_headings": [
+      "· LW 42 (Emre; Maionia)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "porlλ XI ora[λ",
+        "source_pointer": "/LW 42 (Emre; Maionia)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "q̇aλmλuλ dãν eš[-",
+        "source_pointer": "/LW 42 (Emre; Maionia)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "[ka]ros artimal[iš",
+        "source_pointer": "/LW 42 (Emre; Maionia)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "[k]ạ̃nak akmλ [",
+        "source_pointer": "/LW 42 (Emre; Maionia)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "puλk pilk sfẽnaν",
+        "source_pointer": "/LW 42 (Emre; Maionia)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "eškis lapta qiš fẽn[šλipid",
+        "source_pointer": "/LW 42 (Emre; Maionia)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "[...... -]wad ak ẽnaλ̣ [",
+        "source_pointer": "/LW 42 (Emre; Maionia)/7"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:264"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:83",
+    "source_document_id": "83",
+    "source_catalog_label": "LW 43 (Magnesia on Mt. Sipylus)",
+    "source_response_groups": [
+      "LW 43 (Magnesia on Mt. Sipylus)"
+    ],
+    "source_headings": [
+      "· LW 43 (Magnesia on Mt. Sipylus)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "prwãν II dãν",
+        "source_pointer": "/LW 43 (Magnesia on Mt. Sipylus)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "oraλ kanlelaλ",
+        "source_pointer": "/LW 43 (Magnesia on Mt. Sipylus)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "wartraḷạλ ešν tacν",
+        "source_pointer": "/LW 43 (Magnesia on Mt. Sipylus)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "manes pẽtowliš",
+        "source_pointer": "/LW 43 (Magnesia on Mt. Sipylus)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "facunil cẽqraḍ",
+        "source_pointer": "/LW 43 (Magnesia on Mt. Sipylus)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "[q]aλidẽnl paṛ[..]",
+        "source_pointer": "/LW 43 (Magnesia on Mt. Sipylus)/6"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:265"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:84",
+    "source_document_id": "84",
+    "source_catalog_label": "LW 44 (Magnesia on Mt. Sipylus), 1st column",
+    "source_response_groups": [
+      "LW 44 (Magnesia on Mt. Sipylus), 1st column"
+    ],
+    "source_headings": [
+      "· LW 44 (Magnesia on Mt. Sipylus) 1st column"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[...(18)... (-)]ẽtsa[(-) ...(8)...]",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "trišmν adẽnν šatisụm c̣ak trfnod",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "lawl arsmawad [...(11)...] ạšnãntol",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "irẽλ k[- .. (-)]ar[- ...(11)...] qλ ḍakrod",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "ciwad arṃird[(-) ...(9)... -]tid fatroš",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "eš[- ...(12 )... (-)]š[(-) .. (-)]šedš fedtros",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "ẽminaš [...(18)... -]τ̣ol",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "fara[- ...(23)...]",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "le[- ...(28)... -]nod",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "a[- ...(30)...]",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/10"
+      },
+      {
+        "source_row_label": "· 11",
+        "reading": "ed[- ...(24)... -]lọkτ",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/11"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "etlaλ [.......] fẽtwinteλ asturkos",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/12"
+      },
+      {
+        "source_row_label": "· 13",
+        "reading": "edšin šuṗạ?ṭaν iṣ̌tamin nid fatrod",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/13"
+      },
+      {
+        "source_row_label": "· 14",
+        "reading": "edtin kumloḷλ p[.]ṛšfantus fašνọ[d]",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/14"
+      },
+      {
+        "source_row_label": "· 15",
+        "reading": "ẽnν patnẽdš fatinẽd tẽtr[o.]",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/15"
+      },
+      {
+        "source_row_label": "· 16",
+        "reading": "qiš fasaknakil pukt aλẽλ̣?[",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/16"
+      },
+      {
+        "source_row_label": "· 17",
+        "reading": "edλtin niwiswa ciwš f̣[..]",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/17"
+      },
+      {
+        "source_row_label": "· 18",
+        "reading": "dumνum ars[",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 1st column/18"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:265"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:85",
+    "source_document_id": "85",
+    "source_catalog_label": "LW 44 (Magnesia on Mt. Sipylus), 2nd column",
+    "source_response_groups": [
+      "LW 44 (Magnesia on Mt. Sipylus), 2nd column"
+    ],
+    "source_headings": [
+      "· LW 44 (Magnesia on Mt. Sipylus) 2nd column"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 3",
+        "reading": "šok[-",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 2nd column/1"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "qiro[-",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 2nd column/2"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "wolk[-",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 2nd column/3"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "qiš [",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 2nd column/4"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "šiwa[-",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 2nd column/5"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "prafr[-",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 2nd column/6"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "fatrol [",
+        "source_pointer": "/LW 44 (Magnesia on Mt. Sipylus), 2nd column/7"
+      }
+    ],
+    "references": [
+      "See LW 44, 1st column"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:87",
+    "source_document_id": "87",
+    "source_catalog_label": "LW 45 (Kogamos valley)",
+    "source_response_groups": [
+      "LW 45 (Kogamos valley)"
+    ],
+    "source_headings": [
+      "· LW 45 (Kogamos valley)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[   ]",
+        "source_pointer": "/LW 45 (Kogamos valley)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "-]s fẽntrol",
+        "source_pointer": "/LW 45 (Kogamos valley)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "(-)]ạsolλ fa!š?aν",
+        "source_pointer": "/LW 45 (Kogamos valley)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "[r]ạwal fakmλ sanẽν inal",
+        "source_pointer": "/LW 45 (Kogamos valley)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "akit ešλ taacλ qiš fẽnšλipid",
+        "source_pointer": "/LW 45 (Kogamos valley)/5"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:266"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:86",
+    "source_document_id": "86",
+    "source_catalog_label": "LW 46 (Magnesia on Mt. Sipylus)",
+    "source_response_groups": [
+      "LW 46 (Magnesia on Mt. Sipylus)"
+    ],
+    "source_headings": [
+      "· LW 46 (Magnesia on Mt. Sipylus)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[..]=k šipad sak[....]λad dẽt nid",
+        "source_pointer": "/LW 46 (Magnesia on Mt. Sipylus)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "fašapid qi[š] pidẽν fratinid",
+        "source_pointer": "/LW 46 (Magnesia on Mt. Sipylus)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "puwas fišfid [.]št akτin ašraν",
+        "source_pointer": "/LW 46 (Magnesia on Mt. Sipylus)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "artimuk šawa[",
+        "source_pointer": "/LW 46 (Magnesia on Mt. Sipylus)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "tanlaλ p[",
+        "source_pointer": "/LW 46 (Magnesia on Mt. Sipylus)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "puk[i]t [",
+        "source_pointer": "/LW 46 (Magnesia on Mt. Sipylus)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "[c]iward aka[d",
+        "source_pointer": "/LW 46 (Magnesia on Mt. Sipylus)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "wiši[",
+        "source_pointer": "/LW 46 (Magnesia on Mt. Sipylus)/8"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:266"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:81",
+    "source_document_id": "81",
+    "source_catalog_label": "LW 47 (Middle Kaystros)",
+    "source_response_groups": [
+      "LW 47 (Middle Kaystros)"
+    ],
+    "source_headings": [
+      "· LW 47 (Middle Kaystros)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[..... (-)]qa[(-) ...(15)... (-)]a[(-) ...(20)... -]a",
+        "source_pointer": "/LW 47 (Middle Kaystros)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "prafraν ḷạḍụẉad inṭ istc̣ν tiṇ[.]ν τaλaḍ fašitamra[..]",
+        "source_pointer": "/LW 47 (Middle Kaystros)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:266"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:20",
+    "source_document_id": "20",
+    "source_catalog_label": "LW 48 (Ephesus)",
+    "source_response_groups": [
+      "LW 48 (Ephesus)"
+    ],
+    "source_headings": [
+      "· LW 48 (Ephesus)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "inl",
+        "source_pointer": "/LW 48 (Ephesus)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:266"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:9",
+    "source_document_id": "9",
+    "source_catalog_label": "LW 49 (Silsilis; High Egypt)",
+    "source_response_groups": [
+      "LW 49 (Silsilis; High Egypt)"
+    ],
+    "source_headings": [
+      "· LW 49 (Silsilis; High Egypt)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "lẽkq̇ug ị",
+        "source_pointer": "/LW 49 (Silsilis; High Egypt)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "alusmretlišul",
+        "source_pointer": "/LW 49 (Silsilis; High Egypt)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:266"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:45",
+    "source_document_id": "45",
+    "source_catalog_label": "LW 4a (Sardis)",
+    "source_response_groups": [
+      "LW 4a (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 4a (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "es asinas maneliš aluliš akmλt qiš fẽnšλipid",
+        "source_pointer": "/LW 4a (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "puk ešνaν anlolaν puk",
+        "source_pointer": "/LW 4a (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "ešλ karolλ fakmλ! sãntas",
+        "source_pointer": "/LW 4a (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "kuf̣awk mariwdak",
+        "source_pointer": "/LW 4a (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "ẽnšλip[id]",
+        "source_pointer": "/LW 4a (Sardis)/5"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:252"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:46",
+    "source_document_id": "46",
+    "source_catalog_label": "LW 4b (Sardis)",
+    "source_response_groups": [
+      "LW 4b (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 4b (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "es wãnas maneliš",
+        "source_pointer": "/LW 4b (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "aluliš akmλt",
+        "source_pointer": "/LW 4b (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "qiš fẽnšλipid",
+        "source_pointer": "/LW 4b (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "fakmλt qλdãns",
+        "source_pointer": "/LW 4b (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "artymuk wcpaqẽnt",
+        "source_pointer": "/LW 4b (Sardis)/5"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:252",
+      "See LW 4a"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:47",
+    "source_document_id": "47",
+    "source_catalog_label": "LW 5 (Sardis)",
+    "source_response_groups": [
+      "LW 5 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 5 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ess wãnas atališ tiwdališ tarwτalliš",
+        "source_pointer": "/LW 5 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "akin kud kaτaλreš ak tesastid šiwãmlid",
+        "source_pointer": "/LW 5 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "mλola srfastid mẽλalid mλola ak nãqiš",
+        "source_pointer": "/LW 5 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "ẽmλ kãnaλ kileλ buk ẽminaν esaν citalad",
+        "source_pointer": "/LW 5 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "fadint fakmλ artimus qiraλ qelλk wcpaqẽnt",
+        "source_pointer": "/LW 5 (Sardis)/5"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:252"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:100",
+    "source_document_id": "100",
+    "source_catalog_label": "LW 50 (Middle Kaystros)",
+    "source_response_groups": [
+      "LW 50 (Middle Kaystros)"
+    ],
+    "source_headings": [
+      "· LW 50 (Middle Kaystros)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "foṛlλ XII oraλ kanlelaλ",
+        "source_pointer": "/LW 50 (Middle Kaystros)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "[war]ṭralaλ aλikšantruλ",
+        "source_pointer": "/LW 50 (Middle Kaystros)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "[q]aλmλuλ dãν ešn taacn",
+        "source_pointer": "/LW 50 (Middle Kaystros)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "timles prdunliš fẽncal",
+        "source_pointer": "/LW 50 (Middle Kaystros)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "lefstλ faτaν rawal akmλ",
+        "source_pointer": "/LW 50 (Middle Kaystros)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "ḳ?asaãν pill akmλ lefs",
+        "source_pointer": "/LW 50 (Middle Kaystros)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "šarẽtas",
+        "source_pointer": "/LW 50 (Middle Kaystros)/7"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:267"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:30",
+    "source_document_id": "30",
+    "source_catalog_label": "LW 51 (Sardis)",
+    "source_response_groups": [
+      "LW 51 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 51 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "pakiwalid",
+        "source_pointer": "/LW 51 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "šamlid",
+        "source_pointer": "/LW 51 (Sardis)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:267"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:3",
+    "source_document_id": "3",
+    "source_catalog_label": "LW 52 (Ephesus)",
+    "source_response_groups": [
+      "LW 52 (Ephesus)"
+    ],
+    "source_headings": [
+      "· LW 52 (Ephesus)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "walwet",
+        "source_pointer": "/LW 52 (Ephesus)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:267"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:88",
+    "source_document_id": "88",
+    "source_catalog_label": "LW 53 (High Hermos)",
+    "source_response_groups": [
+      "LW 53 (High Hermos)"
+    ],
+    "source_headings": [
+      "· LW 53 (High Hermos)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ntes nts (?)",
+        "source_pointer": "/LW 53 (High Hermos)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:267"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:31",
+    "source_document_id": "31",
+    "source_catalog_label": "LW 54 (Sardis)",
+    "source_response_groups": [
+      "LW 54 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 54 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[e]š anlola atrastal",
+        "source_pointer": "/LW 54 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "sakardal akad qiš fišqãnt",
+        "source_pointer": "/LW 54 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "pukas fẽdavoλt fakτad",
+        "source_pointer": "/LW 54 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "kaprdokid nãmλ qig? dẽt",
+        "source_pointer": "/LW 54 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "nãkmλ [...]clλ akad",
+        "source_pointer": "/LW 54 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "artimuλ ipsimlλ fẽncãν",
+        "source_pointer": "/LW 54 (Sardis)/6"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:268"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:24",
+    "source_document_id": "24",
+    "source_catalog_label": "LW 55",
+    "source_response_groups": [
+      "LW 55"
+    ],
+    "source_headings": [
+      "· LW 55"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "manelim",
+        "source_pointer": "/LW 55/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:268"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:25",
+    "source_document_id": "25",
+    "source_catalog_label": "LW 56",
+    "source_response_groups": [
+      "LW 56"
+    ],
+    "source_headings": [
+      "· LW 56"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "manelim",
+        "source_pointer": "/LW 56/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:268"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:32",
+    "source_document_id": "32",
+    "source_catalog_label": "LW 57 (Sardis)",
+    "source_response_groups": [
+      "LW 57 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 57 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]ṛlam[-",
+        "source_pointer": "/LW 57 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:268"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:5",
+    "source_document_id": "5",
+    "source_catalog_label": "LW 58 (Sardis)",
+    "source_response_groups": [
+      "LW 58 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 58 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "]eṣiwsiš [ /",
+        "source_pointer": "/LW 58 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:268"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:77",
+    "source_document_id": "77",
+    "source_catalog_label": "LW 59 (Sardis)",
+    "source_response_groups": [
+      "LW 59 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 59 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "porlλ ḍ ọṛ[aλ",
+        "source_pointer": "/LW 59 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "](?) qạλ̣ṃλ̣[uλ",
+        "source_pointer": "/LW 59 (Sardis)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:269"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:48",
+    "source_document_id": "48",
+    "source_catalog_label": "LW 6 (Sardis)",
+    "source_response_groups": [
+      "LW 6 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 6 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ess wãn!as šiwãmliš armãwliš",
+        "source_pointer": "/LW 6 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "akit qiš esλ wãnaλ",
+        "source_pointer": "/LW 6 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "puk ešνaν antolaν puk ešνaν",
+        "source_pointer": "/LW 6 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "laqrišaν fẽnšλipid",
+        "source_pointer": "/LW 6 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "fak=aν wissiš niwisscν",
+        "source_pointer": "/LW 6 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "warptokid",
+        "source_pointer": "/LW 6 (Sardis)/6"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:252"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:14",
+    "source_document_id": "14",
+    "source_catalog_label": "LW 60 (Sardis)",
+    "source_response_groups": [
+      "LW 60 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 60 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ešλ̣ [",
+        "source_pointer": "/LW 60 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "fa[-",
+        "source_pointer": "/LW 60 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "fa[-",
+        "source_pointer": "/LW 60 (Sardis)/3"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:269"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:78",
+    "source_document_id": "78",
+    "source_catalog_label": "LW 61 (Sardis)",
+    "source_response_groups": [
+      "LW 61 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 61 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]wališ akaν qị[š",
+        "source_pointer": "/LW 61 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:269"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:110",
+    "source_document_id": "110",
+    "source_catalog_label": "LW 62 (Middle Kaystros)",
+    "source_response_groups": [
+      "LW 62 (Middle Kaystros)"
+    ],
+    "source_headings": [
+      "· LW 62 (Middle Kaystros)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[..]. ṛạ.ạ..ạf̣ạλ̣ạλ̣ .?ḍạc̣?λ̣ẹḍ .[",
+        "source_pointer": "/LW 62 (Middle Kaystros)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ḷịṭạs dẽt qaλmuk warḍ[-",
+        "source_pointer": "/LW 62 (Middle Kaystros)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "qaλdãnlid ak šapλaλ qirạ[-",
+        "source_pointer": "/LW 62 (Middle Kaystros)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "ṭaλ dãν dẽt litas qira[-",
+        "source_pointer": "/LW 62 (Middle Kaystros)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "sạrṭecν murṣẹcν aτλẹdmas [",
+        "source_pointer": "/LW 62 (Middle Kaystros)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "ešn qaλdãl ãn ciwlad",
+        "source_pointer": "/LW 62 (Middle Kaystros)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "q[i]š šil[a]wa[d] ạkmλ̣ q̇ạ[λdã-",
+        "source_pointer": "/LW 62 (Middle Kaystros)/7"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:151 / Poetto 2006a"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:6",
+    "source_document_id": "6",
+    "source_catalog_label": "LW 63 (Sardis)",
+    "source_response_groups": [
+      "LW 63 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 63 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]liš",
+        "source_pointer": "/LW 63 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "(-)]šimạ.[(-)",
+        "source_pointer": "/LW 63 (Sardis)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:151"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:21",
+    "source_document_id": "21",
+    "source_catalog_label": "LW 64 (Sardis)",
+    "source_response_groups": [
+      "LW 64 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 64 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]kãλ : lapλ : ẉṛịt[-",
+        "source_pointer": "/LW 64 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "τakṃ[-",
+        "source_pointer": "/LW 64 (Sardis)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:152"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:104",
+    "source_document_id": "104",
+    "source_catalog_label": "LW 65 (Sardis)",
+    "source_response_groups": [
+      "LW 65 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 65 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "qišm [",
+        "source_pointer": "/LW 65 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:152"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:43",
+    "source_document_id": "43",
+    "source_catalog_label": "LW 66 (Sardis)",
+    "source_response_groups": [
+      "LW 66 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 66 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]ạliš aṭ[-",
+        "source_pointer": "/LW 66 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "(=)]ḳ arṭ[-",
+        "source_pointer": "/LW 66 (Sardis)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:152"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:2",
+    "source_document_id": "2",
+    "source_catalog_label": "LW 67 (Sardis)",
+    "source_response_groups": [
+      "LW 67 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 67 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "we",
+        "source_pointer": "/LW 67 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:152"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:33",
+    "source_document_id": "33",
+    "source_catalog_label": "LW 68 (Sardis)",
+    "source_response_groups": [
+      "LW 68 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 68 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "]. kụn...[(-)",
+        "source_pointer": "/LW 68 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:152"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:4",
+    "source_document_id": "4",
+    "source_catalog_label": "LW 69 (Colophon)",
+    "source_response_groups": [
+      "LW 69 (Colophon)"
+    ],
+    "source_headings": [
+      "· LW 69 (Colophon) (Weidauer Nr. 115)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[k]ụkalịṃ ",
+        "source_pointer": "/LW 69 (Colophon)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:152"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:49",
+    "source_document_id": "49",
+    "source_catalog_label": "LW 7 (Sardis)",
+    "source_response_groups": [
+      "LW 7 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 7 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ess wãnas eš[k] laqriša",
+        "source_pointer": "/LW 7 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ešk qelad padafụnidν",
+        "source_pointer": "/LW 7 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "akit nãqiš ešλ wãnaλ pụ[k]",
+        "source_pointer": "/LW 7 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "laqrišaν puk qelaλ",
+        "source_pointer": "/LW 7 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "fẽnšλipid fakaν wisiš",
+        "source_pointer": "/LW 7 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "niwiscν warptokid",
+        "source_pointer": "/LW 7 (Sardis)/6"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:253"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:79",
+    "source_document_id": "79",
+    "source_catalog_label": "LW 70 (Sardis)",
+    "source_response_groups": [
+      "LW 70 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 70 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "es ṣ̌ạdmẽs ošk anlolạ [",
+        "source_pointer": "/LW 70 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ạṛ[tim]ul akit ešλ ṣ̌ạ[dmẽλ",
+        "source_pointer": "/LW 70 (Sardis)/2"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:153"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:91",
+    "source_document_id": "91",
+    "source_catalog_label": "LW 71 (Sardis)",
+    "source_response_groups": [
+      "LW 71 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 71 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "] s",
+        "source_pointer": "/LW 71 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "šer]ḷiš šrmlị[š",
+        "source_pointer": "/LW 71 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "] artaksạ.[",
+        "source_pointer": "/LW 71 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "]ẉãnaλ dã[ν",
+        "source_pointer": "/LW 71 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "]pišfat.[",
+        "source_pointer": "/LW 71 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "]¦ prulliṣ̌[",
+        "source_pointer": "/LW 71 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "ka]rọliš aλạ[",
+        "source_pointer": "/LW 71 (Sardis)/7"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:153"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:7",
+    "source_document_id": "7",
+    "source_catalog_label": "LW 72 (Sardis)",
+    "source_response_groups": [
+      "LW 72 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 72 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]ṣ̌ kuwạẉ[(-)",
+        "source_pointer": "/LW 72 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:153"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:111",
+    "source_document_id": "111",
+    "source_catalog_label": "LW 73 (Kerč; Chersonesus Taurica)",
+    "source_response_groups": [
+      "LW 73 (Kerč; Chersonesus Taurica)"
+    ],
+    "source_headings": [
+      "· LW 73 (Kerč; Chersonesus Taurica)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "manelim",
+        "source_pointer": "/LW 73 (Kerč; Chersonesus Taurica)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:154f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:38",
+    "source_document_id": "38",
+    "source_catalog_label": "LW 74",
+    "source_response_groups": [
+      "LW 74"
+    ],
+    "source_headings": [
+      "· LW 74"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "es šadmẽs : mitratališ",
+        "source_pointer": "/LW 74/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:154f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:39",
+    "source_document_id": "39",
+    "source_catalog_label": "LW 75",
+    "source_response_groups": [
+      "LW 75"
+    ],
+    "source_headings": [
+      "· LW 75",
+      "· 2"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "šiwãmlim ateliš",
+        "source_pointer": "/LW 75/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:154f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:40",
+    "source_document_id": "40",
+    "source_catalog_label": "LW 76",
+    "source_response_groups": [
+      "LW 76"
+    ],
+    "source_headings": [
+      "· LW 76"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "tafulim",
+        "source_pointer": "/LW 76/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:154f.",
+      "Gusmani 1980a:154"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:41",
+    "source_document_id": "41",
+    "source_catalog_label": "LW 77",
+    "source_response_groups": [
+      "LW 77"
+    ],
+    "source_headings": [
+      "· LW 77"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "psadwolim",
+        "source_pointer": "/LW 77/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:154f.",
+      "Gusmani 1980a:154"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:42",
+    "source_document_id": "42",
+    "source_catalog_label": "LW 78",
+    "source_response_groups": [
+      "LW 78"
+    ],
+    "source_headings": [
+      "· LW 78"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "nanas",
+        "source_pointer": "/LW 78/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:154"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:112",
+    "source_document_id": "112",
+    "source_catalog_label": "LW 79 (Aphrodisias)",
+    "source_response_groups": [
+      "LW 79 (Aphrodisias)"
+    ],
+    "source_headings": [
+      "· LW 79 (Aphrodisias)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[    ]",
+        "source_pointer": "/LW 79 (Aphrodisias)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "s]ãnṭaλ [",
+        "source_pointer": "/LW 79 (Aphrodisias)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "-]talid [",
+        "source_pointer": "/LW 79 (Aphrodisias)/3"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:154"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:89",
+    "source_document_id": "89",
+    "source_catalog_label": "LW 8 (Sardis)",
+    "source_response_groups": [
+      "LW 8 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 8 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ess wãnas ešk mrud eṣ̌",
+        "source_pointer": "/LW 8 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ḷaqrišk kudkit ešλ",
+        "source_pointer": "/LW 8 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "[wã]ṇạλ̣ pλtarwod aka[d]",
+        "source_pointer": "/LW 8 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "[   ]",
+        "source_pointer": "/LW 8 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "artapãnalid katowalik",
+        "source_pointer": "/LW 8 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "atras&lt;t&gt;alid akit nãqiš",
+        "source_pointer": "/LW 8 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "fẽnšλipid ešλ wãnaλ",
+        "source_pointer": "/LW 8 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "puk ešλ mruλ puk ešνaν",
+        "source_pointer": "/LW 8 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "laqrišaν kudkit",
+        "source_pointer": "/LW 8 (Sardis)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "ešλ wãnaλ pλtarwod",
+        "source_pointer": "/LW 8 (Sardis)/10"
+      },
+      {
+        "source_row_label": "· 11",
+        "reading": "fakaν wissiš niwiscν",
+        "source_pointer": "/LW 8 (Sardis)/11"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "warptokid",
+        "source_pointer": "/LW 8 (Sardis)/12"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:253"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:92",
+    "source_document_id": "92",
+    "source_catalog_label": "LW 80 (Sardis)",
+    "source_response_groups": [
+      "LW 80 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 80 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[a]ḷarms piš fatiṣ̌[?.]",
+        "source_pointer": "/LW 80 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "[.]aarcrs il amito[...]",
+        "source_pointer": "/LW 80 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "fakad τorsa ištro[.]",
+        "source_pointer": "/LW 80 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "pλkin ãn šawls dẽt[",
+        "source_pointer": "/LW 80 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "isqν ifẽniš tawsẽν m[",
+        "source_pointer": "/LW 80 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "fakmλit niqašlad if[.]",
+        "source_pointer": "/LW 80 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "akτas awladλ fasqν nsa[.]",
+        "source_pointer": "/LW 80 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "ẽnarn nãns kã!nš cẽnit kạ[",
+        "source_pointer": "/LW 80 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "kãnakaν ãn kimλad nãṇ[",
+        "source_pointer": "/LW 80 (Sardis)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "kotaν išfollad porfcν ạ[",
+        "source_pointer": "/LW 80 (Sardis)/10"
+      },
+      {
+        "source_row_label": "· 11",
+        "reading": "qrifrit qλ fakansfẽnal τa[",
+        "source_pointer": "/LW 80 (Sardis)/11"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "tẽmwaν tutrak pslẽν taadạ[λ",
+        "source_pointer": "/LW 80 (Sardis)/12"
+      },
+      {
+        "source_row_label": "· 13",
+        "reading": "fakmλ epad murwaad ešλ s[",
+        "source_pointer": "/LW 80 (Sardis)/13"
+      },
+      {
+        "source_row_label": "· 14",
+        "reading": "asfã!ν awladiš anã!tlλ ṭ[",
+        "source_pointer": "/LW 80 (Sardis)/14"
+      },
+      {
+        "source_row_label": "· 15",
+        "reading": "qicmλ šarištross pụ.[",
+        "source_pointer": "/LW 80 (Sardis)/15"
+      },
+      {
+        "source_row_label": "· 16",
+        "reading": "[..]ṭkas fašitawad ẽtqra[",
+        "source_pointer": "/LW 80 (Sardis)/16"
+      },
+      {
+        "source_row_label": "· 17",
+        "reading": "[...t]ạsod nakis qick iš[",
+        "source_pointer": "/LW 80 (Sardis)/17"
+      },
+      {
+        "source_row_label": "· 18",
+        "reading": "[...(8)...] paritod dụṃ[",
+        "source_pointer": "/LW 80 (Sardis)/18"
+      },
+      {
+        "source_row_label": "· 19",
+        "reading": "[...]ẽ[...",
+        "source_pointer": "/LW 80 (Sardis)/19"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:154f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:80",
+    "source_document_id": "80",
+    "source_catalog_label": "LW 81 (Sardis)",
+    "source_response_groups": [
+      "LW 81 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 81 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "padị[- ...... -]ḷ",
+        "source_pointer": "/LW 81 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:155"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:93",
+    "source_document_id": "93",
+    "source_catalog_label": "LW 82 (Sardis)",
+    "source_response_groups": [
+      "LW 82 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 82 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "]lmạ",
+        "source_pointer": "/LW 82 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:155"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:34",
+    "source_document_id": "34",
+    "source_catalog_label": "LW 83 (Sardis)",
+    "source_response_groups": [
+      "LW 83 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 83 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]ụḷị[š(?)",
+        "source_pointer": "/LW 83 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:155"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:35",
+    "source_document_id": "35",
+    "source_catalog_label": "LW 84 (Sardis)",
+    "source_response_groups": [
+      "LW 84 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 84 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]ụliṣ̌",
+        "source_pointer": "/LW 84 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:155"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:13",
+    "source_document_id": "13",
+    "source_catalog_label": "LW 85 (Sardis)",
+    "source_response_groups": [
+      "LW 85 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 85 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "wa",
+        "source_pointer": "/LW 85 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:156"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:105",
+    "source_document_id": "105",
+    "source_catalog_label": "LW 86 (Sardis)",
+    "source_response_groups": [
+      "LW 86 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 86 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]x̣ ka",
+        "source_pointer": "/LW 86 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:156"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:15",
+    "source_document_id": "15",
+    "source_catalog_label": "LW 87 (Sardis)",
+    "source_response_groups": [
+      "LW 87 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 87 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "(-)]mạ[(-)",
+        "source_pointer": "/LW 87 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:156"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:16",
+    "source_document_id": "16",
+    "source_catalog_label": "LW 88 (Sardis)",
+    "source_response_groups": [
+      "LW 88 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 88 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "pa",
+        "source_pointer": "/LW 88 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:156"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:17",
+    "source_document_id": "17",
+    "source_catalog_label": "LW 89 (Sardis)",
+    "source_response_groups": [
+      "LW 89 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 89 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "(-)]uk[(-)",
+        "source_pointer": "/LW 89 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:156"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:50",
+    "source_document_id": "50",
+    "source_catalog_label": "LW 9 (Sardis)",
+    "source_response_groups": [
+      "LW 9 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 9 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "III",
+        "source_pointer": "/LW 9 (Sardis)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ess wãnas kumliliš",
+        "source_pointer": "/LW 9 (Sardis)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "ateliš sam[...]wliš",
+        "source_pointer": "/LW 9 (Sardis)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "laqrišak",
+        "source_pointer": "/LW 9 (Sardis)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "aki[t] nãqiš",
+        "source_pointer": "/LW 9 (Sardis)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "fẽnšλ[ipid ešλ]",
+        "source_pointer": "/LW 9 (Sardis)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "wãnaλ pu[k ešνaν]",
+        "source_pointer": "/LW 9 (Sardis)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "laqriša[ν fakaν]",
+        "source_pointer": "/LW 9 (Sardis)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "[wiss]iš n[iwiscν]",
+        "source_pointer": "/LW 9 (Sardis)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "[warptokid]",
+        "source_pointer": "/LW 9 (Sardis)/10"
+      }
+    ],
+    "references": [
+      "Gusmani 1964a:253"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:36",
+    "source_document_id": "36",
+    "source_catalog_label": "LW 90 (Sardis)",
+    "source_response_groups": [
+      "LW 90 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 90 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "(-)]ṃạ[(-)",
+        "source_pointer": "/LW 90 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:156"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:44",
+    "source_document_id": "44",
+    "source_catalog_label": "LW 91 (Sardis)",
+    "source_response_groups": [
+      "LW 91 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 91 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ṗạ[-",
+        "source_pointer": "/LW 91 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:156"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:18",
+    "source_document_id": "18",
+    "source_catalog_label": "LW 92 (Sardis)",
+    "source_response_groups": [
+      "LW 92 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 92 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "(-)]ṃin[(-)",
+        "source_pointer": "/LW 92 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:156"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:106",
+    "source_document_id": "106",
+    "source_catalog_label": "LW 93 (Sardis)",
+    "source_response_groups": [
+      "LW 93 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 93 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "art",
+        "source_pointer": "/LW 93 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:156"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:37",
+    "source_document_id": "37",
+    "source_catalog_label": "LW 94 (Sardis)",
+    "source_response_groups": [
+      "LW 94 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 94 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "(-)].ạ.s[(-)",
+        "source_pointer": "/LW 94 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:156"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:113",
+    "source_document_id": "113",
+    "source_catalog_label": "LW 95",
+    "source_response_groups": [
+      "LW 95"
+    ],
+    "source_headings": [
+      "· LW 95"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "tetelim",
+        "source_pointer": "/LW 95/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:156"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:0",
+    "source_document_id": "0",
+    "source_catalog_label": "LW 96 (Bayraklı; near Smyrna)",
+    "source_response_groups": [
+      "LW 96 (Bayraklı; near Smyrna)"
+    ],
+    "source_headings": [
+      "· LW 96 (Bayraklı; near Smyrna)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "]wms",
+        "source_pointer": "/LW 96 (Bayraklı; near Smyrna)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:157"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:22",
+    "source_document_id": "22",
+    "source_catalog_label": "LW 96 (Bayraklı; near Smyrna)",
+    "source_response_groups": [
+      "LW 96 (Bayraklı; near Smyrna)"
+    ],
+    "source_headings": [
+      "· LW 97 (Bayraklı; near Smyrna)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "(-)]ụnaν̣ : es : sḍịx̣[-",
+        "source_pointer": "/LW 96 (Bayraklı; near Smyrna)/3"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:157"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:23",
+    "source_document_id": "23",
+    "source_catalog_label": "LW 96 (Bayraklı; near Smyrna)",
+    "source_response_groups": [
+      "LW 96 (Bayraklı; near Smyrna)"
+    ],
+    "source_headings": [
+      "· LW 98 (Bayraklı; near Smyrna)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "siḷ[ karol",
+        "source_pointer": "/LW 96 (Bayraklı; near Smyrna)/5"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ạṛ[ti]maḷk",
+        "source_pointer": "/LW 96 (Bayraklı; near Smyrna)/6"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:157"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:19",
+    "source_document_id": "19",
+    "source_catalog_label": "LW 99 (Sardis)",
+    "source_response_groups": [
+      "LW 99 (Sardis)"
+    ],
+    "source_headings": [
+      "· LW 99 (Sardis)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "-]ẉṛšiš piḷ",
+        "source_pointer": "/LW 99 (Sardis)/1"
+      }
+    ],
+    "references": [
+      "Gusmani 1980a:157"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:114",
+    "source_document_id": "114",
+    "source_catalog_label": "LW/N 110",
+    "source_response_groups": [
+      "LW/N 110"
+    ],
+    "source_headings": [
+      "· LW/N 110"
+    ],
+    "lines": [
+      {
+        "source_row_label": "·",
+        "reading": "πakπuwas",
+        "source_pointer": "/LW~1N 110/1"
+      }
+    ],
+    "references": [
+      "Poetto & Salvatori 1981a: 42f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:115",
+    "source_document_id": "115",
+    "source_catalog_label": "LW/N 111",
+    "source_response_groups": [
+      "LW/N 111"
+    ],
+    "source_headings": [
+      "· LW/N 111"
+    ],
+    "lines": [
+      {
+        "source_row_label": "·",
+        "reading": "qλdãnlim",
+        "source_pointer": "/LW~1N 111/1"
+      }
+    ],
+    "references": [
+      "Lemaire 1992a"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:116",
+    "source_document_id": "116",
+    "source_catalog_label": "LW/N 113 (Miletus)",
+    "source_response_groups": [
+      "LW/N 113 (Miletus)"
+    ],
+    "source_headings": [
+      "· LW/N 113 (Miletus)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "kusedus",
+        "source_pointer": "/LW~1N 113 (Miletus)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "puseduṣ?",
+        "source_pointer": "/LW~1N 113 (Miletus)/2"
+      }
+    ],
+    "references": [
+      "Adiego 1997:156f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:1",
+    "source_document_id": "1",
+    "source_catalog_label": "LW/N 114",
+    "source_response_groups": [
+      "LW/N 114"
+    ],
+    "source_headings": [
+      "· LW 114"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "kukalim",
+        "source_pointer": "/LW~1N 114/1"
+      }
+    ],
+    "references": [
+      "Browne 2000a"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:98",
+    "source_document_id": "98",
+    "source_catalog_label": "LW/N 115 (Lake Koloe)",
+    "source_response_groups": [
+      "LW/N 115 (Lake Koloe)"
+    ],
+    "source_headings": [
+      "· LW/N 115 (Lake Koloe)",
+      "· 11"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "porlλ X III III I    artaksaersaλ",
+        "source_pointer": "/LW~1N 115 (Lake Koloe)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "qaλmλuλ dãν rašakas",
+        "source_pointer": "/LW~1N 115 (Lake Koloe)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "satrapas ku!mẽd il fak",
+        "source_pointer": "/LW~1N 115 (Lake Koloe)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "mẽmulos kašuliš oḷl",
+        "source_pointer": "/LW~1N 115 (Lake Koloe)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "ṃiwλ̣ [..]naḷ [.]orliš koṗšiš",
+        "source_pointer": "/LW~1N 115 (Lake Koloe)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "paḍafuliš karoliš",
+        "source_pointer": "/LW~1N 115 (Lake Koloe)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": "šforšiš alịkreliš padafuliš",
+        "source_pointer": "/LW~1N 115 (Lake Koloe)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "kãnaṣ šodqλ̣τaḷ ak ḳiḳoṛšid",
+        "source_pointer": "/LW~1N 115 (Lake Koloe)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "a[..] eṣ̌λ šadmẽλ",
+        "source_pointer": "/LW~1N 115 (Lake Koloe)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "ak ṇ[ã]q̇iš fẽnšλipid ešλ",
+        "source_pointer": "/LW~1N 115 (Lake Koloe)/10"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "ạḷ[.]",
+        "source_pointer": "/LW~1N 115 (Lake Koloe)/12"
+      }
+    ],
+    "references": [
+      "Gusmani & Akkan 2004a"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:94",
+    "source_document_id": "94",
+    "source_catalog_label": "LW/N 116",
+    "source_response_groups": [
+      "LW/N 116"
+    ],
+    "source_headings": [
+      "· LW 116"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ifelim",
+        "source_pointer": "/LW~1N 116/1"
+      }
+    ],
+    "references": [
+      "Egetmeyer 2012a"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "lydian:ediana:117",
+    "source_document_id": "117",
+    "source_catalog_label": "LW/N 117",
+    "source_response_groups": [
+      "LW/N 117"
+    ],
+    "source_headings": [
+      "· LW/N 117 (Kelainai)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[   ]",
+        "source_pointer": "/LW~1N 117/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "(-)]x̣l [dawi]cil išṭạ[minlaν",
+        "source_pointer": "/LW~1N 117/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "-]nil ak eš ẽta[m",
+        "source_pointer": "/LW~1N 117/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "fawcν]asod p[uk",
+        "source_pointer": "/LW~1N 117/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "(-)]ix̣ix̣[(-)",
+        "source_pointer": "/LW~1N 117/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "(-)]wx̣x̣[(-)",
+        "source_pointer": "/LW~1N 117/6"
+      }
+    ],
+    "references": [
+      "Adiego & Ivantchik 2016a"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  }
+]

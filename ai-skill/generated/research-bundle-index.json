@@ -1,0 +1,71 @@
+{
+  "schema_version": "0.3.1",
+  "skill_version": "0.3.1",
+  "source_commit": "9c31014cca8da5d1072f8c6d33ab07bcfc86950e",
+  "evidence_fingerprint_sha256": "3fd922ea93544e504ccf20951de0729e7e4719d383eab1f32e1d643a6afec58d",
+  "canonical_repository": true,
+  "artifacts": [
+    {
+      "role": "current_status",
+      "path": "analysis/current-status.json",
+      "sha256": "0d0081c4bca602195c073e0fd634e89437ceb9612905821ad94cae0795a97e29",
+      "bytes": 1131
+    },
+    {
+      "role": "reference_records",
+      "path": "data/reference/records.json",
+      "sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "bytes": 152492
+    },
+    {
+      "role": "source_register",
+      "path": "research/source-register.json",
+      "sha256": "5e5b43347d15c74121e6837933b0b1a95e89f0136c0b4f8d38d0cef504460dd3",
+      "bytes": 495
+    },
+    {
+      "role": "rights_matrix",
+      "path": "DATA-LICENSE-MATRIX.md",
+      "sha256": "bde8c3a3e979dece5f15d11a2c9ceef0f303808f16267d1f9292d335ac1ce363",
+      "bytes": 694
+    },
+    {
+      "role": "rights_evidence",
+      "path": "research/rights-evidence.json",
+      "sha256": "ce6f4be255c3d2baa00ab36f095593475a290983df86bda4e77ed1e735cc92ca",
+      "bytes": 472
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE",
+      "sha256": "ee65a1ee34dce0279818ca24c3bcf6bbbb4a9d2e51fbde58db7a31d41bba8dfd",
+      "bytes": 598
+    },
+    {
+      "role": "third_party",
+      "path": "THIRD-PARTY-NOTICES.md",
+      "sha256": "76341c288bdae02976c4d1218f51365e3bc6514c59713d3133cb6d04ebc6f68e",
+      "bytes": 668
+    },
+    {
+      "role": "raw_source",
+      "path": "data/upstream/ediana/response.json",
+      "sha256": "f09395d8932696e82a20851e0048dce941e95e98ec50000ab4abe0a507894ef1",
+      "bytes": 839135
+    },
+    {
+      "role": "source_catalog",
+      "path": "data/upstream/ediana/catalog-fragment.html",
+      "sha256": "d384f00fe658d523c5abd2936c92a1f1ef257a8e1a14fe2825c7f747074d4deb",
+      "bytes": 6732
+    }
+  ],
+  "contract": {
+    "corpus_is_authoritative": true,
+    "missing_means_unknown": true,
+    "preserve_uncertainty": true,
+    "preserve_rights": true,
+    "preserve_source_independence": true,
+    "cross_corpus_equivalence_requires_explicit_evidence": true
+  }
+}
