@@ -21,6 +21,59 @@
       "access_state": "HTML_INSPECTED",
       "redistribution": "TITUS states prior permission required; no source text or page copied into repository",
       "dependency": "shared edition lineage"
+    },
+    {
+      "source_url": "https://sardisexpedition.org/en/artifacts/r2-240",
+      "checked_on": "2026-10-03",
+      "access_state": "CATALOG_INSPECTED_FOR_SOURCE_DISCOVERY; PROTECTED_CONTENT_NOT_IMPORTED",
+      "rights_url": "https://sardisexpedition.org/en/terms_and_conditions",
+      "redistribution": "Protected catalog text and images cannot be republished under the observed terms without applicable permission. Link only.",
+      "next_action": "Review catalog and linked editions directly; obtain applicable permission before importing protected material"
+    },
+    {
+      "source_url": "https://sardisexpedition.org/en/artifacts/r2-242",
+      "checked_on": "2026-10-03",
+      "access_state": "CATALOG_INSPECTED_FOR_SOURCE_DISCOVERY; PROTECTED_CONTENT_NOT_IMPORTED",
+      "rights_url": "https://sardisexpedition.org/en/terms_and_conditions",
+      "redistribution": "Protected catalog text and images cannot be republished under the observed terms without applicable permission. Link only.",
+      "next_action": "Review catalog and linked editions directly; obtain applicable permission before importing protected material"
+    },
+    {
+      "source_url": "https://sardisexpedition.org/en/artifacts/r2-233",
+      "checked_on": "2026-10-03",
+      "access_state": "CATALOG_INSPECTED_FOR_SOURCE_DISCOVERY; PROTECTED_CONTENT_NOT_IMPORTED",
+      "rights_url": "https://sardisexpedition.org/en/terms_and_conditions",
+      "redistribution": "Protected catalog text and images cannot be republished under the observed terms without applicable permission. Link only.",
+      "next_action": "Review catalog and linked editions directly; obtain applicable permission before importing protected material"
+    },
+    {
+      "source_url": "https://sardisexpedition.org/en/artifacts/latw-10",
+      "checked_on": "2026-10-03",
+      "access_state": "CATALOG_INSPECTED_FOR_SOURCE_DISCOVERY; PROTECTED_CONTENT_NOT_IMPORTED",
+      "rights_url": "https://sardisexpedition.org/en/terms_and_conditions",
+      "redistribution": "Protected catalog text and images cannot be republished under the observed terms without applicable permission. Link only.",
+      "next_action": "Review catalog and linked editions directly; obtain applicable permission before importing protected material"
+    },
+    {
+      "source_url": "https://omphale.arthistory.wisc.edu/pdf/Sardis_6.1.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "NOT_ACQUIRED",
+      "attempt_result": "HTTP 502; web fetch timeout",
+      "next_action": "Locate an accessible institutional scan or supply a legally obtained copy; no primary-edition inspection claimed"
+    },
+    {
+      "source_url": "https://omphale.arthistory.wisc.edu/pdf/Sardis_6.2.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "NOT_ACQUIRED",
+      "attempt_result": "HTTP 502; web fetch timeout",
+      "next_action": "Locate an accessible institutional scan or supply a legally obtained copy; no primary-edition inspection claimed"
+    },
+    {
+      "source_url": "https://opendata.uni-halle.de/bitstream/1981185920/99826/229/137352603.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "NOT_ACQUIRED",
+      "attempt_result": "Response was HTML, not a valid PDF; web fetch could not retrieve the large declared file",
+      "next_action": "Locate an accessible institutional scan or supply a legally obtained copy; no primary-edition inspection claimed"
     }
   ],
   "scope": "Targeted edition access attempts; not exhaustive global availability search"

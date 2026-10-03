@@ -5,7 +5,7 @@ Source label: LW 4b (Sardis)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `dc37c02bb729c6dbc9f81e90332001ce77cd56598161697b26c87ee37ae0cea4`
-Evidence fingerprint: `6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b`
+Evidence fingerprint: `090ad0871406ad5e310ef521a54ef67f5c8942bb54ae93dd3d42d1f9230ca4cd`
 
 ## Captured source evidence
 

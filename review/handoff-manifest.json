@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
+  "evidence_fingerprint": "090ad0871406ad5e310ef521a54ef67f5c8942bb54ae93dd3d42d1f9230ca4cd",
   "input_fingerprints": [
     {
       "path": "data/reference/records.json",
@@ -20,7 +20,7 @@
     },
     {
       "path": "research/source-issues.json",
-      "sha256": "36560b8f03508a46a36618de042ce4209e3cb90ebcbc3f9c0db19d5e36cb4cb7"
+      "sha256": "832ee3b9c254d69d2f5b5dc1aa13ad73bee561d061e1a1ec76451be861b18240"
     },
     {
       "path": "research/source-checks.json",
@@ -28,7 +28,7 @@
     },
     {
       "path": "research/source-access.json",
-      "sha256": "f67b44620cafd7963f73f0f522175fa5d67ae50c3161cccb3ad1e4f9fdccf006"
+      "sha256": "f5e2eb00c19dfc772f6403d75888b1287703b7f98e79b437c88f68ce28bbecf5"
     },
     {
       "path": "research/rights-evidence.json",
@@ -44,7 +44,7 @@
     },
     {
       "path": "project.json",
-      "sha256": "88d48a664ba5fbb0aa189ae39a379a05ff8b65601998e8cde9a65c6c3e49e7ba"
+      "sha256": "83028c2f1cd612cc43d3eb884e91fa6cdb19c4596a5c28fc6cea4e3b5f93a51e"
     },
     {
       "path": "scripts/build_review.py",

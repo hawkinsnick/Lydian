@@ -1,14 +1,14 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "7717cccd3f92f9807a0fafa0d3f4ccf025f2eca8",
-  "evidence_fingerprint_sha256": "eb75292065fd5ea23441cf9b86c56774e9166566037b9d3c5cad84f2ceb2aead",
+  "source_commit": "5e8f81bffdf72d965f789b5851d02fa5f03906ce",
+  "evidence_fingerprint_sha256": "ba1befc80e363a5129ff5e24e833b2775251f2ce92b36bf99318713ddad8cc8b",
   "canonical_repository": true,
   "artifacts": [
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "48e3790740691af1ac16dd3a3d6156c017b2a37546b9d8a1cff400f440c0d0b7",
+      "sha256": "3aaa44b01b4ce0caca6bcc81e10109464e51baab93d1e9271ebb94a6d3c13c82",
       "bytes": 1131
     },
     {
@@ -56,7 +56,7 @@
     {
       "role": "benchmark-status",
       "path": "analysis/benchmark-status.json",
-      "sha256": "e78a4036e36b94aaad72637845b664c0906ce2aa47e3231e03c76695d8164d6b",
+      "sha256": "e11b40259a263a16019ef5d15c14d97ce43baabef7049800d15b489abc95d036",
       "bytes": 1303
     },
     {
@@ -74,14 +74,14 @@
     {
       "role": "source-frontier",
       "path": "research/source-frontier.json",
-      "sha256": "f5a4a734f4c74acc04e967488082d82b88aceee1498adb49134afcc071d968c4",
-      "bytes": 880
+      "sha256": "a1306533048c8c909e41b06b9578519b577222b97905124e3c86039f920e51c7",
+      "bytes": 2534
     },
     {
       "role": "source-issues",
       "path": "research/source-issues.json",
-      "sha256": "36560b8f03508a46a36618de042ce4209e3cb90ebcbc3f9c0db19d5e36cb4cb7",
-      "bytes": 889
+      "sha256": "832ee3b9c254d69d2f5b5dc1aa13ad73bee561d061e1a1ec76451be861b18240",
+      "bytes": 1119
     },
     {
       "role": "pre-expert-maximum",
@@ -116,19 +116,19 @@
     {
       "role": "source-access",
       "path": "research/source-access.json",
-      "sha256": "f67b44620cafd7963f73f0f522175fa5d67ae50c3161cccb3ad1e4f9fdccf006",
-      "bytes": 1237
+      "sha256": "f5e2eb00c19dfc772f6403d75888b1287703b7f98e79b437c88f68ce28bbecf5",
+      "bytes": 4677
     },
     {
       "role": "packets",
       "path": "review/packets.json",
-      "sha256": "9cc49177d52e442586e2953eb326367b2dd888b41332bad056587e85e682d5db",
+      "sha256": "3865746d8a3a889eedac94d43bae9f23a06b56f566100c2be96f442022817c74",
       "bytes": 130047
     },
     {
       "role": "handoff-manifest",
       "path": "review/handoff-manifest.json",
-      "sha256": "a7a5c65956a9885e1c0945691569db505a158926814f82168aeab78579426d1f",
+      "sha256": "5fac54ca780694e63568d3beaee60f95abd9e3ef6ec54d1bca15b33cd8358459",
       "bytes": 2226
     },
     {
