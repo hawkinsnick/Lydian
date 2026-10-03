@@ -68,24 +68,24 @@ Choose a record below. Read the [review guide](../docs/EXPERT-REVIEW.md) for the
 | [lydian:ediana:31](records/lydian-ediana-31.md) | LW 54 (Sardis) | BASELINE_COLLATION |
 | [lydian:ediana:24](records/lydian-ediana-24.md) | LW 55 | BASELINE_COLLATION |
 | [lydian:ediana:25](records/lydian-ediana-25.md) | LW 56 | BASELINE_COLLATION |
-| [lydian:ediana:32](records/lydian-ediana-32.md) | LW 57 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:5](records/lydian-ediana-5.md) | LW 58 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:77](records/lydian-ediana-77.md) | LW 59 (Sardis) | BASELINE_COLLATION |
+| [lydian:ediana:32](records/lydian-ediana-32.md) | LW 57 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:5](records/lydian-ediana-5.md) | LW 58 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:77](records/lydian-ediana-77.md) | LW 59 (Sardis) | TARGETED_SOURCE_CONFLICT |
 | [lydian:ediana:48](records/lydian-ediana-48.md) | LW 6 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:14](records/lydian-ediana-14.md) | LW 60 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:78](records/lydian-ediana-78.md) | LW 61 (Sardis) | BASELINE_COLLATION |
+| [lydian:ediana:14](records/lydian-ediana-14.md) | LW 60 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:78](records/lydian-ediana-78.md) | LW 61 (Sardis) | TARGETED_SOURCE_CONFLICT |
 | [lydian:ediana:110](records/lydian-ediana-110.md) | LW 62 (Middle Kaystros) | BASELINE_COLLATION |
-| [lydian:ediana:6](records/lydian-ediana-6.md) | LW 63 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:21](records/lydian-ediana-21.md) | LW 64 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:104](records/lydian-ediana-104.md) | LW 65 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:43](records/lydian-ediana-43.md) | LW 66 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:2](records/lydian-ediana-2.md) | LW 67 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:33](records/lydian-ediana-33.md) | LW 68 (Sardis) | BASELINE_COLLATION |
+| [lydian:ediana:6](records/lydian-ediana-6.md) | LW 63 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:21](records/lydian-ediana-21.md) | LW 64 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:104](records/lydian-ediana-104.md) | LW 65 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:43](records/lydian-ediana-43.md) | LW 66 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:2](records/lydian-ediana-2.md) | LW 67 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:33](records/lydian-ediana-33.md) | LW 68 (Sardis) | TARGETED_SOURCE_CONFLICT |
 | [lydian:ediana:4](records/lydian-ediana-4.md) | LW 69 (Colophon) | BASELINE_COLLATION |
 | [lydian:ediana:49](records/lydian-ediana-49.md) | LW 7 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:79](records/lydian-ediana-79.md) | LW 70 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:91](records/lydian-ediana-91.md) | LW 71 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:7](records/lydian-ediana-7.md) | LW 72 (Sardis) | BASELINE_COLLATION |
+| [lydian:ediana:79](records/lydian-ediana-79.md) | LW 70 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:91](records/lydian-ediana-91.md) | LW 71 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:7](records/lydian-ediana-7.md) | LW 72 (Sardis) | TARGETED_SOURCE_CONFLICT |
 | [lydian:ediana:111](records/lydian-ediana-111.md) | LW 73 (Kerč; Chersonesus Taurica) | BASELINE_COLLATION |
 | [lydian:ediana:38](records/lydian-ediana-38.md) | LW 74 | BASELINE_COLLATION |
 | [lydian:ediana:39](records/lydian-ediana-39.md) | LW 75 | BASELINE_COLLATION |
@@ -94,22 +94,22 @@ Choose a record below. Read the [review guide](../docs/EXPERT-REVIEW.md) for the
 | [lydian:ediana:42](records/lydian-ediana-42.md) | LW 78 | BASELINE_COLLATION |
 | [lydian:ediana:112](records/lydian-ediana-112.md) | LW 79 (Aphrodisias) | BASELINE_COLLATION |
 | [lydian:ediana:89](records/lydian-ediana-89.md) | LW 8 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:92](records/lydian-ediana-92.md) | LW 80 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:80](records/lydian-ediana-80.md) | LW 81 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:93](records/lydian-ediana-93.md) | LW 82 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:34](records/lydian-ediana-34.md) | LW 83 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:35](records/lydian-ediana-35.md) | LW 84 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:13](records/lydian-ediana-13.md) | LW 85 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:105](records/lydian-ediana-105.md) | LW 86 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:15](records/lydian-ediana-15.md) | LW 87 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:16](records/lydian-ediana-16.md) | LW 88 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:17](records/lydian-ediana-17.md) | LW 89 (Sardis) | BASELINE_COLLATION |
+| [lydian:ediana:92](records/lydian-ediana-92.md) | LW 80 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:80](records/lydian-ediana-80.md) | LW 81 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:93](records/lydian-ediana-93.md) | LW 82 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:34](records/lydian-ediana-34.md) | LW 83 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:35](records/lydian-ediana-35.md) | LW 84 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:13](records/lydian-ediana-13.md) | LW 85 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:105](records/lydian-ediana-105.md) | LW 86 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:15](records/lydian-ediana-15.md) | LW 87 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:16](records/lydian-ediana-16.md) | LW 88 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:17](records/lydian-ediana-17.md) | LW 89 (Sardis) | TARGETED_SOURCE_CONFLICT |
 | [lydian:ediana:50](records/lydian-ediana-50.md) | LW 9 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:36](records/lydian-ediana-36.md) | LW 90 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:44](records/lydian-ediana-44.md) | LW 91 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:18](records/lydian-ediana-18.md) | LW 92 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:106](records/lydian-ediana-106.md) | LW 93 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:37](records/lydian-ediana-37.md) | LW 94 (Sardis) | BASELINE_COLLATION |
+| [lydian:ediana:36](records/lydian-ediana-36.md) | LW 90 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:44](records/lydian-ediana-44.md) | LW 91 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:18](records/lydian-ediana-18.md) | LW 92 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:106](records/lydian-ediana-106.md) | LW 93 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:37](records/lydian-ediana-37.md) | LW 94 (Sardis) | TARGETED_SOURCE_CONFLICT |
 | [lydian:ediana:113](records/lydian-ediana-113.md) | LW 95 | BASELINE_COLLATION |
 | [lydian:ediana:0](records/lydian-ediana-0.md) | LW 96 (Bayraklı; near Smyrna) | TARGETED_SOURCE_CONFLICT |
 | [lydian:ediana:22](records/lydian-ediana-22.md) | LW 96 (Bayraklı; near Smyrna) | TARGETED_SOURCE_CONFLICT |

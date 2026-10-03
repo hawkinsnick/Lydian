@@ -108,6 +108,29 @@
       "attempt_result": "Web retrieval exposed the 17-page article; direct download returned HTTP403. No local PDF hash available and no complete typography verification claimed.",
       "redistribution": "2016 publisher copyright notice retained; no scan, image or full text imported",
       "next_action": "Obtain an authorized local copy or inspect original PDF typography/RTI during sign-level collation"
+    },
+    {
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "VALID_EXPEDITION_HOSTED_PDF_ACQUIRED; CONCORDANCE_TABLE_VISUALLY_CHECKED",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "attempt_result": "159 pages; title confirms Gusmani1975, not Buckler1924; p.42 concordance and inventory inspected",
+      "redistribution": "No scan, photograph or protected source prose imported; publication reuse permission not established",
+      "next_action": "Collate individual entries and figures; verify classification and inventory concordance"
+    },
+    {
+      "source_url": "https://omphale.arthistory.wisc.edu/pdf/Sardis_6.2.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "DOWNLOAD_FAILED",
+      "attempt_result": "HTTP502; institutional catalog confirms Buckler1924 PartII identity, but content was not acquired",
+      "next_action": "Use a lawful accessible institutional copy; do not substitute Littmann1916 PartI"
+    },
+    {
+      "source_url": "https://commons.library.stonybrook.edu/cgi/viewcontent.cgi?article=1058&context=amar",
+      "checked_on": "2026-10-03",
+      "access_state": "DOWNLOAD_FAILED",
+      "attempt_result": "HTTP403; catalog metadata inspected at https://commons.library.stonybrook.edu/amar/59/",
+      "next_action": "Seek accessible lawful copy; repository scan rights statement is noncommercial, not blanket permission to relicense content"
     }
   ],
   "scope": "Targeted edition access attempts; not exhaustive global availability search"

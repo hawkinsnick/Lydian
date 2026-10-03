@@ -13,3 +13,5 @@
 Public-domain material remains public domain. Source titles, attribution and factual identifiers do not acquire exclusive ownership through inclusion here. See NOTICE and research/rights-evidence.json.
 
 `research/source-worklist.json` preserves eDiAna citation strings and record identifiers: these derived portions retain CC BY-SA 4.0. Original work instructions do not remove the upstream attribution requirement. Linked publication scans and figures are not included and retain their own rights.
+
+`research/publication-reconciliation.json` records bibliographic facts, edition numbering and dated inventory assertions from Gusmani1975 p.42. No scan, figure or protected source prose is included. eDiAna identifier links retain upstream CC BY-SA4.0 attribution; access to the source PDF does not grant a new license for it.

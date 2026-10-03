@@ -5,7 +5,7 @@ Source label: LW 58 (Sardis)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `d652aa0b3ffc82d6d33d2961940fdaee13a8eaac192a5a6f7c50bd97389f2b1a`
-Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
+Evidence fingerprint: `87e68863335bfe5f198205102d1fbf363a282f15747fab7fab996e59ecd7c005`
 
 ## Captured source evidence
 
@@ -25,7 +25,17 @@ Source row · 1; JSON pointer:
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### LYD-GUSMANI1975-LW58
+
+Source: [https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf](https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf)
+
+Locators: printed p.42 (PDF page58), tables C and D, A II 9
+
+The published concordance supplies an edition-specific candidate link to modern LW58. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.
+
+- Confirm modern edition and physical object concordance
+- Inspect the entry and original figures before adopting any reading
+- Separate dated inventory assertions from current object verification
 
 ## Record a decision
 

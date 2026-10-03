@@ -5,7 +5,7 @@ Source label: LW 59 (Sardis)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `0805c2894744f1f6a6692b943a665d93debeff5c4ea10f2e8d4c512dbcd4ec5a`
-Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
+Evidence fingerprint: `87e68863335bfe5f198205102d1fbf363a282f15747fab7fab996e59ecd7c005`
 
 ## Captured source evidence
 
@@ -33,7 +33,17 @@ Source row · 2; JSON pointer:
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### LYD-GUSMANI1975-LW59
+
+Source: [https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf](https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf)
+
+Locators: printed p.42 (PDF page58), tables C and D, A I 1; printed p.2 (PDF page18), A I1, line1 and line2 commentary
+
+The published concordance supplies an edition-specific candidate link to modern LW59. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending. The p.2 commentary preserves d/v ambiguity and uncertainty in the dating interpretation. Its b transcription and the captured p require an edition-specific convention crosswalk, not an automatic spelling correction.
+
+- Confirm modern edition and physical object concordance
+- Inspect the entry and original figures before adopting any reading
+- Separate dated inventory assertions from current object verification
 
 ## Record a decision
 

@@ -5,7 +5,7 @@ Source label: LW 67 (Sardis)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `b38f97065077a19ac68da7e05bd1cd4db829590e5a2e4407ca02eddda7d50f76`
-Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
+Evidence fingerprint: `87e68863335bfe5f198205102d1fbf363a282f15747fab7fab996e59ecd7c005`
 
 ## Captured source evidence
 
@@ -25,7 +25,17 @@ we
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### LYD-GUSMANI1975-LW67
+
+Source: [https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf](https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf)
+
+Locators: printed p.42 (PDF page58), tables C and D, B I 5
+
+The published concordance supplies an edition-specific candidate link to modern LW67. The source brackets B I 5 =67 and places it in material of uncertain affiliation. Preserve that classification uncertainty; directory membership does not settle language.
+
+- Confirm modern edition and physical object concordance
+- Inspect the entry and original figures before adopting any reading
+- Separate dated inventory assertions from current object verification
 
 ## Record a decision
 

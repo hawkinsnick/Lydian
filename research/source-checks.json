@@ -232,6 +232,771 @@
         "Verify the third-word conflict and distinguish syntactic analysis from sign reading",
         "Reconcile inventory and current access to the column drum"
       ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW59",
+      "record_ids": [
+        "lydian:ediana:77"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_LINE_COMMENTARY_VISUALLY_CHECKED; NO_OBJECT_ADJUDICATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A I 1",
+        "printed p.2 (PDF page18), A I1, line1 and line2 commentary"
+      ],
+      "source_edition_label": "A I 1",
+      "source_running_number": 59,
+      "inventory_source_assertion": {
+        "inventory": "IN62.107",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW59. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending. The p.2 commentary preserves d/v ambiguity and uncertainty in the dating interpretation. Its b transcription and the captured p require an edition-specific convention crosswalk, not an automatic spelling correction.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ],
+      "line_questions": [
+        {
+          "source_pointer": "/LW 59 (Sardis)/1",
+          "question": "The author retains d/v as alternatives because the upper part of the sign is damaged, rejects f for the following o, and treats the date numeral interpretation as uncertain. Preserve captured underdots and keep sign identity distinct from date interpretation."
+        },
+        {
+          "source_pointer": "/LW 59 (Sardis)/2",
+          "question": "The author describes only upper portions of the first five signs as visible. Inspect the plate and later editions before changing captured underdots or restorations."
+        }
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW70",
+      "record_ids": [
+        "lydian:ediana:79"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A I 2"
+      ],
+      "source_edition_label": "A I 2",
+      "source_running_number": 70,
+      "inventory_source_assertion": {
+        "inventory": "IN67.1",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW70. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW71",
+      "record_ids": [
+        "lydian:ediana:91"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A I 3"
+      ],
+      "source_edition_label": "A I 3",
+      "source_running_number": 71,
+      "inventory_source_assertion": {
+        "inventory": "IN67.31",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW71. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW80",
+      "record_ids": [
+        "lydian:ediana:92"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A I 4"
+      ],
+      "source_edition_label": "A I 4",
+      "source_running_number": 80,
+      "inventory_source_assertion": {
+        "inventory": "IN71.1",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW80. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW61",
+      "record_ids": [
+        "lydian:ediana:78"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 1"
+      ],
+      "source_edition_label": "A II 1",
+      "source_running_number": 61,
+      "inventory_source_assertion": {
+        "inventory": "IN62.11",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW61. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW66",
+      "record_ids": [
+        "lydian:ediana:43"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 2"
+      ],
+      "source_edition_label": "A II 2",
+      "source_running_number": 66,
+      "inventory_source_assertion": {
+        "inventory": "IN64.54",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW66. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW60",
+      "record_ids": [
+        "lydian:ediana:14"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 3"
+      ],
+      "source_edition_label": "A II 3",
+      "source_running_number": 60,
+      "inventory_source_assertion": {
+        "inventory": "IN62.48",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW60. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW63",
+      "record_ids": [
+        "lydian:ediana:6"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 4"
+      ],
+      "source_edition_label": "A II 4",
+      "source_running_number": 63,
+      "inventory_source_assertion": {
+        "inventory": "IN63.35",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW63. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW72",
+      "record_ids": [
+        "lydian:ediana:7"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 5"
+      ],
+      "source_edition_label": "A II 5",
+      "source_running_number": 72,
+      "inventory_source_assertion": {
+        "inventory": "IN68.18",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW72. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW57",
+      "record_ids": [
+        "lydian:ediana:32"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 6"
+      ],
+      "source_edition_label": "A II 6",
+      "source_running_number": 57,
+      "inventory_source_assertion": {
+        "inventory": "IN58.14",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW57. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW65",
+      "record_ids": [
+        "lydian:ediana:104"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 7"
+      ],
+      "source_edition_label": "A II 7",
+      "source_running_number": 65,
+      "inventory_source_assertion": {
+        "inventory": "IN64.34",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW65. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW81",
+      "record_ids": [
+        "lydian:ediana:80"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 8"
+      ],
+      "source_edition_label": "A II 8",
+      "source_running_number": 81,
+      "inventory_source_assertion": {
+        "inventory": "IN63.91",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW81. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW58",
+      "record_ids": [
+        "lydian:ediana:5"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 9"
+      ],
+      "source_edition_label": "A II 9",
+      "source_running_number": 58,
+      "inventory_source_assertion": {
+        "inventory": "IN61.56",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW58. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW68",
+      "record_ids": [
+        "lydian:ediana:33"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 10"
+      ],
+      "source_edition_label": "A II 10",
+      "source_running_number": 68,
+      "inventory_source_assertion": {
+        "inventory": "IN65.20",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW68. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW82",
+      "record_ids": [
+        "lydian:ediana:93"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 11"
+      ],
+      "source_edition_label": "A II 11",
+      "source_running_number": 82,
+      "inventory_source_assertion": {
+        "inventory": "P67.31",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW82. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW83",
+      "record_ids": [
+        "lydian:ediana:34"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 12"
+      ],
+      "source_edition_label": "A II 12",
+      "source_running_number": 83,
+      "inventory_source_assertion": {
+        "inventory": "P61.186",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW83. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW84",
+      "record_ids": [
+        "lydian:ediana:35"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 13"
+      ],
+      "source_edition_label": "A II 13",
+      "source_running_number": 84,
+      "inventory_source_assertion": {
+        "inventory": "P62.392",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW84. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW85",
+      "record_ids": [
+        "lydian:ediana:13"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 14"
+      ],
+      "source_edition_label": "A II 14",
+      "source_running_number": 85,
+      "inventory_source_assertion": {
+        "inventory": "P61.248",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW85. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW86",
+      "record_ids": [
+        "lydian:ediana:105"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 15"
+      ],
+      "source_edition_label": "A II 15",
+      "source_running_number": 86,
+      "inventory_source_assertion": {
+        "inventory": "P67.96",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW86. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW87",
+      "record_ids": [
+        "lydian:ediana:15"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 16"
+      ],
+      "source_edition_label": "A II 16",
+      "source_running_number": 87,
+      "inventory_source_assertion": {
+        "inventory": "IN65.27",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW87. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW88",
+      "record_ids": [
+        "lydian:ediana:16"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 17"
+      ],
+      "source_edition_label": "A II 17",
+      "source_running_number": 88,
+      "inventory_source_assertion": {
+        "inventory": "IN65.28",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW88. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW89",
+      "record_ids": [
+        "lydian:ediana:17"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 18"
+      ],
+      "source_edition_label": "A II 18",
+      "source_running_number": 89,
+      "inventory_source_assertion": {
+        "inventory": "P61.313",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW89. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW90",
+      "record_ids": [
+        "lydian:ediana:36"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 19"
+      ],
+      "source_edition_label": "A II 19",
+      "source_running_number": 90,
+      "inventory_source_assertion": {
+        "inventory": "P63.114",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW90. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW91",
+      "record_ids": [
+        "lydian:ediana:44"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 20"
+      ],
+      "source_edition_label": "A II 20",
+      "source_running_number": 91,
+      "inventory_source_assertion": {
+        "inventory": "P64.14",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW91. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW92",
+      "record_ids": [
+        "lydian:ediana:18"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A II 21"
+      ],
+      "source_edition_label": "A II 21",
+      "source_running_number": 92,
+      "inventory_source_assertion": {
+        "inventory": "P61.51",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW92. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW93",
+      "record_ids": [
+        "lydian:ediana:106"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A III 1"
+      ],
+      "source_edition_label": "A III 1",
+      "source_running_number": 93,
+      "inventory_source_assertion": {
+        "inventory": "IN62.259",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW93. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW64",
+      "record_ids": [
+        "lydian:ediana:21"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A III 2"
+      ],
+      "source_edition_label": "A III 2",
+      "source_running_number": 64,
+      "inventory_source_assertion": {
+        "inventory": "IN64.15",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW64. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW94",
+      "record_ids": [
+        "lydian:ediana:37"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, A III 3"
+      ],
+      "source_edition_label": "A III 3",
+      "source_running_number": 94,
+      "inventory_source_assertion": {
+        "inventory": "IN70.12",
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW94. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
+    },
+    {
+      "check_id": "LYD-GUSMANI1975-LW67",
+      "record_ids": [
+        "lydian:ediana:2"
+      ],
+      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "locators": [
+        "printed p.42 (PDF page58), tables C and D, B I 5"
+      ],
+      "source_edition_label": "B I 5",
+      "source_running_number": 67,
+      "inventory_source_assertion": {
+        "inventory": null,
+        "asserted_in": 1975,
+        "current_location_verified": false
+      },
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW67. The source brackets B I 5 =67 and places it in material of uncertain affiliation. Preserve that classification uncertainty; directory membership does not settle language.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm modern edition and physical object concordance",
+        "Inspect the entry and original figures before adopting any reading",
+        "Separate dated inventory assertions from current object verification"
+      ]
     }
   ],
   "source_check_is_not_independent_review": true

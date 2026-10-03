@@ -11,6 +11,7 @@
   "bibliographic_candidates_path": "data/upstream/ediana/bibliography.json",
   "access_log_path": "research/source-access.json",
   "new_publication_leads_path": "research/source-frontier.json",
+  "publication_reconciliation_path": "research/publication-reconciliation.json",
   "citation_dependencies": [
     {
       "citation_verbatim": "Adiego & Ivantchik 2016a",
@@ -1617,7 +1618,9 @@
       "citations_verbatim": [
         "Gusmani 1964a:268"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW57"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1635,7 +1638,9 @@
       "citations_verbatim": [
         "Gusmani 1964a:268"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW58"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1653,7 +1658,9 @@
       "citations_verbatim": [
         "Gusmani 1964a:269"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW59"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1689,7 +1696,9 @@
       "citations_verbatim": [
         "Gusmani 1964a:269"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW60"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1707,7 +1716,9 @@
       "citations_verbatim": [
         "Gusmani 1964a:269"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW61"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1743,7 +1754,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:151"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW63"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1761,7 +1774,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:152"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW64"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1779,7 +1794,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:152"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW65"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1797,7 +1814,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:152"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW66"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1815,7 +1834,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:152"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW67"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1833,7 +1854,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:152"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW68"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1887,7 +1910,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:153"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW70"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1905,7 +1930,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:153"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW71"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1923,7 +1950,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:153"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW72"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2087,7 +2116,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:154f."
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW80"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2105,7 +2136,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:155"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW81"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2123,7 +2156,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:155"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW82"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2141,7 +2176,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:155"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW83"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2159,7 +2196,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:155"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW84"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2177,7 +2216,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:156"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW85"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2195,7 +2236,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:156"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW86"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2213,7 +2256,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:156"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW87"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2231,7 +2276,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:156"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW88"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2249,7 +2296,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:156"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW89"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2285,7 +2334,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:156"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW90"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2303,7 +2354,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:156"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW91"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2321,7 +2374,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:156"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW92"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2339,7 +2394,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:156"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW93"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -2357,7 +2414,9 @@
       "citations_verbatim": [
         "Gusmani 1980a:156"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-GUSMANI1975-LW94"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",

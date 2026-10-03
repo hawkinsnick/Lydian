@@ -57,6 +57,14 @@
       "inspection_state": "VALID_AUTHOR_HOSTED_PDF_ACQUIRED; targeted collation still pending",
       "canonical_admission": false,
       "redistribution_permission": "NOT_ESTABLISHED; metadata and link only"
+    },
+    {
+      "title": "Neue epichorische Schriftzeugnisse aus Sardis (1958–1971)",
+      "attribution": "Roberto Gusmani,1975",
+      "locator": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "inspection_state": "VALID_EXPEDITION_HOSTED_PDF_ACQUIRED; 29 published concordance rows registered, including bracketed uncertain-material row",
+      "canonical_admission": false,
+      "redistribution_permission": "NOT_ESTABLISHED; scan and figures not imported"
     }
   ]
 }
