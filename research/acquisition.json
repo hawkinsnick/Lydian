@@ -1,0 +1,19 @@
+{
+  "captured_on": "2026-10-03",
+  "catalog_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+  "full_catalog_page_sha256": "af008c0689726e877f68cae61da4ea59763dc37f447ec17f09e0cd2a23f3fa1f",
+  "full_catalog_page_bytes": 168505,
+  "retained_catalog_scope": "Only selected-language span elements; full webpage is not included",
+  "response_url": "https://www.ediana.gwi.uni-muenchen.de/includes/api.php",
+  "request_method": "POST",
+  "request_content_type": "application/x-www-form-urlencoded",
+  "request_fields": {
+    "searchterms": "{}",
+    "corpus_text": "true",
+    "language": "lydian",
+    "docids": "95,51,101,107,26,108,27,28,29,109,102,8,52,53,54,55,56,57,90,58,59,96,60,61,62,63,64,65,66,67,68,69,99,10,11,12,70,71,72,73,74,75,76,103,97,82,83,84,85,87,86,81,20,9,45,46,47,100,30,3,88,31,24,25,32,5,77,48,14,78,110,6,21,104,43,2,33,4,49,79,91,7,111,38,39,40,41,42,112,89,92,80,93,34,35,13,105,15,16,17,50,36,44,18,106,37,113,0,22,23,19,114,115,116,1,98,94,117"
+  },
+  "raw_response_sha256": "f09395d8932696e82a20851e0048dce941e95e98ec50000ab4abe0a507894ef1",
+  "replay": "python scripts/build_reference.py --write reconstructs the reference layer from the pinned local catalog and JSON response",
+  "live_refresh_caution": "A repeat network request may return a different source revision. Acquire separately, compare provenance and readings, then review before replacing a snapshot."
+}
