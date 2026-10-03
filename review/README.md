@@ -4,7 +4,7 @@ Choose a record below. Read the [review guide](../docs/EXPERT-REVIEW.md) for the
 
 | Record | Source label | Priority |
 |---|---|---|
-| [lydian:ediana:95](records/lydian-ediana-95.md) | LW 1 (Sardis) | BASELINE_COLLATION |
+| [lydian:ediana:95](records/lydian-ediana-95.md) | LW 1 (Sardis) | TARGETED_SOURCE_CONFLICT |
 | [lydian:ediana:51](records/lydian-ediana-51.md) | LW 10 (Sardis) | BASELINE_COLLATION |
 | [lydian:ediana:101](records/lydian-ediana-101.md) | LW 100 (Sardis) | EDITION_LOCATOR_MISSING |
 | [lydian:ediana:107](records/lydian-ediana-107.md) | LW 101 (Sardis) | BASELINE_COLLATION |
@@ -47,7 +47,7 @@ Choose a record below. Read the [review guide](../docs/EXPERT-REVIEW.md) for the
 | [lydian:ediana:74](records/lydian-ediana-74.md) | LW 37 (Sardis) | BASELINE_COLLATION |
 | [lydian:ediana:75](records/lydian-ediana-75.md) | LW 38 (Sardis) | BASELINE_COLLATION |
 | [lydian:ediana:76](records/lydian-ediana-76.md) | LW 39 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:103](records/lydian-ediana-103.md) | LW 40 (Pergamum) | BASELINE_COLLATION |
+| [lydian:ediana:103](records/lydian-ediana-103.md) | LW 40 (Pergamum) | TARGETED_SOURCE_CONFLICT |
 | [lydian:ediana:97](records/lydian-ediana-97.md) | LW 41 (Middle Kaystros) | BASELINE_COLLATION |
 | [lydian:ediana:82](records/lydian-ediana-82.md) | LW 42 (Emre; Maionia) | BASELINE_COLLATION |
 | [lydian:ediana:83](records/lydian-ediana-83.md) | LW 43 (Magnesia on Mt. Sipylus) | BASELINE_COLLATION |
@@ -58,8 +58,8 @@ Choose a record below. Read the [review guide](../docs/EXPERT-REVIEW.md) for the
 | [lydian:ediana:81](records/lydian-ediana-81.md) | LW 47 (Middle Kaystros) | BASELINE_COLLATION |
 | [lydian:ediana:20](records/lydian-ediana-20.md) | LW 48 (Ephesus) | BASELINE_COLLATION |
 | [lydian:ediana:9](records/lydian-ediana-9.md) | LW 49 (Silsilis; High Egypt) | BASELINE_COLLATION |
-| [lydian:ediana:45](records/lydian-ediana-45.md) | LW 4a (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:46](records/lydian-ediana-46.md) | LW 4b (Sardis) | BASELINE_COLLATION |
+| [lydian:ediana:45](records/lydian-ediana-45.md) | LW 4a (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:46](records/lydian-ediana-46.md) | LW 4b (Sardis) | TARGETED_SOURCE_CONFLICT |
 | [lydian:ediana:47](records/lydian-ediana-47.md) | LW 5 (Sardis) | BASELINE_COLLATION |
 | [lydian:ediana:100](records/lydian-ediana-100.md) | LW 50 (Middle Kaystros) | BASELINE_COLLATION |
 | [lydian:ediana:30](records/lydian-ediana-30.md) | LW 51 (Sardis) | BASELINE_COLLATION |

@@ -1,0 +1,2588 @@
+{
+  "schema_version": "1.0",
+  "scope": "Frozen digital snapshot; not a language-wide inventory or completeness claim",
+  "record_count": 118,
+  "distinct_citation_count": 45,
+  "records_without_captured_citations": [
+    "lydian:ediana:101",
+    "lydian:ediana:56",
+    "lydian:ediana:60"
+  ],
+  "bibliographic_candidates_path": "data/upstream/ediana/bibliography.json",
+  "access_log_path": "research/source-access.json",
+  "new_publication_leads_path": "research/source-frontier.json",
+  "citation_dependencies": [
+    {
+      "citation_verbatim": "Adiego & Ivantchik 2016a",
+      "record_ids": [
+        "lydian:ediana:117"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Adiego 1997:156f.",
+      "record_ids": [
+        "lydian:ediana:116"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Browne 2000a",
+      "record_ids": [
+        "lydian:ediana:1"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Egetmeyer 2012a",
+      "record_ids": [
+        "lydian:ediana:94"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani & Akkan 2004a",
+      "record_ids": [
+        "lydian:ediana:98"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1960a:250",
+      "record_ids": [
+        "lydian:ediana:95"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1960a:254",
+      "record_ids": [
+        "lydian:ediana:51"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:251",
+      "record_ids": [
+        "lydian:ediana:96",
+        "lydian:ediana:99"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:252",
+      "record_ids": [
+        "lydian:ediana:45",
+        "lydian:ediana:46",
+        "lydian:ediana:47",
+        "lydian:ediana:48"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:253",
+      "record_ids": [
+        "lydian:ediana:49",
+        "lydian:ediana:89",
+        "lydian:ediana:50"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:255",
+      "record_ids": [
+        "lydian:ediana:52",
+        "lydian:ediana:53"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:256",
+      "record_ids": [
+        "lydian:ediana:54"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:256f.",
+      "record_ids": [
+        "lydian:ediana:55"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:257",
+      "record_ids": [
+        "lydian:ediana:55"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:258",
+      "record_ids": [
+        "lydian:ediana:57",
+        "lydian:ediana:90",
+        "lydian:ediana:58",
+        "lydian:ediana:59"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:259",
+      "record_ids": [
+        "lydian:ediana:61",
+        "lydian:ediana:62"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:259f.",
+      "record_ids": [
+        "lydian:ediana:63"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:260f.",
+      "record_ids": [
+        "lydian:ediana:64"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:261",
+      "record_ids": [
+        "lydian:ediana:65"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:261f.",
+      "record_ids": [
+        "lydian:ediana:66"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:262",
+      "record_ids": [
+        "lydian:ediana:67",
+        "lydian:ediana:68",
+        "lydian:ediana:69",
+        "lydian:ediana:10"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:263",
+      "record_ids": [
+        "lydian:ediana:11",
+        "lydian:ediana:12",
+        "lydian:ediana:70",
+        "lydian:ediana:71",
+        "lydian:ediana:72",
+        "lydian:ediana:73",
+        "lydian:ediana:74",
+        "lydian:ediana:75",
+        "lydian:ediana:76"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:264",
+      "record_ids": [
+        "lydian:ediana:97",
+        "lydian:ediana:82"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:264 / Payne & Sasseville 2016a",
+      "record_ids": [
+        "lydian:ediana:103"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:265",
+      "record_ids": [
+        "lydian:ediana:83",
+        "lydian:ediana:84"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:266",
+      "record_ids": [
+        "lydian:ediana:87",
+        "lydian:ediana:86",
+        "lydian:ediana:81",
+        "lydian:ediana:20",
+        "lydian:ediana:9"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:267",
+      "record_ids": [
+        "lydian:ediana:100",
+        "lydian:ediana:30",
+        "lydian:ediana:3",
+        "lydian:ediana:88"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:268",
+      "record_ids": [
+        "lydian:ediana:31",
+        "lydian:ediana:24",
+        "lydian:ediana:25",
+        "lydian:ediana:32",
+        "lydian:ediana:5"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1964a:269",
+      "record_ids": [
+        "lydian:ediana:77",
+        "lydian:ediana:14",
+        "lydian:ediana:78"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1980a:151",
+      "record_ids": [
+        "lydian:ediana:6"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1980a:151 / Poetto 2006a",
+      "record_ids": [
+        "lydian:ediana:110"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1980a:152",
+      "record_ids": [
+        "lydian:ediana:21",
+        "lydian:ediana:104",
+        "lydian:ediana:43",
+        "lydian:ediana:2",
+        "lydian:ediana:33",
+        "lydian:ediana:4"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1980a:153",
+      "record_ids": [
+        "lydian:ediana:79",
+        "lydian:ediana:91",
+        "lydian:ediana:7"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1980a:154",
+      "record_ids": [
+        "lydian:ediana:40",
+        "lydian:ediana:41",
+        "lydian:ediana:42",
+        "lydian:ediana:112"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1980a:154f.",
+      "record_ids": [
+        "lydian:ediana:111",
+        "lydian:ediana:38",
+        "lydian:ediana:39",
+        "lydian:ediana:40",
+        "lydian:ediana:41",
+        "lydian:ediana:92"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1980a:155",
+      "record_ids": [
+        "lydian:ediana:80",
+        "lydian:ediana:93",
+        "lydian:ediana:34",
+        "lydian:ediana:35"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1980a:156",
+      "record_ids": [
+        "lydian:ediana:13",
+        "lydian:ediana:105",
+        "lydian:ediana:15",
+        "lydian:ediana:16",
+        "lydian:ediana:17",
+        "lydian:ediana:36",
+        "lydian:ediana:44",
+        "lydian:ediana:18",
+        "lydian:ediana:106",
+        "lydian:ediana:37",
+        "lydian:ediana:113"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1980a:157",
+      "record_ids": [
+        "lydian:ediana:107",
+        "lydian:ediana:26",
+        "lydian:ediana:0",
+        "lydian:ediana:22",
+        "lydian:ediana:23",
+        "lydian:ediana:19"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1980a:158",
+      "record_ids": [
+        "lydian:ediana:108",
+        "lydian:ediana:27",
+        "lydian:ediana:28",
+        "lydian:ediana:29",
+        "lydian:ediana:109"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1980a:158f.",
+      "record_ids": [
+        "lydian:ediana:102"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Gusmani 1980a:159",
+      "record_ids": [
+        "lydian:ediana:8"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Lemaire 1992a",
+      "record_ids": [
+        "lydian:ediana:115"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Poetto & Salvatori 1981a: 42f.",
+      "record_ids": [
+        "lydian:ediana:114"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "See LW 44, 1st column",
+      "record_ids": [
+        "lydian:ediana:85"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "See LW 4a",
+      "record_ids": [
+        "lydian:ediana:46"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    }
+  ],
+  "record_work": [
+    {
+      "record_id": "lydian:ediana:95",
+      "review_page": "review/records/lydian-ediana-95.md",
+      "citations_verbatim": [
+        "Gusmani 1960a:250"
+      ],
+      "source_check_ids": [
+        "LYD-1916-NUMBERING"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:51",
+      "review_page": "review/records/lydian-ediana-51.md",
+      "citations_verbatim": [
+        "Gusmani 1960a:254"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:101",
+      "review_page": "review/records/lydian-ediana-101.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:107",
+      "review_page": "review/records/lydian-ediana-107.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:157"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:26",
+      "review_page": "review/records/lydian-ediana-26.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:157"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:108",
+      "review_page": "review/records/lydian-ediana-108.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:158"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:27",
+      "review_page": "review/records/lydian-ediana-27.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:158"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:28",
+      "review_page": "review/records/lydian-ediana-28.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:158"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:29",
+      "review_page": "review/records/lydian-ediana-29.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:158"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:109",
+      "review_page": "review/records/lydian-ediana-109.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:158"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:102",
+      "review_page": "review/records/lydian-ediana-102.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:158f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:8",
+      "review_page": "review/records/lydian-ediana-8.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:159"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:52",
+      "review_page": "review/records/lydian-ediana-52.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:255"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:53",
+      "review_page": "review/records/lydian-ediana-53.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:255"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:54",
+      "review_page": "review/records/lydian-ediana-54.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:256"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:55",
+      "review_page": "review/records/lydian-ediana-55.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:256f.",
+        "Gusmani 1964a:257"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:56",
+      "review_page": "review/records/lydian-ediana-56.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:57",
+      "review_page": "review/records/lydian-ediana-57.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:258"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:90",
+      "review_page": "review/records/lydian-ediana-90.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:258"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:58",
+      "review_page": "review/records/lydian-ediana-58.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:258"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:59",
+      "review_page": "review/records/lydian-ediana-59.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:258"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:96",
+      "review_page": "review/records/lydian-ediana-96.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:251"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:60",
+      "review_page": "review/records/lydian-ediana-60.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:61",
+      "review_page": "review/records/lydian-ediana-61.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:259"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:62",
+      "review_page": "review/records/lydian-ediana-62.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:259"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:63",
+      "review_page": "review/records/lydian-ediana-63.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:259f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:64",
+      "review_page": "review/records/lydian-ediana-64.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:260f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:65",
+      "review_page": "review/records/lydian-ediana-65.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:261"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:66",
+      "review_page": "review/records/lydian-ediana-66.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:261f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:67",
+      "review_page": "review/records/lydian-ediana-67.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:262"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:68",
+      "review_page": "review/records/lydian-ediana-68.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:262"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:69",
+      "review_page": "review/records/lydian-ediana-69.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:262"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:99",
+      "review_page": "review/records/lydian-ediana-99.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:251"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:10",
+      "review_page": "review/records/lydian-ediana-10.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:262"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:11",
+      "review_page": "review/records/lydian-ediana-11.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:263"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:12",
+      "review_page": "review/records/lydian-ediana-12.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:263"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:70",
+      "review_page": "review/records/lydian-ediana-70.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:263"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:71",
+      "review_page": "review/records/lydian-ediana-71.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:263"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:72",
+      "review_page": "review/records/lydian-ediana-72.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:263"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:73",
+      "review_page": "review/records/lydian-ediana-73.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:263"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:74",
+      "review_page": "review/records/lydian-ediana-74.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:263"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:75",
+      "review_page": "review/records/lydian-ediana-75.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:263"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:76",
+      "review_page": "review/records/lydian-ediana-76.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:263"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:103",
+      "review_page": "review/records/lydian-ediana-103.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:264 / Payne & Sasseville 2016a"
+      ],
+      "source_check_ids": [
+        "LYD-LW40-HISTORICAL"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:97",
+      "review_page": "review/records/lydian-ediana-97.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:264"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:82",
+      "review_page": "review/records/lydian-ediana-82.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:264"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:83",
+      "review_page": "review/records/lydian-ediana-83.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:265"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:84",
+      "review_page": "review/records/lydian-ediana-84.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:265"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:85",
+      "review_page": "review/records/lydian-ediana-85.md",
+      "citations_verbatim": [
+        "See LW 44, 1st column"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:87",
+      "review_page": "review/records/lydian-ediana-87.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:266"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:86",
+      "review_page": "review/records/lydian-ediana-86.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:266"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:81",
+      "review_page": "review/records/lydian-ediana-81.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:266"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:20",
+      "review_page": "review/records/lydian-ediana-20.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:266"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:9",
+      "review_page": "review/records/lydian-ediana-9.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:266"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:45",
+      "review_page": "review/records/lydian-ediana-45.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:252"
+      ],
+      "source_check_ids": [
+        "LYD-1916-NUMBERING"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:46",
+      "review_page": "review/records/lydian-ediana-46.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:252",
+        "See LW 4a"
+      ],
+      "source_check_ids": [
+        "LYD-1916-NUMBERING"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:47",
+      "review_page": "review/records/lydian-ediana-47.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:252"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:100",
+      "review_page": "review/records/lydian-ediana-100.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:267"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:30",
+      "review_page": "review/records/lydian-ediana-30.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:267"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:3",
+      "review_page": "review/records/lydian-ediana-3.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:267"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:88",
+      "review_page": "review/records/lydian-ediana-88.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:267"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:31",
+      "review_page": "review/records/lydian-ediana-31.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:268"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:24",
+      "review_page": "review/records/lydian-ediana-24.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:268"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:25",
+      "review_page": "review/records/lydian-ediana-25.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:268"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:32",
+      "review_page": "review/records/lydian-ediana-32.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:268"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:5",
+      "review_page": "review/records/lydian-ediana-5.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:268"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:77",
+      "review_page": "review/records/lydian-ediana-77.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:269"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:48",
+      "review_page": "review/records/lydian-ediana-48.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:252"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:14",
+      "review_page": "review/records/lydian-ediana-14.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:269"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:78",
+      "review_page": "review/records/lydian-ediana-78.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:269"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:110",
+      "review_page": "review/records/lydian-ediana-110.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:151 / Poetto 2006a"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:6",
+      "review_page": "review/records/lydian-ediana-6.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:151"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:21",
+      "review_page": "review/records/lydian-ediana-21.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:152"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:104",
+      "review_page": "review/records/lydian-ediana-104.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:152"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:43",
+      "review_page": "review/records/lydian-ediana-43.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:152"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:2",
+      "review_page": "review/records/lydian-ediana-2.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:152"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:33",
+      "review_page": "review/records/lydian-ediana-33.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:152"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:4",
+      "review_page": "review/records/lydian-ediana-4.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:152"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:49",
+      "review_page": "review/records/lydian-ediana-49.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:253"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:79",
+      "review_page": "review/records/lydian-ediana-79.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:153"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:91",
+      "review_page": "review/records/lydian-ediana-91.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:153"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:7",
+      "review_page": "review/records/lydian-ediana-7.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:153"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:111",
+      "review_page": "review/records/lydian-ediana-111.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:154f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:38",
+      "review_page": "review/records/lydian-ediana-38.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:154f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:39",
+      "review_page": "review/records/lydian-ediana-39.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:154f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:40",
+      "review_page": "review/records/lydian-ediana-40.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:154f.",
+        "Gusmani 1980a:154"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:41",
+      "review_page": "review/records/lydian-ediana-41.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:154f.",
+        "Gusmani 1980a:154"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:42",
+      "review_page": "review/records/lydian-ediana-42.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:154"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:112",
+      "review_page": "review/records/lydian-ediana-112.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:154"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:89",
+      "review_page": "review/records/lydian-ediana-89.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:253"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:92",
+      "review_page": "review/records/lydian-ediana-92.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:154f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:80",
+      "review_page": "review/records/lydian-ediana-80.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:155"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:93",
+      "review_page": "review/records/lydian-ediana-93.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:155"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:34",
+      "review_page": "review/records/lydian-ediana-34.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:155"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:35",
+      "review_page": "review/records/lydian-ediana-35.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:155"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:13",
+      "review_page": "review/records/lydian-ediana-13.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:156"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:105",
+      "review_page": "review/records/lydian-ediana-105.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:156"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:15",
+      "review_page": "review/records/lydian-ediana-15.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:156"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:16",
+      "review_page": "review/records/lydian-ediana-16.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:156"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:17",
+      "review_page": "review/records/lydian-ediana-17.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:156"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:50",
+      "review_page": "review/records/lydian-ediana-50.md",
+      "citations_verbatim": [
+        "Gusmani 1964a:253"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:36",
+      "review_page": "review/records/lydian-ediana-36.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:156"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:44",
+      "review_page": "review/records/lydian-ediana-44.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:156"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:18",
+      "review_page": "review/records/lydian-ediana-18.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:156"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:106",
+      "review_page": "review/records/lydian-ediana-106.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:156"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:37",
+      "review_page": "review/records/lydian-ediana-37.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:156"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:113",
+      "review_page": "review/records/lydian-ediana-113.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:156"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:0",
+      "review_page": "review/records/lydian-ediana-0.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:157"
+      ],
+      "source_check_ids": [
+        "LYD-CATALOG-96-98"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:22",
+      "review_page": "review/records/lydian-ediana-22.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:157"
+      ],
+      "source_check_ids": [
+        "LYD-CATALOG-96-98"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:23",
+      "review_page": "review/records/lydian-ediana-23.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:157"
+      ],
+      "source_check_ids": [
+        "LYD-CATALOG-96-98"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:19",
+      "review_page": "review/records/lydian-ediana-19.md",
+      "citations_verbatim": [
+        "Gusmani 1980a:157"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:114",
+      "review_page": "review/records/lydian-ediana-114.md",
+      "citations_verbatim": [
+        "Poetto & Salvatori 1981a: 42f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:115",
+      "review_page": "review/records/lydian-ediana-115.md",
+      "citations_verbatim": [
+        "Lemaire 1992a"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:116",
+      "review_page": "review/records/lydian-ediana-116.md",
+      "citations_verbatim": [
+        "Adiego 1997:156f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:1",
+      "review_page": "review/records/lydian-ediana-1.md",
+      "citations_verbatim": [
+        "Browne 2000a"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:98",
+      "review_page": "review/records/lydian-ediana-98.md",
+      "citations_verbatim": [
+        "Gusmani & Akkan 2004a"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:94",
+      "review_page": "review/records/lydian-ediana-94.md",
+      "citations_verbatim": [
+        "Egetmeyer 2012a"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "lydian:ediana:117",
+      "review_page": "review/records/lydian-ediana-117.md",
+      "citations_verbatim": [
+        "Adiego & Ivantchik 2016a"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    }
+  ]
+}

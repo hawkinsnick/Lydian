@@ -41,6 +41,61 @@
       "expert_questions": [
         "Obtain the Lydian corpus document using title and author, not siglum alone"
       ]
+    },
+    {
+      "check_id": "LYD-1916-NUMBERING",
+      "record_ids": [
+        "lydian:ediana:95",
+        "lydian:ediana:45",
+        "lydian:ediana:46"
+      ],
+      "inspection": "PDF_TEXT_CHECKED; TARGETED_READING_OR_DRAWING_PAGE_VISUALLY_CHECKED; NOT_FULL_COLLATION",
+      "source_url": "https://archive.org/download/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf",
+      "source_sha256": "95815c6e69eb05e439f1f634e8ced07cfd3a62866287ce3ad94c1fc45c9360c6",
+      "locators": [
+        "printed p.viii (PDF page 10), original Sardis excavation numbering",
+        "printed p.30 (PDF page 42), L.17 bilingual text",
+        "printed pp.42–43 (PDF pages 54–55), L.1 subdivisions b and a"
+      ],
+      "finding": "Textual comparison supports provisional concordances L.17 → modern LW1 and L.1a/b → LW4a/b. Equal ordinal numbers are not a valid join. These are edition-to-record candidates; current object inventories and full sign collation remain unresolved.",
+      "canonical_change": false,
+      "bibliography": {
+        "author": "Enno Littmann",
+        "year": 1916,
+        "title": "Lydian inscriptions, Part I",
+        "edition_identity_evidence": "Archive item title and handwritten title leaf; introductory note dated March 1916, printed p.viii (PDF page 10). Scan is Part I, not Buckler 1924 Part II."
+      },
+      "concordance_state": "TEXTUAL_CONCORDANCE_CANDIDATE",
+      "independence": "Historical edition within the same publication lineage; not a new examination by this project",
+      "expert_questions": [
+        "Confirm changed numbering against Buckler 1924 and Gusmani",
+        "Collate sign values, restored letters and the a/b layout separately"
+      ]
+    },
+    {
+      "check_id": "LYD-LW40-HISTORICAL",
+      "record_ids": [
+        "lydian:ediana:103"
+      ],
+      "inspection": "PDF_TEXT_CHECKED; TARGETED_READING_OR_DRAWING_PAGE_VISUALLY_CHECKED; NOT_FULL_COLLATION",
+      "source_url": "https://archive.org/download/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf",
+      "source_sha256": "95815c6e69eb05e439f1f634e8ced07cfd3a62866287ce3ad94c1fc45c9360c6",
+      "locators": [
+        "printed pp.39–40 (PDF pages 51–52), Pergamon / Inschr. v. Pergamon no.1"
+      ],
+      "finding": "The historical Pergamon discussion proposes a restoration involving Athena and describes dependence on a published squeeze photograph. Modern LW40 has different readings and cites Payne–Sasseville 2016. Retain the historical proposal as a competing interpretation; do not transfer its restored goddess name into the frozen text.",
+      "canonical_change": false,
+      "bibliography": {
+        "author": "Enno Littmann",
+        "year": 1916,
+        "title": "Lydian inscriptions, Part I",
+        "edition_identity_evidence": "Archive item title and handwritten title leaf; introductory note dated March 1916, printed p.viii (PDF page 10). Scan is Part I, not Buckler 1924 Part II."
+      },
+      "independence": "Littmann explicitly relied on Bohn’s published squeeze photograph; shared object evidence is not independent replication",
+      "expert_questions": [
+        "Acquire Payne–Sasseville 2016 and compare each reading",
+        "Confirm Pergamon object concordance and photographic lineage"
+      ]
     }
   ],
   "source_check_is_not_independent_review": true

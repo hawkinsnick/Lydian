@@ -5,7 +5,7 @@ Source label: LW/N 115 (Lake Koloe)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `1e3b19c1b143fec65c3a0a96fda84f313e4de2b93d20b212b4a4129bccf2d1c9`
-Evidence fingerprint: `090ad0871406ad5e310ef521a54ef67f5c8942bb54ae93dd3d42d1f9230ca4cd`
+Evidence fingerprint: `eb71fe3fc97ca0a5e9a1b3fd9152958e7c0378b25f8a1c8857193f3112d24401`
 
 ## Captured source evidence
 

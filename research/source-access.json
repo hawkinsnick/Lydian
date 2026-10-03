@@ -74,6 +74,32 @@
       "access_state": "NOT_ACQUIRED",
       "attempt_result": "Response was HTML, not a valid PDF; web fetch could not retrieve the large declared file",
       "next_action": "Locate an accessible institutional scan or supply a legally obtained copy; no primary-edition inspection claimed"
+    },
+    {
+      "source_url": "https://archive.org/download/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "VALID_PDF_ACQUIRED_AND_TARGETED_PAGES_INSPECTED",
+      "attempt_result": "102-page scan; selected printed pages visually checked",
+      "source_sha256": "95815c6e69eb05e439f1f634e8ced07cfd3a62866287ce3ad94c1fc45c9360c6",
+      "edition": "Littmann 1916 Part I",
+      "rights_evidence_url": "https://archive.org/metadata/lydianinscriptio00littuoft",
+      "redistribution": "Archive asserts NOT_IN_COPYRIGHT for the US. Historical publication date corroborated by introductory note; no scan or image imported into this repository. Public-domain material must not be made subject to project noncommercial restrictions."
+    },
+    {
+      "source_url": "https://commons.library.stonybrook.edu/amar/59/",
+      "checked_on": "2026-10-03",
+      "access_state": "METADATA_ONLY; DOWNLOAD_NOT_ACQUIRED",
+      "attempt_result": "Buckler 1924 Part II listed by institutional archive; HTTP 403 download route",
+      "next_action": "Acquire Part II through an accessible institutional route; do not substitute Part I"
+    },
+    {
+      "source_url": "https://www.oscarbilling.se/pdfs/billingsasseville2024lydian.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "VALID_AUTHOR_HOSTED_PDF_ACQUIRED; COLLATION_PENDING",
+      "source_sha256": "5d05e0af429ea1d5bd59df74a71d39c6d9bdc6b036886f1e7da19ecbc1bf9c68",
+      "attempt_result": "16-page PDF; acquisition confirmed; printed pp.99–113 and appendix",
+      "redistribution": "No scan imported; reuse permissions not established",
+      "next_action": "Compare the attributed LW12/LW13/LW15 interpretations against captured source lines, without adopting lexical or phonological proposals as fact"
     }
   ],
   "scope": "Targeted edition access attempts; not exhaustive global availability search"

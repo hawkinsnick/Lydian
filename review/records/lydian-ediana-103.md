@@ -5,7 +5,7 @@ Source label: LW 40 (Pergamum)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `7dd1cb6c96af04bb16307a430ebc066c996420e99d087be4f0a65daf2267d643`
-Evidence fingerprint: `090ad0871406ad5e310ef521a54ef67f5c8942bb54ae93dd3d42d1f9230ca4cd`
+Evidence fingerprint: `eb71fe3fc97ca0a5e9a1b3fd9152958e7c0378b25f8a1c8857193f3112d24401`
 
 ## Captured source evidence
 
@@ -33,7 +33,16 @@ partaraṣ maλiλ
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### LYD-LW40-HISTORICAL
+
+Source: [https://archive.org/download/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf](https://archive.org/download/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf)
+
+Locators: printed pp.39–40 (PDF pages 51–52), Pergamon / Inschr. v. Pergamon no.1
+
+The historical Pergamon discussion proposes a restoration involving Athena and describes dependence on a published squeeze photograph. Modern LW40 has different readings and cites Payne–Sasseville 2016. Retain the historical proposal as a competing interpretation; do not transfer its restored goddess name into the frozen text.
+
+- Acquire Payne–Sasseville 2016 and compare each reading
+- Confirm Pergamon object concordance and photographic lineage
 
 ## Record a decision
 

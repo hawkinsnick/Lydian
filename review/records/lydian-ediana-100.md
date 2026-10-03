@@ -5,7 +5,7 @@ Source label: LW 50 (Middle Kaystros)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `30a64ea7db63f6e2414e1cab19ac10b03d680d60f9dd68fa8116d900e52659a3`
-Evidence fingerprint: `090ad0871406ad5e310ef521a54ef67f5c8942bb54ae93dd3d42d1f9230ca4cd`
+Evidence fingerprint: `eb71fe3fc97ca0a5e9a1b3fd9152958e7c0378b25f8a1c8857193f3112d24401`
 
 ## Captured source evidence
 
