@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "attempts": [
+    {
+      "source_url": "https://linguistics.ucla.edu/people/Melchert/lydiancorpus.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "NOT_A_VALID_PDF",
+      "attempt_result": "HTTP content was HTML; PDF parser rejected it",
+      "next_action": "Locate an author-hosted or institutionally preserved copy; do not treat landing HTML as acquired corpus PDF"
+    },
+    {
+      "source_url": "https://linguistics.ucla.edu/people/Melchert/webpage/lydiancorpus.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "NOT_A_VALID_PDF",
+      "attempt_result": "HTTP content was HTML; PDF parser rejected it",
+      "next_action": "Locate an author-hosted or institutionally preserved copy; do not treat landing HTML as acquired corpus PDF"
+    },
+    {
+      "source_url": "https://titus.uni-frankfurt.de/texte/etcs/anatol/lydian/lydcot.htm",
+      "checked_on": "2026-10-03",
+      "access_state": "HTML_INSPECTED",
+      "redistribution": "TITUS states prior permission required; no source text or page copied into repository",
+      "dependency": "shared edition lineage"
+    }
+  ],
+  "scope": "Targeted edition access attempts; not exhaustive global availability search"
+}

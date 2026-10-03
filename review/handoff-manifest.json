@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
+  "input_fingerprints": [
+    {
+      "path": "data/reference/records.json",
+      "sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9"
+    },
+    {
+      "path": "analysis/record-admission.json",
+      "sha256": "fe3d177b0ed7f1e9fd808be3687edc73b704288d1f58064604db496b7f245fb9"
+    },
+    {
+      "path": "research/edition-dependencies.json",
+      "sha256": "1cee3fe2211520e48523b9bfe5afda14008acb10f83051bb9ac29c6288c9e012"
+    },
+    {
+      "path": "research/admission-policy.json",
+      "sha256": "175399b744d600673163ec4350b272dc10a54f2246f9e26f9bdb1a7857afc1d0"
+    },
+    {
+      "path": "research/source-issues.json",
+      "sha256": "36560b8f03508a46a36618de042ce4209e3cb90ebcbc3f9c0db19d5e36cb4cb7"
+    },
+    {
+      "path": "research/source-checks.json",
+      "sha256": "2d5ce9e9e532e562e75d2c0c1b21659787270d1aebfffd8b8e4f9537e27970d7"
+    },
+    {
+      "path": "research/source-access.json",
+      "sha256": "f67b44620cafd7963f73f0f522175fa5d67ae50c3161cccb3ad1e4f9fdccf006"
+    },
+    {
+      "path": "research/rights-evidence.json",
+      "sha256": "ce6f4be255c3d2baa00ab36f095593475a290983df86bda4e77ed1e735cc92ca"
+    },
+    {
+      "path": "DATA-LICENSE-MATRIX.md",
+      "sha256": "0ef333ce1272445875f78bdf058b078c0b619d41a8e30657af6a39759b652879"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "ee65a1ee34dce0279818ca24c3bcf6bbbb4a9d2e51fbde58db7a31d41bba8dfd"
+    },
+    {
+      "path": "project.json",
+      "sha256": "88d48a664ba5fbb0aa189ae39a379a05ff8b65601998e8cde9a65c6c3e49e7ba"
+    },
+    {
+      "path": "scripts/build_review.py",
+      "sha256": "737e1608b52d8506d01c8249663d56a6ab5330533b73f33040616f08b4fd67e5"
+    },
+    {
+      "path": "scripts/validate_review.py",
+      "sha256": "0b6c8784e8cc6a7d799868f1721ea77b681a534116a6cabb24ea6e57e3562956"
+    }
+  ],
+  "packet_count": 118,
+  "source_checked_records": 3,
+  "independently_reviewed_records": 0,
+  "admitted_records": 0,
+  "handoff_status": "PREPARED_FOR_RECORD_LEVEL_REVIEW; SOURCE_ACQUISITION_AND_COLLATION_STILL_INCOMPLETE",
+  "review_is_not_automatic_admission": true
+}
