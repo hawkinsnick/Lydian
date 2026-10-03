@@ -5,7 +5,7 @@ Source label: LW 58 (Sardis)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `d652aa0b3ffc82d6d33d2961940fdaee13a8eaac192a5a6f7c50bd97389f2b1a`
-Evidence fingerprint: `2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da`
+Evidence fingerprint: `6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b`
 
 ## Captured source evidence
 

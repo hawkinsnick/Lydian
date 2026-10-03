@@ -1,7 +1,7 @@
 [
   {
     "record_id": "lydian:ediana:95",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "d433f6a247620bbab3a7ebe176c7e6354635ce41737f831fc88733b567c177d0",
     "source_catalog_label": "LW 1 (Sardis)",
     "source_headings": [
@@ -41,7 +41,7 @@
   },
   {
     "record_id": "lydian:ediana:51",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "99d2b5e13cb8b6d705e7776898de0c52f0f3aac548e72b3428fe81e0cfa27c18",
     "source_catalog_label": "LW 10 (Sardis)",
     "source_headings": [
@@ -97,7 +97,7 @@
   },
   {
     "record_id": "lydian:ediana:101",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "442f0def147a8ce75b2495241903567497b245a9d6018977cc7ff3964b2cd475",
     "source_catalog_label": "LW 100 (Sardis)",
     "source_headings": [
@@ -127,7 +127,7 @@
   },
   {
     "record_id": "lydian:ediana:107",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "4a69dd39a352e5e43072073bafca61fe0f5d3519cb064a9364d657e069371e50",
     "source_catalog_label": "LW 101 (Sardis)",
     "source_headings": [
@@ -160,7 +160,7 @@
   },
   {
     "record_id": "lydian:ediana:26",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "5c56385ce6b706c96c56f1d5e68f4017971373c757b2710d463e90d500a7fb5e",
     "source_catalog_label": "LW 102",
     "source_headings": [
@@ -192,7 +192,7 @@
   },
   {
     "record_id": "lydian:ediana:108",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "afcd29faccf645c09f82f2c33c7fbd0b91142ba2eb547e428030ecfa37b1d934",
     "source_catalog_label": "LW 103 (Sardis)",
     "source_headings": [
@@ -224,7 +224,7 @@
   },
   {
     "record_id": "lydian:ediana:27",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "22945b73ffb6406a89d4a181267e467154189b92aa53e4dc3b68eaffe464cfe6",
     "source_catalog_label": "LW 104",
     "source_headings": [
@@ -256,7 +256,7 @@
   },
   {
     "record_id": "lydian:ediana:28",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "6872fbcd83e2355859aa1edf114cfcab84c333302be544bd6e5dbcaa59f16966",
     "source_catalog_label": "LW 105",
     "source_headings": [
@@ -288,7 +288,7 @@
   },
   {
     "record_id": "lydian:ediana:29",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "105fa02c01aed1e29e7589dc22d3ad43e83a1f672c5e72d3b09f7381a2310258",
     "source_catalog_label": "LW 106",
     "source_headings": [
@@ -320,7 +320,7 @@
   },
   {
     "record_id": "lydian:ediana:109",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "93a895f9128cee269c89f9525783edd503fb7031aa0d61f99899258c7833e762",
     "source_catalog_label": "LW 107 (Sardis)",
     "source_headings": [
@@ -352,7 +352,7 @@
   },
   {
     "record_id": "lydian:ediana:102",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "ccdacc525a79adc3d6c037e25eae25256c97abf85e106764eabc850a89192076",
     "source_catalog_label": "LW 108 (Sardis)",
     "source_headings": [
@@ -389,7 +389,7 @@
   },
   {
     "record_id": "lydian:ediana:8",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "7ac3121f83b4a9ced38d15bff859b52bec5cfe871deaa5917a6b207e58d5ef08",
     "source_catalog_label": "LW 109 (Sardis)",
     "source_headings": [
@@ -421,7 +421,7 @@
   },
   {
     "record_id": "lydian:ediana:52",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "3a537542df2db928240e7296577247edfec682cb08c7a9ec36632d45a9c8bd2b",
     "source_catalog_label": "LW 11 (Sardis)",
     "source_headings": [
@@ -464,7 +464,7 @@
   },
   {
     "record_id": "lydian:ediana:53",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "86ec7bb82702d0f211cfe2aee0dc22c879fc0a3c9e8b4f9cf9a91e16c31bc4aa",
     "source_catalog_label": "LW 12 (Sardis)",
     "source_headings": [
@@ -505,7 +505,7 @@
   },
   {
     "record_id": "lydian:ediana:54",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "3424d12582379d8500b4e9368a4f1d53d84848058674dbe15495dc8e0d596c0e",
     "source_catalog_label": "LW 13 (Sardis)",
     "source_headings": [
@@ -549,7 +549,7 @@
   },
   {
     "record_id": "lydian:ediana:55",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "018310ad930b58eded3568928179ca830055a8f1319c64b9680de8625c68e983",
     "source_catalog_label": "LW 14 (Sardis)",
     "source_headings": [
@@ -600,7 +600,7 @@
   },
   {
     "record_id": "lydian:ediana:56",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "226171109c5ff7252161efc8971c41427149f0175a2fcb4261a6dfe8c608f44f",
     "source_catalog_label": "LW 15 (Sardis)",
     "source_headings": [
@@ -639,7 +639,7 @@
   },
   {
     "record_id": "lydian:ediana:57",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "7807363f452c06e3ed51a1034e407b86e2626a81cb42bca6428c2ee208d6056f",
     "source_catalog_label": "LW 16 (Sardis)",
     "source_headings": [
@@ -675,7 +675,7 @@
   },
   {
     "record_id": "lydian:ediana:90",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "abda906b84d0d43ce99d4dafdfd4778fc6093f39ae80663f8ef4d16df98eb236",
     "source_catalog_label": "LW 17 (Sardis)",
     "source_headings": [
@@ -709,7 +709,7 @@
   },
   {
     "record_id": "lydian:ediana:58",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "b880baf39314241c85ba9b6fc94d8d16f3b43e8bf66bc723fa2cfc6465523f12",
     "source_catalog_label": "LW 18 (Sardis)",
     "source_headings": [
@@ -742,7 +742,7 @@
   },
   {
     "record_id": "lydian:ediana:59",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "b1e8b60eaa0b710f5153f36f2ffc2a811fbd5ca1eb61b1fc1d6293a5b67a8a5f",
     "source_catalog_label": "LW 19 (Sardis)",
     "source_headings": [
@@ -776,7 +776,7 @@
   },
   {
     "record_id": "lydian:ediana:96",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "90ce4f02efdba3c05dcba22bead2575169ff61c9f1cb0be941f6d832f5ada7d2",
     "source_catalog_label": "LW 2 (Sardis)",
     "source_headings": [
@@ -820,7 +820,7 @@
   },
   {
     "record_id": "lydian:ediana:60",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "022d020858bc23a1b9c9c3ea93a8fb561473db2cdcb69e83db16c781722a246b",
     "source_catalog_label": "LW 20 (Sardis)",
     "source_headings": [
@@ -850,7 +850,7 @@
   },
   {
     "record_id": "lydian:ediana:61",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "909cb5b75f140315edaaa55ace24d968a1c7198ea7fd1def93de87f8ea267f1e",
     "source_catalog_label": "LW 21 (Sardis)",
     "source_headings": [
@@ -882,7 +882,7 @@
   },
   {
     "record_id": "lydian:ediana:62",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "499906a645acb5ccb93a7e05b78b6d4ec09dd6d22076f10e6122d5ce1f4335b8",
     "source_catalog_label": "LW 22 (Sardis)",
     "source_headings": [
@@ -928,7 +928,7 @@
   },
   {
     "record_id": "lydian:ediana:63",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "ac4153bd7525754e513ac2ab5ec472077e5810ac2ff6854f1cde687d9ea4f36a",
     "source_catalog_label": "LW 23 (Sardis)",
     "source_headings": [
@@ -981,7 +981,7 @@
   },
   {
     "record_id": "lydian:ediana:64",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "df3ff5a3ae62a3b4f768c6e2865fff3f2901d6618ff1dee1fa1d0915d0f667d5",
     "source_catalog_label": "LW 24 (Sardis)",
     "source_headings": [
@@ -1035,7 +1035,7 @@
   },
   {
     "record_id": "lydian:ediana:65",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "f03b01a0d32cb3397c7f8ec63d003e8322f58137f6f9d076df69caea99576abc",
     "source_catalog_label": "LW 25 (Sardis)",
     "source_headings": [
@@ -1072,7 +1072,7 @@
   },
   {
     "record_id": "lydian:ediana:66",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "525078508c881c50ccf39bd84abccdd491eba7e2310694008e526581e34575fc",
     "source_catalog_label": "LW 26 (Sardis)",
     "source_headings": [
@@ -1107,7 +1107,7 @@
   },
   {
     "record_id": "lydian:ediana:67",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "2c11262135a8568591a1785be8f6a79509de99de95c1322f6dca66bd5d40a826",
     "source_catalog_label": "LW 27 (Sardis)",
     "source_headings": [
@@ -1141,7 +1141,7 @@
   },
   {
     "record_id": "lydian:ediana:68",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "ac498fdc41010120fcf649513d9135aa8282d925758a695fe52ce3dda3cc8503",
     "source_catalog_label": "LW 28 (Sardis)",
     "source_headings": [
@@ -1173,7 +1173,7 @@
   },
   {
     "record_id": "lydian:ediana:69",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "3032df696f2f99479cf8a1f8852f4aca1159fc9d43d04fe5eb5bd60ff84c7186",
     "source_catalog_label": "LW 29 (Sardis)",
     "source_headings": [
@@ -1206,7 +1206,7 @@
   },
   {
     "record_id": "lydian:ediana:99",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "5aaf605d01a38970a274e01e1c183becfe2470f1f9b1d21fb4664c644a744600",
     "source_catalog_label": "LW 3 (Sardis)",
     "source_headings": [
@@ -1242,7 +1242,7 @@
   },
   {
     "record_id": "lydian:ediana:10",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "175f48f3856a2df000f46863d43234eee31a4856bfb9a6415524f2984325e497",
     "source_catalog_label": "LW 30 (Sardis)",
     "source_headings": [
@@ -1275,7 +1275,7 @@
   },
   {
     "record_id": "lydian:ediana:11",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "3602b1e55eb53117ed9f0b4e0de5b198a6c89c4ef7a3317e2abfe32b7e30d146",
     "source_catalog_label": "LW 31 (Sardis)",
     "source_headings": [
@@ -1307,7 +1307,7 @@
   },
   {
     "record_id": "lydian:ediana:12",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "9089c14627abb6a0798fd58df2d0b42220625aabfbac6e50b44f61460da24f23",
     "source_catalog_label": "LW 32 (Sardis)",
     "source_headings": [
@@ -1339,7 +1339,7 @@
   },
   {
     "record_id": "lydian:ediana:70",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "bff88e07307fcdead931df05660d1ec143bc63c0fa033dfffcff95b5dc241e8f",
     "source_catalog_label": "LW 33 (Sardis)",
     "source_headings": [
@@ -1371,7 +1371,7 @@
   },
   {
     "record_id": "lydian:ediana:71",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "fe614eff025823fa4fda7719eedc8baf46a01d5af42d04b8692741ad9bd6e4ca",
     "source_catalog_label": "LW 34 (Sardis)",
     "source_headings": [
@@ -1403,7 +1403,7 @@
   },
   {
     "record_id": "lydian:ediana:72",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "e3f383ffcee798c5c7cd84ba591ceab1463976b91e25a2a1eaf5d430173d52a5",
     "source_catalog_label": "LW 35 (Sardis)",
     "source_headings": [
@@ -1435,7 +1435,7 @@
   },
   {
     "record_id": "lydian:ediana:73",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "0e2c9c143461bc854a6bf2fc3d1a01e6f08cd2da4b3b113bac72b0159e0c034d",
     "source_catalog_label": "LW 36 (Sardis)",
     "source_headings": [
@@ -1467,7 +1467,7 @@
   },
   {
     "record_id": "lydian:ediana:74",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "3f1cc6dc327ac4def134641e18cc60769f4875b41043f60d1fb4482482b481ac",
     "source_catalog_label": "LW 37 (Sardis)",
     "source_headings": [
@@ -1499,7 +1499,7 @@
   },
   {
     "record_id": "lydian:ediana:75",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "5911b2b2fb8f2f6d13cc0d27a1bb28e95ef686f24c80c7e74f26c1aba18583f5",
     "source_catalog_label": "LW 38 (Sardis)",
     "source_headings": [
@@ -1531,7 +1531,7 @@
   },
   {
     "record_id": "lydian:ediana:76",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "1a8ed8514c550343aab0ce244c9e514793ee0206e406319d56143bd12ea6ac63",
     "source_catalog_label": "LW 39 (Sardis)",
     "source_headings": [
@@ -1563,7 +1563,7 @@
   },
   {
     "record_id": "lydian:ediana:103",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "7dd1cb6c96af04bb16307a430ebc066c996420e99d087be4f0a65daf2267d643",
     "source_catalog_label": "LW 40 (Pergamum)",
     "source_headings": [
@@ -1596,7 +1596,7 @@
   },
   {
     "record_id": "lydian:ediana:97",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "8b9582dc03c25e44cd2ebd691a9d90d702cf3114a9c505ff1c03b1856e09ef29",
     "source_catalog_label": "LW 41 (Middle Kaystros)",
     "source_headings": [
@@ -1634,7 +1634,7 @@
   },
   {
     "record_id": "lydian:ediana:82",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "7050ce82a929d2f751dc61f608b55809332c13119c8734ff47447784d7a67872",
     "source_catalog_label": "LW 42 (Emre; Maionia)",
     "source_headings": [
@@ -1672,7 +1672,7 @@
   },
   {
     "record_id": "lydian:ediana:83",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "9a37d65d6a46a4b4a60d42ca66cb00da2d1d0813b51e04548063479b0b25b835",
     "source_catalog_label": "LW 43 (Magnesia on Mt. Sipylus)",
     "source_headings": [
@@ -1709,7 +1709,7 @@
   },
   {
     "record_id": "lydian:ediana:84",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "085c3dafe196e4abc04a72c725ddb02d2c6374e89e6352d64c500a224fb9a3bc",
     "source_catalog_label": "LW 44 (Magnesia on Mt. Sipylus), 1st column",
     "source_headings": [
@@ -1758,7 +1758,7 @@
   },
   {
     "record_id": "lydian:ediana:85",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "a60be6ba0c6f8f4bd5dbb15debb48bf5b8c2966618a12461c2a76e8584c24977",
     "source_catalog_label": "LW 44 (Magnesia on Mt. Sipylus), 2nd column",
     "source_headings": [
@@ -1796,7 +1796,7 @@
   },
   {
     "record_id": "lydian:ediana:87",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "9e5d8755be96972e81a666ed3e0c0dfda22412b8ee64acceb23343eb6fe4f0f6",
     "source_catalog_label": "LW 45 (Kogamos valley)",
     "source_headings": [
@@ -1832,7 +1832,7 @@
   },
   {
     "record_id": "lydian:ediana:86",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "1400f74a33de123ab41c9b797a7f9bcc4c16007eadb6a6ead2026dceee15e6cf",
     "source_catalog_label": "LW 46 (Magnesia on Mt. Sipylus)",
     "source_headings": [
@@ -1871,7 +1871,7 @@
   },
   {
     "record_id": "lydian:ediana:81",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "f04b5d473e78abb1ad00e0e4220d13e312d59ca3af290663ebb89d05f47fa240",
     "source_catalog_label": "LW 47 (Middle Kaystros)",
     "source_headings": [
@@ -1904,7 +1904,7 @@
   },
   {
     "record_id": "lydian:ediana:20",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "66c7c7388dd1f73b393378f7e8f3d4e9f86b07e0d5c236aa41f49ef2574b0373",
     "source_catalog_label": "LW 48 (Ephesus)",
     "source_headings": [
@@ -1936,7 +1936,7 @@
   },
   {
     "record_id": "lydian:ediana:9",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "7863041660715d153a413b4042f74965b3e2dcff4b548495cd6d72ea6892e72a",
     "source_catalog_label": "LW 49 (Silsilis; High Egypt)",
     "source_headings": [
@@ -1969,7 +1969,7 @@
   },
   {
     "record_id": "lydian:ediana:45",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "72602f48bf6f2026e9c77c8862587cff692774ff0afb8e902d4e434241a3fa9f",
     "source_catalog_label": "LW 4a (Sardis)",
     "source_headings": [
@@ -2005,7 +2005,7 @@
   },
   {
     "record_id": "lydian:ediana:46",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "dc37c02bb729c6dbc9f81e90332001ce77cd56598161697b26c87ee37ae0cea4",
     "source_catalog_label": "LW 4b (Sardis)",
     "source_headings": [
@@ -2042,7 +2042,7 @@
   },
   {
     "record_id": "lydian:ediana:47",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "460c3560dc59aba1d4aa678fa1500930617e5d9583186876504a93ee31868ec8",
     "source_catalog_label": "LW 5 (Sardis)",
     "source_headings": [
@@ -2078,7 +2078,7 @@
   },
   {
     "record_id": "lydian:ediana:100",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "30a64ea7db63f6e2414e1cab19ac10b03d680d60f9dd68fa8116d900e52659a3",
     "source_catalog_label": "LW 50 (Middle Kaystros)",
     "source_headings": [
@@ -2116,7 +2116,7 @@
   },
   {
     "record_id": "lydian:ediana:30",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "46667520fc04be42381d042de7ebd57cabb2abbe1db25c3e2cedab24ab0b5a3b",
     "source_catalog_label": "LW 51 (Sardis)",
     "source_headings": [
@@ -2149,7 +2149,7 @@
   },
   {
     "record_id": "lydian:ediana:3",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "0e1877abc444a89d10b3af7fe4ef807759b27373e9258ea42fa2df3dd4a092c5",
     "source_catalog_label": "LW 52 (Ephesus)",
     "source_headings": [
@@ -2181,7 +2181,7 @@
   },
   {
     "record_id": "lydian:ediana:88",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "dbbeddfcd2defd1168b7f12bc53a243ef740ddf25e15a3f360bf3afb2cea6e26",
     "source_catalog_label": "LW 53 (High Hermos)",
     "source_headings": [
@@ -2213,7 +2213,7 @@
   },
   {
     "record_id": "lydian:ediana:31",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "0691f657a4a99e19e073bafa90387574a03af6ef205dd00570571620cca8627c",
     "source_catalog_label": "LW 54 (Sardis)",
     "source_headings": [
@@ -2250,7 +2250,7 @@
   },
   {
     "record_id": "lydian:ediana:24",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "c29ea913e6a5c3fa512ccc2c4a746b948047e22afbd0db883f9bf005196c9ccd",
     "source_catalog_label": "LW 55",
     "source_headings": [
@@ -2282,7 +2282,7 @@
   },
   {
     "record_id": "lydian:ediana:25",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "f05c22303b288b8fb818f086a1ee642a8739d512d1ae0f7b04886d10b65e55d6",
     "source_catalog_label": "LW 56",
     "source_headings": [
@@ -2314,7 +2314,7 @@
   },
   {
     "record_id": "lydian:ediana:32",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "8fbf8b8a0c5eaa6dcf440d511e317baf5383c41185b6e6d32df11d6f1c874c85",
     "source_catalog_label": "LW 57 (Sardis)",
     "source_headings": [
@@ -2346,7 +2346,7 @@
   },
   {
     "record_id": "lydian:ediana:5",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "d652aa0b3ffc82d6d33d2961940fdaee13a8eaac192a5a6f7c50bd97389f2b1a",
     "source_catalog_label": "LW 58 (Sardis)",
     "source_headings": [
@@ -2378,7 +2378,7 @@
   },
   {
     "record_id": "lydian:ediana:77",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "0805c2894744f1f6a6692b943a665d93debeff5c4ea10f2e8d4c512dbcd4ec5a",
     "source_catalog_label": "LW 59 (Sardis)",
     "source_headings": [
@@ -2411,7 +2411,7 @@
   },
   {
     "record_id": "lydian:ediana:48",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "f3fa43bd2c51615e47f0a922d2cee4724ccdf44da031b003e263738e4558566b",
     "source_catalog_label": "LW 6 (Sardis)",
     "source_headings": [
@@ -2448,7 +2448,7 @@
   },
   {
     "record_id": "lydian:ediana:14",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "b09c387b0d5949cc7349a1557610c1b6288e047ba56882fb8b8469e246bf1d94",
     "source_catalog_label": "LW 60 (Sardis)",
     "source_headings": [
@@ -2482,7 +2482,7 @@
   },
   {
     "record_id": "lydian:ediana:78",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "899da077fe372cd7f595a9c27e1d3ac312e43a0da0f41ccef9625fe226391176",
     "source_catalog_label": "LW 61 (Sardis)",
     "source_headings": [
@@ -2514,7 +2514,7 @@
   },
   {
     "record_id": "lydian:ediana:110",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "934523eb99c34bcc425079e2c5b5b368cc4db625368d3a8be8468cdfdb815e1d",
     "source_catalog_label": "LW 62 (Middle Kaystros)",
     "source_headings": [
@@ -2552,7 +2552,7 @@
   },
   {
     "record_id": "lydian:ediana:6",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "627c8243c880c6c83b3d497cf398136da72fb3007652e26aaccd5e7983168fd0",
     "source_catalog_label": "LW 63 (Sardis)",
     "source_headings": [
@@ -2585,7 +2585,7 @@
   },
   {
     "record_id": "lydian:ediana:21",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "8d498ae7a7b9b2d125554b14efb561d42dea5477ac715d77d71de0cd586ccde0",
     "source_catalog_label": "LW 64 (Sardis)",
     "source_headings": [
@@ -2618,7 +2618,7 @@
   },
   {
     "record_id": "lydian:ediana:104",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "cb3384eeeb8b11faf5b084b9788a8ed957ae0cb04dbd264f0d2b393bd4293de1",
     "source_catalog_label": "LW 65 (Sardis)",
     "source_headings": [
@@ -2650,7 +2650,7 @@
   },
   {
     "record_id": "lydian:ediana:43",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "70952178d3c46593c29346483e767d08c9975e2a244e11e664bbaf5eb3616592",
     "source_catalog_label": "LW 66 (Sardis)",
     "source_headings": [
@@ -2683,7 +2683,7 @@
   },
   {
     "record_id": "lydian:ediana:2",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "b38f97065077a19ac68da7e05bd1cd4db829590e5a2e4407ca02eddda7d50f76",
     "source_catalog_label": "LW 67 (Sardis)",
     "source_headings": [
@@ -2715,7 +2715,7 @@
   },
   {
     "record_id": "lydian:ediana:33",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "ebfda35e2452284953cbb5d9b1570622831415abd529f59a0767daf491ba1db2",
     "source_catalog_label": "LW 68 (Sardis)",
     "source_headings": [
@@ -2747,7 +2747,7 @@
   },
   {
     "record_id": "lydian:ediana:4",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "94cc5c135d53e504f78074058b86c760b01352768479bd997723bf4d9f39ade5",
     "source_catalog_label": "LW 69 (Colophon)",
     "source_headings": [
@@ -2779,7 +2779,7 @@
   },
   {
     "record_id": "lydian:ediana:49",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "48e80bf0618f0963b3179bd25055e389e8fab310063289a5bd5281e20c433134",
     "source_catalog_label": "LW 7 (Sardis)",
     "source_headings": [
@@ -2816,7 +2816,7 @@
   },
   {
     "record_id": "lydian:ediana:79",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "cc70c18fe5e38b62ec2234ba4e85b5178e9ee58d4570d6808f103cf5f2385f97",
     "source_catalog_label": "LW 70 (Sardis)",
     "source_headings": [
@@ -2849,7 +2849,7 @@
   },
   {
     "record_id": "lydian:ediana:91",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "11dd24c349594427bfc14d178332e822e5de9ab035c456aca1365dff36b5630e",
     "source_catalog_label": "LW 71 (Sardis)",
     "source_headings": [
@@ -2887,7 +2887,7 @@
   },
   {
     "record_id": "lydian:ediana:7",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "d80321f008a13ed993e513270e4e8eb66f8bb41c6acd6bbcb621f1b471d0dfa4",
     "source_catalog_label": "LW 72 (Sardis)",
     "source_headings": [
@@ -2919,7 +2919,7 @@
   },
   {
     "record_id": "lydian:ediana:111",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "f880a60d3c4f43444ecda7cc3f9e340b15651e5b59dfdb4d3af2d1e46dd12522",
     "source_catalog_label": "LW 73 (Kerč; Chersonesus Taurica)",
     "source_headings": [
@@ -2951,7 +2951,7 @@
   },
   {
     "record_id": "lydian:ediana:38",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "f25daf0f194b5ff8d357248b3f676aa92bda23436aa99b1681dd0415c500ef88",
     "source_catalog_label": "LW 74",
     "source_headings": [
@@ -2983,7 +2983,7 @@
   },
   {
     "record_id": "lydian:ediana:39",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "108dfa0c4ffbfa207ab9d5fb4d66d214c970ecd1cfca82200a894299adb38ca9",
     "source_catalog_label": "LW 75",
     "source_headings": [
@@ -3016,7 +3016,7 @@
   },
   {
     "record_id": "lydian:ediana:40",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "192adcc5570cafac964ff7e28899c433d866fd631a5cfdac7388e05b7c692341",
     "source_catalog_label": "LW 76",
     "source_headings": [
@@ -3049,7 +3049,7 @@
   },
   {
     "record_id": "lydian:ediana:41",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "03c9f270bb83112a0ce207c9141b3d1fab92d3dd8dd908390f107bf66dfc7b0e",
     "source_catalog_label": "LW 77",
     "source_headings": [
@@ -3082,7 +3082,7 @@
   },
   {
     "record_id": "lydian:ediana:42",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "e3ca219dab576a61b223d6e8264ba782bc4e90191aecb5f428f9517ccd5b57ab",
     "source_catalog_label": "LW 78",
     "source_headings": [
@@ -3114,7 +3114,7 @@
   },
   {
     "record_id": "lydian:ediana:112",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "1fd614b1fb9cd83dc609c0af655cb176f881629841d1de9c3352b5f7c8fa438a",
     "source_catalog_label": "LW 79 (Aphrodisias)",
     "source_headings": [
@@ -3148,7 +3148,7 @@
   },
   {
     "record_id": "lydian:ediana:89",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "da23c88d1b70a69ac787ccf863e4ec792dfce7e7f93d98931a9d8d1d74651589",
     "source_catalog_label": "LW 8 (Sardis)",
     "source_headings": [
@@ -3191,7 +3191,7 @@
   },
   {
     "record_id": "lydian:ediana:92",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "b174df483db9cec86044b89fd45ef870bc44980fa819b23019efa56f90b5ed50",
     "source_catalog_label": "LW 80 (Sardis)",
     "source_headings": [
@@ -3241,7 +3241,7 @@
   },
   {
     "record_id": "lydian:ediana:80",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "aa58b58940e694b01b1ec85422e72c9c47ff2526786fa1efdab8232de029bd8f",
     "source_catalog_label": "LW 81 (Sardis)",
     "source_headings": [
@@ -3273,7 +3273,7 @@
   },
   {
     "record_id": "lydian:ediana:93",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "2738b9b1675a6ce7773e7d789bd1fbf6b99ed49282692400cac496c78dcde325",
     "source_catalog_label": "LW 82 (Sardis)",
     "source_headings": [
@@ -3305,7 +3305,7 @@
   },
   {
     "record_id": "lydian:ediana:34",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "8a27bdb420d7bf5364e761c90172f8d1d54db2a4c8a52d7346cf787e4f60e1de",
     "source_catalog_label": "LW 83 (Sardis)",
     "source_headings": [
@@ -3337,7 +3337,7 @@
   },
   {
     "record_id": "lydian:ediana:35",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "86f2e9c89a04393140531601914b89264bc32802926a14b27c6f6e9eaf746b7f",
     "source_catalog_label": "LW 84 (Sardis)",
     "source_headings": [
@@ -3369,7 +3369,7 @@
   },
   {
     "record_id": "lydian:ediana:13",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "751d27dd59bd8cb5f6cea02738272a96138f62166257385d5d1bc603b891dcf1",
     "source_catalog_label": "LW 85 (Sardis)",
     "source_headings": [
@@ -3401,7 +3401,7 @@
   },
   {
     "record_id": "lydian:ediana:105",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "1503606a14ba3cde3cde7defb17d00e357e475a0a1f2434c7e529ea8db2af9b0",
     "source_catalog_label": "LW 86 (Sardis)",
     "source_headings": [
@@ -3433,7 +3433,7 @@
   },
   {
     "record_id": "lydian:ediana:15",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "e756d314707280e5f24d1bfdb5c5a74ee0416ec0a62ff47b05fdecac3d7af147",
     "source_catalog_label": "LW 87 (Sardis)",
     "source_headings": [
@@ -3465,7 +3465,7 @@
   },
   {
     "record_id": "lydian:ediana:16",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "fc1d87991edbb38df917891358c772016e395c5984888f10a1b99fb365f51b03",
     "source_catalog_label": "LW 88 (Sardis)",
     "source_headings": [
@@ -3497,7 +3497,7 @@
   },
   {
     "record_id": "lydian:ediana:17",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "8bb81d91ed09f8921db592b6c26cc944417161dafd7b6d3e7e8f9a6ec756bd22",
     "source_catalog_label": "LW 89 (Sardis)",
     "source_headings": [
@@ -3529,7 +3529,7 @@
   },
   {
     "record_id": "lydian:ediana:50",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "4eb4f40703e033f1eb88bbe346ded1ffea04bcb7e01cbdc59078af1f15ac18c4",
     "source_catalog_label": "LW 9 (Sardis)",
     "source_headings": [
@@ -3570,7 +3570,7 @@
   },
   {
     "record_id": "lydian:ediana:36",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "69a88353282cedffd79fb67292da31cdd18d74e2df1d831a4663f460476cec9e",
     "source_catalog_label": "LW 90 (Sardis)",
     "source_headings": [
@@ -3602,7 +3602,7 @@
   },
   {
     "record_id": "lydian:ediana:44",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "0c154239395719f973975547f310a27c697e67edcd333ecbc6b6a2104738f9a9",
     "source_catalog_label": "LW 91 (Sardis)",
     "source_headings": [
@@ -3634,7 +3634,7 @@
   },
   {
     "record_id": "lydian:ediana:18",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "a8e854f139d6aa1f1fe54398290008b3bcd2a657aaf9972789e025c08d90f438",
     "source_catalog_label": "LW 92 (Sardis)",
     "source_headings": [
@@ -3666,7 +3666,7 @@
   },
   {
     "record_id": "lydian:ediana:106",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "9dbf66052bc4fde665e9c7932b48ded41d4ad8fc091605a800aa3afb0a6278c4",
     "source_catalog_label": "LW 93 (Sardis)",
     "source_headings": [
@@ -3698,7 +3698,7 @@
   },
   {
     "record_id": "lydian:ediana:37",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "85e399056f4f07ae5e3fac2ad496a475c41e07777228ce2ac67f2c639804e7a2",
     "source_catalog_label": "LW 94 (Sardis)",
     "source_headings": [
@@ -3730,7 +3730,7 @@
   },
   {
     "record_id": "lydian:ediana:113",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "3b635d4892b4e59a37390f50a8b101d62abfa2c59cbc8eb1575bc7bbc9ab8896",
     "source_catalog_label": "LW 95",
     "source_headings": [
@@ -3762,7 +3762,7 @@
   },
   {
     "record_id": "lydian:ediana:0",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "4954413c751ad6f5b3f534ac7760bab37cce4d08bceebb45f280ee77fe7523a9",
     "source_catalog_label": "LW 96 (Bayraklı; near Smyrna)",
     "source_headings": [
@@ -3796,7 +3796,7 @@
   },
   {
     "record_id": "lydian:ediana:22",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "1cf56b779ebe8c0d122443eb4c557a6abe79f6300a82fdcfeb69ef6b1917f07b",
     "source_catalog_label": "LW 96 (Bayraklı; near Smyrna)",
     "source_headings": [
@@ -3830,7 +3830,7 @@
   },
   {
     "record_id": "lydian:ediana:23",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "bb30212f7db01d8b0373877ca5fa6c23ab2503a62ae70decdd2c88acfb762d97",
     "source_catalog_label": "LW 96 (Bayraklı; near Smyrna)",
     "source_headings": [
@@ -3865,7 +3865,7 @@
   },
   {
     "record_id": "lydian:ediana:19",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "567b654de87fbb22d86c909474e8edfd03d7d58535de94ec32c749b482ef2601",
     "source_catalog_label": "LW 99 (Sardis)",
     "source_headings": [
@@ -3897,7 +3897,7 @@
   },
   {
     "record_id": "lydian:ediana:114",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "660ebaff9da30a0ba8724afb722bb6dc87497f8c83d2a99f791bd09713195ffe",
     "source_catalog_label": "LW/N 110",
     "source_headings": [
@@ -3929,7 +3929,7 @@
   },
   {
     "record_id": "lydian:ediana:115",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "fe7acc9d3ade0f1cb095ed6f0c0110356ebb99615ca0539e5f6f17f1496ac3d3",
     "source_catalog_label": "LW/N 111",
     "source_headings": [
@@ -3961,7 +3961,7 @@
   },
   {
     "record_id": "lydian:ediana:116",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "6b70e78acec57ac1dc7fd97b8a8bc4e512be202d36f1833bcb23aff59486b5c2",
     "source_catalog_label": "LW/N 113 (Miletus)",
     "source_headings": [
@@ -3994,7 +3994,7 @@
   },
   {
     "record_id": "lydian:ediana:1",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "ddb3fed6810cfc2cbb505271fd93cb01a225bae9651a0e076cc02dda15eceb65",
     "source_catalog_label": "LW/N 114",
     "source_headings": [
@@ -4026,7 +4026,7 @@
   },
   {
     "record_id": "lydian:ediana:98",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "1e3b19c1b143fec65c3a0a96fda84f313e4de2b93d20b212b4a4129bccf2d1c9",
     "source_catalog_label": "LW/N 115 (Lake Koloe)",
     "source_headings": [
@@ -4069,7 +4069,7 @@
   },
   {
     "record_id": "lydian:ediana:94",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "a0d82a9cb16bd9036b2556bc804facc8567559f5d6a4caebf36fe801e96e7ecc",
     "source_catalog_label": "LW/N 116",
     "source_headings": [
@@ -4101,7 +4101,7 @@
   },
   {
     "record_id": "lydian:ediana:117",
-    "evidence_fingerprint": "2c3f85feb5bcaa52442dec90a9827c2e7587dec4b49c5e768b3bcce824d427da",
+    "evidence_fingerprint": "6b990ebab392528f35f43d85d3f0bdc081f96e8b849ad67d47173c2f3411408b",
     "record_sha256": "5cb5897272e3aff2de037353e046fadb30b7ad4740fb41aa6e4d5179bd60bb42",
     "source_catalog_label": "LW/N 117",
     "source_headings": [

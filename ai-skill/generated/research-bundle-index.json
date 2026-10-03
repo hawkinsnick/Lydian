@@ -2,7 +2,7 @@
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
   "source_commit": "008ed5b43186ef654d9e83b9cc087e8ebe676f74",
-  "evidence_fingerprint_sha256": "384a389c14e7a6c70656d8052206ac1de53fbdbae4651ba2a3f602bc1aa61b98",
+  "evidence_fingerprint_sha256": "eb75292065fd5ea23441cf9b86c56774e9166566037b9d3c5cad84f2ceb2aead",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -122,14 +122,14 @@
     {
       "role": "packets",
       "path": "review/packets.json",
-      "sha256": "6021eb5717afe23218feba4d79a0adbe91d2f690d4e5c5f3425c15a076314716",
+      "sha256": "9cc49177d52e442586e2953eb326367b2dd888b41332bad056587e85e682d5db",
       "bytes": 130047
     },
     {
       "role": "handoff-manifest",
       "path": "review/handoff-manifest.json",
-      "sha256": "03cd1adf15d7b0af7bca03bd25c4705ea4ea14dc6e5a0faf2fb8a99311f8abba",
-      "bytes": 1424
+      "sha256": "a7a5c65956a9885e1c0945691569db505a158926814f82168aeab78579426d1f",
+      "bytes": 2226
     },
     {
       "role": "raw_source",
