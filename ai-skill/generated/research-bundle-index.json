@@ -2,7 +2,7 @@
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
   "source_commit": "008ed5b43186ef654d9e83b9cc087e8ebe676f74",
-  "evidence_fingerprint_sha256": "dce58f97a2b845fc7d790e83519043b7844c1fe3ebcb091d748b42883dd20ef2",
+  "evidence_fingerprint_sha256": "384a389c14e7a6c70656d8052206ac1de53fbdbae4651ba2a3f602bc1aa61b98",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -26,8 +26,8 @@
     {
       "role": "rights_matrix",
       "path": "DATA-LICENSE-MATRIX.md",
-      "sha256": "bde8c3a3e979dece5f15d11a2c9ceef0f303808f16267d1f9292d335ac1ce363",
-      "bytes": 694
+      "sha256": "0ef333ce1272445875f78bdf058b078c0b619d41a8e30657af6a39759b652879",
+      "bytes": 941
     },
     {
       "role": "rights_evidence",
