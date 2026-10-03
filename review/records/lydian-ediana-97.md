@@ -5,7 +5,7 @@ Source label: LW 41 (Middle Kaystros)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `8b9582dc03c25e44cd2ebd691a9d90d702cf3114a9c505ff1c03b1856e09ef29`
-Evidence fingerprint: `090ad0871406ad5e310ef521a54ef67f5c8942bb54ae93dd3d42d1f9230ca4cd`
+Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
 
 ## Captured source evidence
 

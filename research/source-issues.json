@@ -29,6 +29,11 @@
       "date": "2026-10-03",
       "version": "0.3.1",
       "change": "Documented additional catalog discovery and failed institutional edition-access routes, with rights restrictions. No protected content imported."
+    },
+    {
+      "date": "2026-10-03",
+      "version": "0.4.0",
+      "change": "Added directly acquired editions, targeted comparison findings and full frozen-record source worklist; canonical transcriptions and admission gates unchanged"
     }
   ]
 }

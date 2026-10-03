@@ -5,7 +5,7 @@ Source label: LW 40 (Pergamum)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `7dd1cb6c96af04bb16307a430ebc066c996420e99d087be4f0a65daf2267d643`
-Evidence fingerprint: `090ad0871406ad5e310ef521a54ef67f5c8942bb54ae93dd3d42d1f9230ca4cd`
+Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
 
 ## Captured source evidence
 
@@ -33,7 +33,34 @@ partaraṣ maλiλ
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### LYD-LW40-HISTORICAL
+
+Source: [https://archive.org/download/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf](https://archive.org/download/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf)
+
+Locators: printed pp.39–40 (PDF pages 51–52), Pergamon / Inschr. v. Pergamon no.1
+
+The historical Pergamon discussion proposes a restoration involving Athena and describes dependence on a published squeeze photograph. Modern LW40 has different readings and cites Payne–Sasseville 2016. Retain the historical proposal as a competing interpretation; do not transfer its restored goddess name into the frozen text.
+
+- Acquire Payne–Sasseville 2016 and compare each reading
+- Confirm Pergamon object concordance and photographic lineage
+
+### LYD-LW40-2016
+
+Source: [https://www.researchgate.net/profile/Annick-Payne/publication/311499251_Die_lydische_Athene_Eine_neue_Edition_von_LW_40/links/642f22fe4e83cd0e2f95ad7a/Die-lydische-Athene-Eine-neue-Edition-von-LW-40.pdf](https://www.researchgate.net/profile/Annick-Payne/publication/311499251_Die_lydische_Athene_Eine_neue_Edition_von_LW_40/links/642f22fe4e83cd0e2f95ad7a/Die-lydische-Athene-Eine-neue-Edition-von-LW-40.pdf)
+
+Locators: printed p.66 (PDF page 1), object and inventory IvP1 assertion; printed pp.69–70 (PDF pages 4–5), edition history and Neulesung; printed pp.72–75, sign discussion
+
+The 2016 edition places the goddess name in the final word and reads the third word as a verb. This differs from the frozen third-word form and the 1916 syntactic proposal. The authors report object collation and RTI use; those are their evidence assertions, not a project examination. Do not silently replace the frozen reading.
+
+Attributed scholarly proposal for third_word_only; surrounding word uncertainty has not been re-encoded from extracted text:
+
+````text
+acνil
+````
+
+- Compare all damaged signs in the original PDF typography and RTI before transcribing uncertainty
+- Verify the third-word conflict and distinguish syntactic analysis from sign reading
+- Reconcile inventory and current access to the column drum
 
 ## Record a decision
 

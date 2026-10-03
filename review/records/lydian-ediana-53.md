@@ -5,7 +5,7 @@ Source label: LW 12 (Sardis)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `86ec7bb82702d0f211cfe2aee0dc22c879fc0a3c9e8b4f9cf9a91e16c31bc4aa`
-Evidence fingerprint: `090ad0871406ad5e310ef521a54ef67f5c8942bb54ae93dd3d42d1f9230ca4cd`
+Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
 
 ## Captured source evidence
 
@@ -97,7 +97,16 @@ ṇịṇ linẽd wνišλ lẽν fẽntašẽnaν ḷạfod
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### LYD-2024-LW12
+
+Source: [https://www.oscarbilling.se/pdfs/billingsasseville2024lydian.pdf](https://www.oscarbilling.se/pdfs/billingsasseville2024lydian.pdf)
+
+Locators: printed pp.109–110, §4, example (2) (PDF pages 11–12)
+
+The authors offer a new etymological and contextual interpretation of kocwid in LW12 lines 7–9. This is an attributed lexical/phonological proposal, not a newly verified inscription or a transferable cross-corpus sign value. Preserve their uncertainty and compare the cited passage with the frozen transcription.
+
+- Evaluate lexical interpretation separately from signs and restorations
+- Assess the proposed sound law without treating cognate comparison as independent decipherment evidence
 
 ## Record a decision
 

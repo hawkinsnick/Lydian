@@ -41,6 +41,197 @@
       "expert_questions": [
         "Obtain the Lydian corpus document using title and author, not siglum alone"
       ]
+    },
+    {
+      "check_id": "LYD-1916-NUMBERING",
+      "record_ids": [
+        "lydian:ediana:95",
+        "lydian:ediana:45",
+        "lydian:ediana:46"
+      ],
+      "inspection": "PDF_TEXT_CHECKED; TARGETED_READING_OR_DRAWING_PAGE_VISUALLY_CHECKED; NOT_FULL_COLLATION",
+      "source_url": "https://archive.org/download/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf",
+      "source_sha256": "95815c6e69eb05e439f1f634e8ced07cfd3a62866287ce3ad94c1fc45c9360c6",
+      "locators": [
+        "printed p.viii (PDF page 10), original Sardis excavation numbering",
+        "printed p.30 (PDF page 42), L.17 bilingual text",
+        "printed pp.42–43 (PDF pages 54–55), L.1 subdivisions b and a"
+      ],
+      "finding": "Textual comparison supports provisional concordances L.17 → modern LW1 and L.1a/b → LW4a/b. Equal ordinal numbers are not a valid join. These are edition-to-record candidates; current object inventories and full sign collation remain unresolved.",
+      "canonical_change": false,
+      "bibliography": {
+        "author": "Enno Littmann",
+        "year": 1916,
+        "title": "Lydian inscriptions, Part I",
+        "edition_identity_evidence": "Archive item title and handwritten title leaf; introductory note dated March 1916, printed p.viii (PDF page 10). Scan is Part I, not Buckler 1924 Part II."
+      },
+      "concordance_state": "TEXTUAL_CONCORDANCE_CANDIDATE",
+      "independence": "Historical edition within the same publication lineage; not a new examination by this project",
+      "expert_questions": [
+        "Confirm changed numbering against Buckler 1924 and Gusmani",
+        "Collate sign values, restored letters and the a/b layout separately"
+      ]
+    },
+    {
+      "check_id": "LYD-LW40-HISTORICAL",
+      "record_ids": [
+        "lydian:ediana:103"
+      ],
+      "inspection": "PDF_TEXT_CHECKED; TARGETED_READING_OR_DRAWING_PAGE_VISUALLY_CHECKED; NOT_FULL_COLLATION",
+      "source_url": "https://archive.org/download/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf",
+      "source_sha256": "95815c6e69eb05e439f1f634e8ced07cfd3a62866287ce3ad94c1fc45c9360c6",
+      "locators": [
+        "printed pp.39–40 (PDF pages 51–52), Pergamon / Inschr. v. Pergamon no.1"
+      ],
+      "finding": "The historical Pergamon discussion proposes a restoration involving Athena and describes dependence on a published squeeze photograph. Modern LW40 has different readings and cites Payne–Sasseville 2016. Retain the historical proposal as a competing interpretation; do not transfer its restored goddess name into the frozen text.",
+      "canonical_change": false,
+      "bibliography": {
+        "author": "Enno Littmann",
+        "year": 1916,
+        "title": "Lydian inscriptions, Part I",
+        "edition_identity_evidence": "Archive item title and handwritten title leaf; introductory note dated March 1916, printed p.viii (PDF page 10). Scan is Part I, not Buckler 1924 Part II."
+      },
+      "independence": "Littmann explicitly relied on Bohn’s published squeeze photograph; shared object evidence is not independent replication",
+      "expert_questions": [
+        "Acquire Payne–Sasseville 2016 and compare each reading",
+        "Confirm Pergamon object concordance and photographic lineage"
+      ]
+    },
+    {
+      "check_id": "LYD-2024-LW15",
+      "record_ids": [
+        "lydian:ediana:56"
+      ],
+      "inspection": "PDF_TEXT_CHECKED; ATTRIBUTED_INTERPRETATION_CONTEXT_LOCATED; NOT_SIGN_ADJUDICATION",
+      "source_url": "https://www.oscarbilling.se/pdfs/billingsasseville2024lydian.pdf",
+      "source_sha256": "5d05e0af429ea1d5bd59df74a71d39c6d9bdc6b036886f1e7da19ecbc1bf9c68",
+      "bibliography": {
+        "authors": [
+          "Oscar Billing",
+          "David Sasseville"
+        ],
+        "year": 2024,
+        "title": "Lydian o-vocalism and the word for rite, cult supply",
+        "journal": "Kadmos",
+        "volume": "63",
+        "pages": "99–113",
+        "doi": "10.1515/kadmos-2024-0007"
+      },
+      "locators": [
+        "printed pp.107–109, §4, example (1) (PDF pages 9–11)"
+      ],
+      "finding": "The authors offer a new etymological and contextual interpretation of kocwid in LW15 lines 1–3. This is an attributed lexical/phonological proposal, not a newly verified inscription or a transferable cross-corpus sign value. Preserve their uncertainty and compare the cited passage with the frozen transcription.",
+      "independence": "Interpretation of established edition evidence; this project has not examined the object",
+      "canonical_change": false,
+      "expert_questions": [
+        "Evaluate lexical interpretation separately from signs and restorations",
+        "Assess the proposed sound law without treating cognate comparison as independent decipherment evidence"
+      ]
+    },
+    {
+      "check_id": "LYD-2024-LW12",
+      "record_ids": [
+        "lydian:ediana:53"
+      ],
+      "inspection": "PDF_TEXT_CHECKED; ATTRIBUTED_INTERPRETATION_CONTEXT_LOCATED; NOT_SIGN_ADJUDICATION",
+      "source_url": "https://www.oscarbilling.se/pdfs/billingsasseville2024lydian.pdf",
+      "source_sha256": "5d05e0af429ea1d5bd59df74a71d39c6d9bdc6b036886f1e7da19ecbc1bf9c68",
+      "bibliography": {
+        "authors": [
+          "Oscar Billing",
+          "David Sasseville"
+        ],
+        "year": 2024,
+        "title": "Lydian o-vocalism and the word for rite, cult supply",
+        "journal": "Kadmos",
+        "volume": "63",
+        "pages": "99–113",
+        "doi": "10.1515/kadmos-2024-0007"
+      },
+      "locators": [
+        "printed pp.109–110, §4, example (2) (PDF pages 11–12)"
+      ],
+      "finding": "The authors offer a new etymological and contextual interpretation of kocwid in LW12 lines 7–9. This is an attributed lexical/phonological proposal, not a newly verified inscription or a transferable cross-corpus sign value. Preserve their uncertainty and compare the cited passage with the frozen transcription.",
+      "independence": "Interpretation of established edition evidence; this project has not examined the object",
+      "canonical_change": false,
+      "expert_questions": [
+        "Evaluate lexical interpretation separately from signs and restorations",
+        "Assess the proposed sound law without treating cognate comparison as independent decipherment evidence"
+      ]
+    },
+    {
+      "check_id": "LYD-2024-LW13",
+      "record_ids": [
+        "lydian:ediana:54"
+      ],
+      "inspection": "PDF_TEXT_CHECKED; ATTRIBUTED_INTERPRETATION_CONTEXT_LOCATED; NOT_SIGN_ADJUDICATION",
+      "source_url": "https://www.oscarbilling.se/pdfs/billingsasseville2024lydian.pdf",
+      "source_sha256": "5d05e0af429ea1d5bd59df74a71d39c6d9bdc6b036886f1e7da19ecbc1bf9c68",
+      "bibliography": {
+        "authors": [
+          "Oscar Billing",
+          "David Sasseville"
+        ],
+        "year": 2024,
+        "title": "Lydian o-vocalism and the word for rite, cult supply",
+        "journal": "Kadmos",
+        "volume": "63",
+        "pages": "99–113",
+        "doi": "10.1515/kadmos-2024-0007"
+      },
+      "locators": [
+        "printed pp.110–111, §4, example (3) (PDF pages 12–13)"
+      ],
+      "finding": "The authors offer a new etymological and contextual interpretation of kocwid in LW13 lines 9–10. This is an attributed lexical/phonological proposal, not a newly verified inscription or a transferable cross-corpus sign value. Preserve their uncertainty and compare the cited passage with the frozen transcription.",
+      "independence": "Interpretation of established edition evidence; this project has not examined the object",
+      "canonical_change": false,
+      "expert_questions": [
+        "Evaluate lexical interpretation separately from signs and restorations",
+        "Assess the proposed sound law without treating cognate comparison as independent decipherment evidence"
+      ]
+    },
+    {
+      "check_id": "LYD-LW40-2016",
+      "record_ids": [
+        "lydian:ediana:103"
+      ],
+      "inspection": "AUTHOR_POSTED_PDF_TEXT_INSPECTED_VIA_WEB; LOCAL_DOWNLOAD_BLOCKED; TYPOGRAPHIC_UNCERTAINTY_NOT_VISUALLY_VERIFIED",
+      "source_url": "https://www.researchgate.net/profile/Annick-Payne/publication/311499251_Die_lydische_Athene_Eine_neue_Edition_von_LW_40/links/642f22fe4e83cd0e2f95ad7a/Die-lydische-Athene-Eine-neue-Edition-von-LW-40.pdf",
+      "bibliography": {
+        "authors": [
+          "Annick Payne",
+          "David Sasseville"
+        ],
+        "year": 2016,
+        "title": "Die lydische Athene: eine neue Edition von LW40",
+        "journal": "Historische Sprachforschung",
+        "volume": "129",
+        "pages": "66–82",
+        "doi": "10.13109/hisp.2016.129.1.66"
+      },
+      "locators": [
+        "printed p.66 (PDF page 1), object and inventory IvP1 assertion",
+        "printed pp.69–70 (PDF pages 4–5), edition history and Neulesung",
+        "printed pp.72–75, sign discussion"
+      ],
+      "source_pointer": "/LW 40 (Pergamum)/1",
+      "captured_reading": "ẹšν̣ tasẹ̃ν̣ f̣?acνil",
+      "proposed_reading": "acνil",
+      "proposal_scope": "third_word_only; surrounding word uncertainty has not been re-encoded from extracted text",
+      "proposal_state": "ATTRIBUTED_EDITION_READING; EXACT_TYPOGRAPHIC_COLLATION_PENDING",
+      "finding": "The 2016 edition places the goddess name in the final word and reads the third word as a verb. This differs from the frozen third-word form and the 1916 syntactic proposal. The authors report object collation and RTI use; those are their evidence assertions, not a project examination. Do not silently replace the frozen reading.",
+      "object_inventory_source_assertion": {
+        "inventory": "IvP1",
+        "asserted_in": 2016,
+        "current_location_verified": false
+      },
+      "independence": "Authors report collation on 20 October 2015 and RTI-assisted completion in September 2016. Shared object and earlier editions remain relevant; project has only inspected the publication text.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Compare all damaged signs in the original PDF typography and RTI before transcribing uncertainty",
+        "Verify the third-word conflict and distinguish syntactic analysis from sign reading",
+        "Reconcile inventory and current access to the column drum"
+      ]
     }
   ],
   "source_check_is_not_independent_review": true

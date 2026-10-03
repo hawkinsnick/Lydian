@@ -5,7 +5,7 @@ Source label: LW 4b (Sardis)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `dc37c02bb729c6dbc9f81e90332001ce77cd56598161697b26c87ee37ae0cea4`
-Evidence fingerprint: `090ad0871406ad5e310ef521a54ef67f5c8942bb54ae93dd3d42d1f9230ca4cd`
+Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
 
 ## Captured source evidence
 
@@ -58,7 +58,16 @@ artymuk wcpaqẽnt
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### LYD-1916-NUMBERING
+
+Source: [https://archive.org/download/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf](https://archive.org/download/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf)
+
+Locators: printed p.viii (PDF page 10), original Sardis excavation numbering; printed p.30 (PDF page 42), L.17 bilingual text; printed pp.42–43 (PDF pages 54–55), L.1 subdivisions b and a
+
+Textual comparison supports provisional concordances L.17 → modern LW1 and L.1a/b → LW4a/b. Equal ordinal numbers are not a valid join. These are edition-to-record candidates; current object inventories and full sign collation remain unresolved.
+
+- Confirm changed numbering against Buckler 1924 and Gusmani
+- Collate sign values, restored letters and the a/b layout separately
 
 ## Record a decision
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "evidence_fingerprint": "090ad0871406ad5e310ef521a54ef67f5c8942bb54ae93dd3d42d1f9230ca4cd",
+  "evidence_fingerprint": "7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6",
   "input_fingerprints": [
     {
       "path": "data/reference/records.json",
@@ -20,15 +20,23 @@
     },
     {
       "path": "research/source-issues.json",
-      "sha256": "832ee3b9c254d69d2f5b5dc1aa13ad73bee561d061e1a1ec76451be861b18240"
+      "sha256": "57aef5059b7d19a6f5512f7cb19b4181b938696f1be87fa426c2896a47c1fe49"
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "2d5ce9e9e532e562e75d2c0c1b21659787270d1aebfffd8b8e4f9537e27970d7"
+      "sha256": "48caa730af09aacc6781bc0e4538370fd3542039ee89491a83680e78dff2b92a"
     },
     {
       "path": "research/source-access.json",
-      "sha256": "f5e2eb00c19dfc772f6403d75888b1287703b7f98e79b437c88f68ce28bbecf5"
+      "sha256": "65ffe3d362e25ccbd0b029a6139e6bd01adce2e6e9c3e2c65fb98e4005a319f1"
+    },
+    {
+      "path": "research/source-worklist.json",
+      "sha256": "607f7106808847ec64e819b22e2801078a949eb9e69aafc48dc00606edb579a4"
+    },
+    {
+      "path": "scripts/build_source_worklist.py",
+      "sha256": "3e74e105874d4fb1fc39ec92d5cf3021a8b70574c5be6c007ed9277488353935"
     },
     {
       "path": "research/rights-evidence.json",
@@ -36,7 +44,7 @@
     },
     {
       "path": "DATA-LICENSE-MATRIX.md",
-      "sha256": "0ef333ce1272445875f78bdf058b078c0b619d41a8e30657af6a39759b652879"
+      "sha256": "62a6e8d32c479447c551c849832211b967d8fe8df95918282289a36cacba7685"
     },
     {
       "path": "NOTICE",
@@ -44,11 +52,11 @@
     },
     {
       "path": "project.json",
-      "sha256": "83028c2f1cd612cc43d3eb884e91fa6cdb19c4596a5c28fc6cea4e3b5f93a51e"
+      "sha256": "2fe1c202f44b23aba01921c53d869afa20927cfa8b781d55b52a1721d3d41cbb"
     },
     {
       "path": "scripts/build_review.py",
-      "sha256": "737e1608b52d8506d01c8249663d56a6ab5330533b73f33040616f08b4fd67e5"
+      "sha256": "665a2799830a84578c2568ddb7ecf8e20e745f66a5c1632ef50928ffca4e8265"
     },
     {
       "path": "scripts/validate_review.py",
@@ -56,7 +64,7 @@
     }
   ],
   "packet_count": 118,
-  "source_checked_records": 3,
+  "source_checked_records": 10,
   "independently_reviewed_records": 0,
   "admitted_records": 0,
   "handoff_status": "PREPARED_FOR_RECORD_LEVEL_REVIEW; SOURCE_ACQUISITION_AND_COLLATION_STILL_INCOMPLETE",

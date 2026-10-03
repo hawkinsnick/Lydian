@@ -49,6 +49,14 @@
       "inspection_state": "SOURCE_DISCOVERY_ONLY; no catalog content imported",
       "canonical_admission": false,
       "redistribution_permission": "PROTECTED_CONTENT_REPUBLICATION_RESTRICTED; link only"
+    },
+    {
+      "title": "Lydian o-vocalism and the word for rite, cult supply",
+      "attribution": "Oscar Billing and David Sasseville, 2024",
+      "locator": "10.1515/kadmos-2024-0007",
+      "inspection_state": "VALID_AUTHOR_HOSTED_PDF_ACQUIRED; targeted collation still pending",
+      "canonical_admission": false,
+      "redistribution_permission": "NOT_ESTABLISHED; metadata and link only"
     }
   ]
 }
