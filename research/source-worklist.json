@@ -688,7 +688,9 @@
       "citations_verbatim": [
         "Gusmani 1964a:255"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-2024-LW12"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -706,7 +708,9 @@
       "citations_verbatim": [
         "Gusmani 1964a:256"
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-2024-LW13"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -741,7 +745,9 @@
       "record_id": "lydian:ediana:56",
       "review_page": "review/records/lydian-ediana-56.md",
       "citations_verbatim": [],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "LYD-2024-LW15"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1226,7 +1232,8 @@
         "Gusmani 1964a:264 / Payne & Sasseville 2016a"
       ],
       "source_check_ids": [
-        "LYD-LW40-HISTORICAL"
+        "LYD-LW40-HISTORICAL",
+        "LYD-LW40-2016"
       ],
       "remaining_work": [
         "Confirm edition-to-record concordance",

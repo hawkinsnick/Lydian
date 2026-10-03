@@ -2,7 +2,7 @@
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
   "source_commit": "33738d1a82f5db5d14f599e21ca2d56e9fd6e423",
-  "evidence_fingerprint_sha256": "c067e0a3beea2733c7cd4a76eb3ddac6997a92165e95b81f1642c5248cfb32ec",
+  "evidence_fingerprint_sha256": "4b2e09603b07bdae47ebe664e38162e97097925f2a6f9008470fcb7a309c7477",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -110,32 +110,32 @@
     {
       "role": "source-checks",
       "path": "research/source-checks.json",
-      "sha256": "d8d8fd40919bd0b10a5abc94da29f7e854a38077804a5d7cbc0bde15d1f88574",
-      "bytes": 5366
+      "sha256": "48caa730af09aacc6781bc0e4538370fd3542039ee89491a83680e78dff2b92a",
+      "bytes": 12462
     },
     {
       "role": "source-access",
       "path": "research/source-access.json",
-      "sha256": "ac4ed48acf4ddfae7a325d48ffafb321ce2a0b7a02d0bc74d3d8f1f8f99f5143",
-      "bytes": 6515
+      "sha256": "65ffe3d362e25ccbd0b029a6139e6bd01adce2e6e9c3e2c65fb98e4005a319f1",
+      "bytes": 7264
     },
     {
       "role": "packets",
       "path": "review/packets.json",
-      "sha256": "fcf9a08106131b05c5ba6487207660291d41926d2e2e08359d4bc1629d6bbc41",
-      "bytes": 130200
+      "sha256": "6d8481285c3e1c20d7d34e80537167179ad4023f723e1e4b59b02c08b30ac9c0",
+      "bytes": 130317
     },
     {
       "role": "handoff-manifest",
       "path": "review/handoff-manifest.json",
-      "sha256": "4ef82039e19204dbc8664e86a44e64d5eb41f4669519f6662f224a32cd6442d1",
-      "bytes": 2515
+      "sha256": "14beb541d84f3cb00a2255009942b41a633bd3b41e1d788f82de52f2aff53c9d",
+      "bytes": 2516
     },
     {
       "role": "source-worklist",
       "path": "research/source-worklist.json",
-      "sha256": "9f15b14818cb730961b85c8de8a8cd4addb5f83d75ef36aafb632484ee59e41e",
-      "bytes": 90909
+      "sha256": "607f7106808847ec64e819b22e2801078a949eb9e69aafc48dc00606edb579a4",
+      "bytes": 91027
     },
     {
       "role": "raw_source",

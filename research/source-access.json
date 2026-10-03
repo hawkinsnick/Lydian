@@ -95,11 +95,19 @@
     {
       "source_url": "https://www.oscarbilling.se/pdfs/billingsasseville2024lydian.pdf",
       "checked_on": "2026-10-03",
-      "access_state": "VALID_AUTHOR_HOSTED_PDF_ACQUIRED; COLLATION_PENDING",
+      "access_state": "VALID_AUTHOR_HOSTED_PDF_ACQUIRED; THREE_INTERPRETATION_CONTEXTS_LOCATED",
       "source_sha256": "5d05e0af429ea1d5bd59df74a71d39c6d9bdc6b036886f1e7da19ecbc1bf9c68",
       "attempt_result": "16-page PDF; acquisition confirmed; printed pp.99–113 and appendix",
       "redistribution": "No scan imported; reuse permissions not established",
-      "next_action": "Compare the attributed LW12/LW13/LW15 interpretations against captured source lines, without adopting lexical or phonological proposals as fact"
+      "next_action": "Complete sign and uncertainty collation and expert evaluation of the attributed interpretations"
+    },
+    {
+      "source_url": "https://www.researchgate.net/profile/Annick-Payne/publication/311499251_Die_lydische_Athene_Eine_neue_Edition_von_LW_40/links/642f22fe4e83cd0e2f95ad7a/Die-lydische-Athene-Eine-neue-Edition-von-LW-40.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "AUTHOR_POSTED_PDF_TEXT_INSPECTED_VIA_WEB; LOCAL_DOWNLOAD_NOT_ACQUIRED",
+      "attempt_result": "Web retrieval exposed the 17-page article; direct download returned HTTP403. No local PDF hash available and no complete typography verification claimed.",
+      "redistribution": "2016 publisher copyright notice retained; no scan, image or full text imported",
+      "next_action": "Obtain an authorized local copy or inspect original PDF typography/RTI during sign-level collation"
     }
   ],
   "scope": "Targeted edition access attempts; not exhaustive global availability search"

@@ -17,10 +17,10 @@ Choose a record below. Read the [review guide](../docs/EXPERT-REVIEW.md) for the
 | [lydian:ediana:102](records/lydian-ediana-102.md) | LW 108 (Sardis) | BASELINE_COLLATION |
 | [lydian:ediana:8](records/lydian-ediana-8.md) | LW 109 (Sardis) | BASELINE_COLLATION |
 | [lydian:ediana:52](records/lydian-ediana-52.md) | LW 11 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:53](records/lydian-ediana-53.md) | LW 12 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:54](records/lydian-ediana-54.md) | LW 13 (Sardis) | BASELINE_COLLATION |
+| [lydian:ediana:53](records/lydian-ediana-53.md) | LW 12 (Sardis) | TARGETED_SOURCE_CONFLICT |
+| [lydian:ediana:54](records/lydian-ediana-54.md) | LW 13 (Sardis) | TARGETED_SOURCE_CONFLICT |
 | [lydian:ediana:55](records/lydian-ediana-55.md) | LW 14 (Sardis) | BASELINE_COLLATION |
-| [lydian:ediana:56](records/lydian-ediana-56.md) | LW 15 (Sardis) | EDITION_LOCATOR_MISSING |
+| [lydian:ediana:56](records/lydian-ediana-56.md) | LW 15 (Sardis) | TARGETED_SOURCE_CONFLICT |
 | [lydian:ediana:57](records/lydian-ediana-57.md) | LW 16 (Sardis) | BASELINE_COLLATION |
 | [lydian:ediana:90](records/lydian-ediana-90.md) | LW 17 (Sardis) | BASELINE_COLLATION |
 | [lydian:ediana:58](records/lydian-ediana-58.md) | LW 18 (Sardis) | BASELINE_COLLATION |

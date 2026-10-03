@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "evidence_fingerprint": "eb71fe3fc97ca0a5e9a1b3fd9152958e7c0378b25f8a1c8857193f3112d24401",
+  "evidence_fingerprint": "7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6",
   "input_fingerprints": [
     {
       "path": "data/reference/records.json",
@@ -24,15 +24,15 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "d8d8fd40919bd0b10a5abc94da29f7e854a38077804a5d7cbc0bde15d1f88574"
+      "sha256": "48caa730af09aacc6781bc0e4538370fd3542039ee89491a83680e78dff2b92a"
     },
     {
       "path": "research/source-access.json",
-      "sha256": "ac4ed48acf4ddfae7a325d48ffafb321ce2a0b7a02d0bc74d3d8f1f8f99f5143"
+      "sha256": "65ffe3d362e25ccbd0b029a6139e6bd01adce2e6e9c3e2c65fb98e4005a319f1"
     },
     {
       "path": "research/source-worklist.json",
-      "sha256": "9f15b14818cb730961b85c8de8a8cd4addb5f83d75ef36aafb632484ee59e41e"
+      "sha256": "607f7106808847ec64e819b22e2801078a949eb9e69aafc48dc00606edb579a4"
     },
     {
       "path": "scripts/build_source_worklist.py",
@@ -64,7 +64,7 @@
     }
   ],
   "packet_count": 118,
-  "source_checked_records": 7,
+  "source_checked_records": 10,
   "independently_reviewed_records": 0,
   "admitted_records": 0,
   "handoff_status": "PREPARED_FOR_RECORD_LEVEL_REVIEW; SOURCE_ACQUISITION_AND_COLLATION_STILL_INCOMPLETE",
