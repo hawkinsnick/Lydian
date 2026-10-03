@@ -1,0 +1,359 @@
+{
+  "source_url": "https://www.ediana.gwi.uni-muenchen.de/literature.php",
+  "api_url": "https://www.ediana.gwi.uni-muenchen.de/includes/api.php",
+  "captured_on": "2026-10-03",
+  "license": "CC-BY-SA-4.0",
+  "queries": [
+    {
+      "query": "Adiego & Ivantchik 2016a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Adiego & Ivantchik 2016a"
+      },
+      "response_sha256": "f9c1eea2bef63beca5a313f3e1fe081335a388d0e1665daef7e723b064c5584c",
+      "response": [
+        {
+          "ref_wpid": "9330",
+          "ref_sigle": "Adiego & Ivantchik 2016a",
+          "ref_id": "3694",
+          "ref_year": "2016",
+          "ref_type": "volume article",
+          "ref_pages": "289-299",
+          "ref_exc_avail": "1",
+          "ref_title_jv": "Kelainai-Apameia Kibotos. Une métropole achéménide, héllénistique et romaine",
+          "ref_title": "Une inscription lydienne de Kelainai"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Adiego 1997",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Adiego 1997"
+      },
+      "response_sha256": "da7c4b65fecd2eab91bf9650b10c8db7e337a2382c4d153f4785deaf4a443cb7",
+      "response": [
+        {
+          "ref_wpid": "7211",
+          "ref_sigle": "Adiego 1997a",
+          "ref_id": "2866",
+          "ref_year": "1997",
+          "ref_type": "volume article",
+          "ref_pages": "156-157",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "Archäologischer Anzeiger",
+          "ref_title": "Fragment d'une inscription lydienne"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Browne 2000a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Browne 2000a"
+      },
+      "response_sha256": "4b758ad56ea86d64a7d19e63828b970db4eaf52333a005d8438ad4548c35f8ba",
+      "response": [
+        {
+          "ref_wpid": "1492",
+          "ref_sigle": "Browne 2000a",
+          "ref_id": "8",
+          "ref_year": "2000",
+          "ref_type": "journal article",
+          "ref_pages": "177-178",
+          "ref_exc_avail": "1",
+          "ref_title_jv": "Kadmos. Zeitschrift für vor- und frühgriechische Epigraphik",
+          "ref_title": "A New Lydian Text"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Egetmeyer 2012a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Egetmeyer 2012a"
+      },
+      "response_sha256": "420d86ef76d7cde0864895e758f5ef1e5b273e18666db59118055ebe96f3481f",
+      "response": [
+        {
+          "ref_wpid": "1767",
+          "ref_sigle": "Egetmeyer 2012a",
+          "ref_id": "164",
+          "ref_year": "2012",
+          "ref_type": "journal article",
+          "ref_pages": "175-178",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "Kadmos. Zeitschrift für vor- und frühgriechische Epigraphik",
+          "ref_title": "Eine neue Münze mit lydischer Inschrift"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Gusmani & Akkan 2004a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Gusmani & Akkan 2004a"
+      },
+      "response_sha256": "aab04574b178c3a89eb51ced4f3e14e72f118930a3ebd576d769823311a91b50",
+      "response": [
+        {
+          "ref_wpid": "3044",
+          "ref_sigle": "Gusmani & Akkan 2004a",
+          "ref_id": "737",
+          "ref_year": "2004",
+          "ref_type": "journal article",
+          "ref_pages": "139-150",
+          "ref_exc_avail": "1",
+          "ref_title_jv": "Kadmos. Zeitschrift für vor- und frühgriechische Epigraphik",
+          "ref_title": "Bericht über einen lydischen Neufund aus dem Kaystrostal"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Gusmani 1960a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Gusmani 1960a"
+      },
+      "response_sha256": "62e47f7aaa6f4c7e2c892d64fb7dbc54111bd5a8790512df82a3c9e1553743b7",
+      "response": [
+        {
+          "ref_wpid": "1621",
+          "ref_sigle": "Gusmani 1960a",
+          "ref_id": "90",
+          "ref_year": "1960",
+          "ref_type": "journal article",
+          "ref_pages": "275-298",
+          "ref_exc_avail": "1",
+          "ref_title_jv": "Rendiconti dell'Istituto Lombardo di Scienze e Lettere. Classe di lettere e scienze morali e storiche",
+          "ref_title": "Studi lidi"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Gusmani 1964a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Gusmani 1964a"
+      },
+      "response_sha256": "639789ec1b816c0693878b08a0ce8b10c7413739de430232d133efda570c4f25",
+      "response": [
+        {
+          "ref_wpid": "3272",
+          "ref_sigle": "Gusmani 1964a",
+          "ref_id": "944",
+          "ref_year": "1964",
+          "ref_type": "monograph",
+          "ref_pages": "",
+          "ref_exc_avail": "1",
+          "ref_title_jv": "",
+          "ref_title": "Lydisches Wörterbuch"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Gusmani 1980a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Gusmani 1980a"
+      },
+      "response_sha256": "414d416dddee560776439747096a870be75135f17e3efcbcb83c139c0dd41650",
+      "response": [
+        {
+          "ref_wpid": "6027",
+          "ref_sigle": "Gusmani 1980a",
+          "ref_id": "2475",
+          "ref_year": "1980",
+          "ref_type": "monograph",
+          "ref_pages": "",
+          "ref_exc_avail": "1",
+          "ref_title_jv": "",
+          "ref_title": "Lydisches Wörterbuch"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Lemaire 1992a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Lemaire 1992a"
+      },
+      "response_sha256": "cff0892a74983eb8c041db0e38381c4d6f0707ff5b02589e6b03bb34f2ec1a6a",
+      "response": [
+        {
+          "ref_wpid": "7208",
+          "ref_sigle": "Lemaire 1992a",
+          "ref_id": "2865",
+          "ref_year": "1992",
+          "ref_type": "journal article",
+          "ref_pages": "124-126",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "Kadmos. Zeitschrift für vor- und frühgriechische Epigraphik",
+          "ref_title": "Sceau de Clercq 2505: araméen où plutôt lydien"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Melchert 2001c",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Melchert 2001c"
+      },
+      "response_sha256": "ad3d20a11de32770487bf3312aa0e2c387182b818f82cd0a50d6f36bdc38ef31",
+      "response": [
+        {
+          "ref_wpid": "5499",
+          "ref_sigle": "Melchert 2001c",
+          "ref_id": "2268",
+          "ref_year": "2001",
+          "ref_type": "volume article",
+          "ref_pages": "404-409",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "Akten des IV. Internationalen Kongresses für Hethitologie. Würzburg, 4.-8. Oktober 1999",
+          "ref_title": "A Hittite Fertility Rite?"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Payne & Sasseville 2016a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Payne & Sasseville 2016a"
+      },
+      "response_sha256": "0109a266703a8685df5f83802f6196b88becbd86f5faff6a63c5fa0fd874b9a5",
+      "response": [
+        {
+          "ref_wpid": "6490",
+          "ref_sigle": "Payne & Sasseville 2016a",
+          "ref_id": "2642",
+          "ref_year": "2016",
+          "ref_type": "journal article",
+          "ref_pages": "66-82",
+          "ref_exc_avail": "1",
+          "ref_title_jv": "Historische Sprachforschung",
+          "ref_title": "Die lydische Athene: Eine neue Edition von LW 40"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Poetto & Salvatori 1981a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Poetto & Salvatori 1981a"
+      },
+      "response_sha256": "979b86c9f4cf96034801dddd25ca79e5e8728ee776fa6d936fe992a828e5d9f4",
+      "response": [
+        {
+          "ref_wpid": "7212",
+          "ref_sigle": "Poetto & Salvatori 1981a",
+          "ref_id": "2867",
+          "ref_year": "1981",
+          "ref_type": "monograph",
+          "ref_pages": "",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "",
+          "ref_title": "La collezione anatolica di E. Borowski"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Poetto 2006a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Poetto 2006a"
+      },
+      "response_sha256": "589dfdcf2a74c38b467f773ace037b498a7adc9280e8c4811e90bb14c360727d",
+      "response": [
+        {
+          "ref_wpid": "2160",
+          "ref_sigle": "Poetto 2006a",
+          "ref_id": "458",
+          "ref_year": "2006",
+          "ref_type": "volume article",
+          "ref_pages": "1373-1381",
+          "ref_exc_avail": "1",
+          "ref_title_jv": "Studi linguistici in onore di Roberto Gusmani III",
+          "ref_title": "L'inscrizione lidia di Tire: una revisione"
+        }
+      ],
+      "status": "ACQUIRED"
+    }
+  ]
+}
