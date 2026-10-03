@@ -5,7 +5,7 @@ Source label: LW 49 (Silsilis; High Egypt)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `7863041660715d153a413b4042f74965b3e2dcff4b548495cd6d72ea6892e72a`
-Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
+Evidence fingerprint: `94f5e92cc8c97719175c3acdef8775656aacef132fdba3d7fea632f666912337`
 
 ## Captured source evidence
 

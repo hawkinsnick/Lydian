@@ -18,3 +18,14 @@ class SourceWorkTests(unittest.TestCase):
    root=Path(t);shutil.copytree(ROOT/'research',root/'research');shutil.copytree(ROOT/'data',root/'data')
    p=root/'research/source-checks.json';d=json.loads(p.read_text());d['checks'].append({'check_id':'BAD','line_questions':[{'source_pointer':'/invented/99'}]});p.write_text(json.dumps(d))
    with self.assertRaisesRegex(ValueError,'unknown line'):build(root)
+
+ def test_publication_number_duplicate_rejected(self):
+  with tempfile.TemporaryDirectory() as t:
+   root=Path(t);shutil.copytree(ROOT/'research',root/'research');shutil.copytree(ROOT/'data',root/'data')
+   p=root/'research/publication-reconciliation.json';d=json.loads(p.read_text());d['entries'][1]['publication_number']=1;p.write_text(json.dumps(d))
+   with self.assertRaisesRegex(ValueError,'publication inventory'):build(root)
+ def test_publication_location_cannot_be_verified_automatically(self):
+  with tempfile.TemporaryDirectory() as t:
+   root=Path(t);shutil.copytree(ROOT/'research',root/'research');shutil.copytree(ROOT/'data',root/'data')
+   p=root/'research/publication-reconciliation.json';d=json.loads(p.read_text());d['entries'][0]['current_location_verified']=True;p.write_text(json.dumps(d))
+   with self.assertRaisesRegex(ValueError,'unsupported publication'):build(root)

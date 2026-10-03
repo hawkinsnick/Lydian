@@ -5,7 +5,7 @@ Source label: LW 45 (Kogamos valley)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `9e5d8755be96972e81a666ed3e0c0dfda22412b8ee64acceb23343eb6fe4f0f6`
-Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
+Evidence fingerprint: `94f5e92cc8c97719175c3acdef8775656aacef132fdba3d7fea632f666912337`
 
 ## Captured source evidence
 

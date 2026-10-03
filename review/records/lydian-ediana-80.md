@@ -5,7 +5,7 @@ Source label: LW 81 (Sardis)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `aa58b58940e694b01b1ec85422e72c9c47ff2526786fa1efdab8232de029bd8f`
-Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
+Evidence fingerprint: `94f5e92cc8c97719175c3acdef8775656aacef132fdba3d7fea632f666912337`
 
 ## Captured source evidence
 
@@ -25,7 +25,17 @@ padị[- ...... -]ḷ
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### LYD-GUSMANI1975-LW81
+
+Source: [https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf](https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf)
+
+Locators: printed p.42 (PDF page58), tables C and D, A II 8
+
+The published concordance supplies an edition-specific candidate link to modern LW81. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.
+
+- Confirm modern edition and physical object concordance
+- Inspect the entry and original figures before adopting any reading
+- Separate dated inventory assertions from current object verification
 
 ## Record a decision
 

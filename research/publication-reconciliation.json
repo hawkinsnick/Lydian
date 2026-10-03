@@ -1,0 +1,479 @@
+{
+  "schema_version": "1.0",
+  "publication_doi": null,
+  "title": "Neue epichorische Schriftzeugnisse aus Sardis (1958–1971)",
+  "author": "Roberto Gusmani",
+  "year": 1975,
+  "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+  "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+  "inspection_scope": "159-page expedition-hosted PDF acquired; printed p.42/PDF58 concordance C and inventory D visually inspected, no full sign collation",
+  "expected_publication_entry_count": 29,
+  "count_scope": "28 A-group concordance rows plus one bracketed B-group row; not a language-wide inventory",
+  "project_admitted_objects": 0,
+  "entries": [
+    {
+      "publication_number": 1,
+      "source_edition_label": "A I 1",
+      "source_running_number": 59,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:77"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN62.107",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 2,
+      "source_edition_label": "A I 2",
+      "source_running_number": 70,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:79"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN67.1",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 3,
+      "source_edition_label": "A I 3",
+      "source_running_number": 71,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:91"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN67.31",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 4,
+      "source_edition_label": "A I 4",
+      "source_running_number": 80,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:92"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN71.1",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 5,
+      "source_edition_label": "A II 1",
+      "source_running_number": 61,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:78"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN62.11",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 6,
+      "source_edition_label": "A II 2",
+      "source_running_number": 66,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:43"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN64.54",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 7,
+      "source_edition_label": "A II 3",
+      "source_running_number": 60,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:14"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN62.48",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 8,
+      "source_edition_label": "A II 4",
+      "source_running_number": 63,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:6"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN63.35",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 9,
+      "source_edition_label": "A II 5",
+      "source_running_number": 72,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:7"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN68.18",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 10,
+      "source_edition_label": "A II 6",
+      "source_running_number": 57,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:32"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN58.14",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 11,
+      "source_edition_label": "A II 7",
+      "source_running_number": 65,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:104"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN64.34",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 12,
+      "source_edition_label": "A II 8",
+      "source_running_number": 81,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:80"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN63.91",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 13,
+      "source_edition_label": "A II 9",
+      "source_running_number": 58,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:5"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN61.56",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 14,
+      "source_edition_label": "A II 10",
+      "source_running_number": 68,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:33"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN65.20",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 15,
+      "source_edition_label": "A II 11",
+      "source_running_number": 82,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:93"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "P67.31",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 16,
+      "source_edition_label": "A II 12",
+      "source_running_number": 83,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:34"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "P61.186",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 17,
+      "source_edition_label": "A II 13",
+      "source_running_number": 84,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:35"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "P62.392",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 18,
+      "source_edition_label": "A II 14",
+      "source_running_number": 85,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:13"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "P61.248",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 19,
+      "source_edition_label": "A II 15",
+      "source_running_number": 86,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:105"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "P67.96",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 20,
+      "source_edition_label": "A II 16",
+      "source_running_number": 87,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:15"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN65.27",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 21,
+      "source_edition_label": "A II 17",
+      "source_running_number": 88,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:16"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN65.28",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 22,
+      "source_edition_label": "A II 18",
+      "source_running_number": 89,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:17"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "P61.313",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 23,
+      "source_edition_label": "A II 19",
+      "source_running_number": 90,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:36"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "P63.114",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 24,
+      "source_edition_label": "A II 20",
+      "source_running_number": 91,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:44"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "P64.14",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 25,
+      "source_edition_label": "A II 21",
+      "source_running_number": 92,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:18"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "P61.51",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 26,
+      "source_edition_label": "A III 1",
+      "source_running_number": 93,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:106"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN62.259",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 27,
+      "source_edition_label": "A III 2",
+      "source_running_number": 64,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:21"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN64.15",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 28,
+      "source_edition_label": "A III 3",
+      "source_running_number": 94,
+      "source_number_bracketed": false,
+      "candidate_record_ids": [
+        "lydian:ediana:37"
+      ],
+      "locator": "printed p.42, concordance C; p.42 inventory D",
+      "inventory_source_assertion": "IN70.12",
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 29,
+      "source_edition_label": "B I 5",
+      "source_running_number": 67,
+      "source_number_bracketed": true,
+      "candidate_record_ids": [
+        "lydian:ediana:2"
+      ],
+      "locator": "printed p.42, concordance C; bracketed uncertain-material entry",
+      "inventory_source_assertion": null,
+      "assertion_year": 1975,
+      "current_location_verified": false,
+      "concordance_state": "EXPLICIT_PUBLISHED_NUMBER_CONCORDANCE; OBJECT_AND_READING_REVIEW_PENDING",
+      "basis": "Source concordance maps the edition label to its running text number; modern LW label is a candidate link, not independently confirmed object identity",
+      "canonical_admission": false
+    }
+  ]
+}

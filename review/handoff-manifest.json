@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "evidence_fingerprint": "7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6",
+  "evidence_fingerprint": "94f5e92cc8c97719175c3acdef8775656aacef132fdba3d7fea632f666912337",
   "input_fingerprints": [
     {
       "path": "data/reference/records.json",
@@ -24,19 +24,23 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "48caa730af09aacc6781bc0e4538370fd3542039ee89491a83680e78dff2b92a"
+      "sha256": "66904cab0f82f2e7bfb615eaa24847dd87980ae0807a8692e9955c384cf1a76d"
     },
     {
       "path": "research/source-access.json",
-      "sha256": "65ffe3d362e25ccbd0b029a6139e6bd01adce2e6e9c3e2c65fb98e4005a319f1"
+      "sha256": "831947aaffb3d4a5cbb644e37d2f1a65a426c60f450c9e723ea88255f52b6f55"
     },
     {
       "path": "research/source-worklist.json",
-      "sha256": "607f7106808847ec64e819b22e2801078a949eb9e69aafc48dc00606edb579a4"
+      "sha256": "f3a1b8fa205f3d89af43e8668f097b26a386ca3d2d8cd6cecca31f61a437936e"
+    },
+    {
+      "path": "research/publication-reconciliation.json",
+      "sha256": "ca914208e5deda01a8284edaf9345025ad94e8522724565e52a29f9aaa3457f7"
     },
     {
       "path": "scripts/build_source_worklist.py",
-      "sha256": "3e74e105874d4fb1fc39ec92d5cf3021a8b70574c5be6c007ed9277488353935"
+      "sha256": "da6426ed358e176f08d43ba1acf5bdda651030c3df567c2d5dfda138a7211137"
     },
     {
       "path": "research/rights-evidence.json",
@@ -44,7 +48,7 @@
     },
     {
       "path": "DATA-LICENSE-MATRIX.md",
-      "sha256": "62a6e8d32c479447c551c849832211b967d8fe8df95918282289a36cacba7685"
+      "sha256": "3f7ccb9afb09c7c765d7cf5fd575d92090742d60116d7dc55c9bd08e2ee5ecb3"
     },
     {
       "path": "NOTICE",
@@ -56,7 +60,7 @@
     },
     {
       "path": "scripts/build_review.py",
-      "sha256": "665a2799830a84578c2568ddb7ecf8e20e745f66a5c1632ef50928ffca4e8265"
+      "sha256": "b966b4213d2cc699462dfbd55f126c7eba39db0e497cc9ce85607ac64083d6a3"
     },
     {
       "path": "scripts/validate_review.py",
@@ -64,7 +68,7 @@
     }
   ],
   "packet_count": 118,
-  "source_checked_records": 10,
+  "source_checked_records": 39,
   "independently_reviewed_records": 0,
   "admitted_records": 0,
   "handoff_status": "PREPARED_FOR_RECORD_LEVEL_REVIEW; SOURCE_ACQUISITION_AND_COLLATION_STILL_INCOMPLETE",

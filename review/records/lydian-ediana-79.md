@@ -5,7 +5,7 @@ Source label: LW 70 (Sardis)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `cc70c18fe5e38b62ec2234ba4e85b5178e9ee58d4570d6808f103cf5f2385f97`
-Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
+Evidence fingerprint: `94f5e92cc8c97719175c3acdef8775656aacef132fdba3d7fea632f666912337`
 
 ## Captured source evidence
 
@@ -33,7 +33,17 @@ ạṛ[tim]ul akit ešλ ṣ̌ạ[dmẽλ
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### LYD-GUSMANI1975-LW70
+
+Source: [https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf](https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf)
+
+Locators: printed p.42 (PDF page58), tables C and D, A I 2
+
+The published concordance supplies an edition-specific candidate link to modern LW70. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.
+
+- Confirm modern edition and physical object concordance
+- Inspect the entry and original figures before adopting any reading
+- Separate dated inventory assertions from current object verification
 
 ## Record a decision
 

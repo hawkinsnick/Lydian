@@ -5,7 +5,7 @@ Source label: LW 53 (High Hermos)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `dbbeddfcd2defd1168b7f12bc53a243ef740ddf25e15a3f360bf3afb2cea6e26`
-Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
+Evidence fingerprint: `94f5e92cc8c97719175c3acdef8775656aacef132fdba3d7fea632f666912337`
 
 ## Captured source evidence
 

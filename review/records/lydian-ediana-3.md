@@ -5,7 +5,7 @@ Source label: LW 52 (Ephesus)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `0e1877abc444a89d10b3af7fe4ef807759b27373e9258ea42fa2df3dd4a092c5`
-Evidence fingerprint: `7f3ff41b6e5f3b94ac18be4eb90be12206486f4692744a0908f42ee1846211b6`
+Evidence fingerprint: `94f5e92cc8c97719175c3acdef8775656aacef132fdba3d7fea632f666912337`
 
 ## Captured source evidence
 

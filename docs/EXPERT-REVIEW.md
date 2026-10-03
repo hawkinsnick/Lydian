@@ -17,3 +17,5 @@ Source acquisition and collation are still incomplete. `research/source-access.j
 ## Work remaining before adjudication
 
 The [source worklist](../research/source-worklist.json) lists every captured citation and every record, including records with no attached edition reference. It links targeted checks without treating them as completed collation. The [access log](../research/source-access.json) distinguishes usable scans from blocked downloads. Readings, current museum locations and language assignments remain pending expert assessment.
+
+The [1975 edition concordance](../research/publication-reconciliation.json) records all29 rows in Gusmani’s p.42 table:28 A-group entries and one bracketed B-group entry. It links edition labels, modern LW candidates and dated inventories. The bracketed B I5 =67 is explicitly uncertain material. Preserve IN versus P inventory prefixes and the edition subdivisions; none of these published correspondences is a project object examination or completed reading review.
