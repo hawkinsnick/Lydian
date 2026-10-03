@@ -1,14 +1,14 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "aa255f3e9468fb6b44d7e512d1da75dfbbe9dd39",
-  "evidence_fingerprint_sha256": "941461418da65aae7695dc73874fb4f34e918d87d362d188fe21ada782cdaccd",
+  "source_commit": "008ed5b43186ef654d9e83b9cc087e8ebe676f74",
+  "evidence_fingerprint_sha256": "dce58f97a2b845fc7d790e83519043b7844c1fe3ebcb091d748b42883dd20ef2",
   "canonical_repository": true,
   "artifacts": [
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "a02af93049f9b5b7ca1052f8de21e7321f1b8c04cc573501e6ebda17b4ad7de4",
+      "sha256": "48e3790740691af1ac16dd3a3d6156c017b2a37546b9d8a1cff400f440c0d0b7",
       "bytes": 1131
     },
     {
@@ -56,7 +56,7 @@
     {
       "role": "benchmark-status",
       "path": "analysis/benchmark-status.json",
-      "sha256": "7ff4026447d7a6fcdcbf0c19fd63f34269a1f80b37e6473586f8f343c1f6263f",
+      "sha256": "e78a4036e36b94aaad72637845b664c0906ce2aa47e3231e03c76695d8164d6b",
       "bytes": 1303
     },
     {
@@ -80,14 +80,14 @@
     {
       "role": "source-issues",
       "path": "research/source-issues.json",
-      "sha256": "06da2d33152f83e609c01f8f32090cd789264b620532f6ef327b4374ac38a8f9",
-      "bytes": 665
+      "sha256": "36560b8f03508a46a36618de042ce4209e3cb90ebcbc3f9c0db19d5e36cb4cb7",
+      "bytes": 889
     },
     {
       "role": "pre-expert-maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "2ab0ffd8a47e7e38a4d667f2556df6a5bbcc36c350fc3e0f644557b3dfc61e9b",
-      "bytes": 742
+      "sha256": "e4f7dce33d39f9985b30a8e7447ea07016d7f3a82c94a9c7da53779ba45fa8d5",
+      "bytes": 1001
     },
     {
       "role": "acquisition",
@@ -104,8 +104,32 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "2d00e64ef8e7907c9a2e987335a30457f452aca1d16023f47c9aa2c6575604b7",
-      "bytes": 3101
+      "sha256": "0588a919eb400525c77e76ba31aac9727e465c555a1e0fa6493296b972eded64",
+      "bytes": 3630
+    },
+    {
+      "role": "source-checks",
+      "path": "research/source-checks.json",
+      "sha256": "2d5ce9e9e532e562e75d2c0c1b21659787270d1aebfffd8b8e4f9537e27970d7",
+      "bytes": 2069
+    },
+    {
+      "role": "source-access",
+      "path": "research/source-access.json",
+      "sha256": "f67b44620cafd7963f73f0f522175fa5d67ae50c3161cccb3ad1e4f9fdccf006",
+      "bytes": 1237
+    },
+    {
+      "role": "packets",
+      "path": "review/packets.json",
+      "sha256": "6021eb5717afe23218feba4d79a0adbe91d2f690d4e5c5f3425c15a076314716",
+      "bytes": 130047
+    },
+    {
+      "role": "handoff-manifest",
+      "path": "review/handoff-manifest.json",
+      "sha256": "03cd1adf15d7b0af7bca03bd25c4705ea4ea14dc6e5a0faf2fb8a99311f8abba",
+      "bytes": 1424
     },
     {
       "role": "raw_source",

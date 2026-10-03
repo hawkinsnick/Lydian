@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "checked_on": "2026-10-03",
+  "checks": [
+    {
+      "check_id": "LYD-CATALOG-96-98",
+      "record_ids": [
+        "lydian:ediana:0",
+        "lydian:ediana:22",
+        "lydian:ediana:23"
+      ],
+      "inspection": "SOURCE_METADATA_AND_LOCAL_SNAPSHOT_CHECKED",
+      "source_url": "https://titus.uni-frankfurt.de/texte/etcs/anatol/lydian/lydcot.htm",
+      "source_sha256": "a64d32b927a5d39114582a51d5deca32f348ed9cba2a5af4f8443b784c10220b",
+      "locators": [
+        "#Lyd._Inscr._96",
+        "#Lyd._Inscr._97",
+        "#Lyd._Inscr._98",
+        "introductory editorial conventions"
+      ],
+      "finding": "TITUS separately numbers inscriptions 96, 97 and 98. Local response headings also distinguish LW96/LW97/LW98 although all three catalog labels say LW96. This supports a digital concordance candidate, not physical-object identification.",
+      "independence": "TITUS and eDiAna share Gusmani/Melchert edition lineage; not independent epigraphic witnesses",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm each object against Gusmani 1980 p.157 and inventory evidence",
+        "Assess differences in editorial uncertainty before accepting an edition crosswalk"
+      ]
+    },
+    {
+      "check_id": "LYD-MELCHERT-KEY",
+      "record_ids": [],
+      "inspection": "OVERVIEW_AND_BIBLIOGRAPHY_METADATA_CHECKED",
+      "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+      "locators": [
+        "Lydian corpus overview",
+        "Melchert 2001c bibliography entry",
+        "data/upstream/ediana/bibliography.json query Melchert 2001c"
+      ],
+      "finding": "The overview identifies a Lydian Corpus dated 07/02/2001. The literature-manager result under the same siglum has a different Hittite title. Preserve both assertions; do not merge the works.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Obtain the Lydian corpus document using title and author, not siglum alone"
+      ]
+    }
+  ],
+  "source_check_is_not_independent_review": true
+}
