@@ -5,7 +5,7 @@ Source label: LW 95
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `3b635d4892b4e59a37390f50a8b101d62abfa2c59cbc8eb1575bc7bbc9ab8896`
-Evidence fingerprint: `94f5e92cc8c97719175c3acdef8775656aacef132fdba3d7fea632f666912337`
+Evidence fingerprint: `87e68863335bfe5f198205102d1fbf363a282f15747fab7fab996e59ecd7c005`
 
 ## Captured source evidence
 

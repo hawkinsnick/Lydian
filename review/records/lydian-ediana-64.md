@@ -5,7 +5,7 @@ Source label: LW 24 (Sardis)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `df3ff5a3ae62a3b4f768c6e2865fff3f2901d6618ff1dee1fa1d0915d0f667d5`
-Evidence fingerprint: `94f5e92cc8c97719175c3acdef8775656aacef132fdba3d7fea632f666912337`
+Evidence fingerprint: `87e68863335bfe5f198205102d1fbf363a282f15747fab7fab996e59ecd7c005`
 
 ## Captured source evidence
 

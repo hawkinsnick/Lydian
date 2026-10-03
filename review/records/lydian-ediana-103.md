@@ -5,7 +5,7 @@ Source label: LW 40 (Pergamum)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `7dd1cb6c96af04bb16307a430ebc066c996420e99d087be4f0a65daf2267d643`
-Evidence fingerprint: `94f5e92cc8c97719175c3acdef8775656aacef132fdba3d7fea632f666912337`
+Evidence fingerprint: `87e68863335bfe5f198205102d1fbf363a282f15747fab7fab996e59ecd7c005`
 
 ## Captured source evidence
 

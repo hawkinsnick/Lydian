@@ -5,7 +5,7 @@ Source label: LW 69 (Colophon)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `94cc5c135d53e504f78074058b86c760b01352768479bd997723bf4d9f39ade5`
-Evidence fingerprint: `94f5e92cc8c97719175c3acdef8775656aacef132fdba3d7fea632f666912337`
+Evidence fingerprint: `87e68863335bfe5f198205102d1fbf363a282f15747fab7fab996e59ecd7c005`
 
 ## Captured source evidence
 

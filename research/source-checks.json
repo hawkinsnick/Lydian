@@ -238,11 +238,12 @@
       "record_ids": [
         "lydian:ediana:77"
       ],
-      "inspection": "PRINTED_CONCORDANCE_AND_INVENTORY_TABLE_VISUALLY_CHECKED; NO_FULL_SIGN_COLLATION",
+      "inspection": "PRINTED_CONCORDANCE_AND_LINE_COMMENTARY_VISUALLY_CHECKED; NO_OBJECT_ADJUDICATION",
       "source_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
       "source_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
       "locators": [
-        "printed p.42 (PDF page58), tables C and D, A I 1"
+        "printed p.42 (PDF page58), tables C and D, A I 1",
+        "printed p.2 (PDF page18), A I1, line1 and line2 commentary"
       ],
       "source_edition_label": "A I 1",
       "source_running_number": 59,
@@ -251,12 +252,22 @@
         "asserted_in": 1975,
         "current_location_verified": false
       },
-      "finding": "The published concordance supplies an edition-specific candidate link to modern LW59. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW59. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending. The p.2 commentary preserves d/v ambiguity and uncertainty in the dating interpretation. Its b transcription and the captured p require an edition-specific convention crosswalk, not an automatic spelling correction.",
       "canonical_change": false,
       "expert_questions": [
         "Confirm modern edition and physical object concordance",
         "Inspect the entry and original figures before adopting any reading",
         "Separate dated inventory assertions from current object verification"
+      ],
+      "line_questions": [
+        {
+          "source_pointer": "/LW 59 (Sardis)/1",
+          "question": "The author retains d/v as alternatives because the upper part of the sign is damaged, rejects f for the following o, and treats the date numeral interpretation as uncertain. Preserve captured underdots and keep sign identity distinct from date interpretation."
+        },
+        {
+          "source_pointer": "/LW 59 (Sardis)/2",
+          "question": "The author describes only upper portions of the first five signs as visible. Inspect the plate and later editions before changing captured underdots or restorations."
+        }
       ]
     },
     {
