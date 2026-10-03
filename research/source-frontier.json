@@ -17,6 +17,38 @@
       "inspection_state": "SHARED_EDITION_LINEAGE; typography uncertainty not retained in TITUS",
       "canonical_admission": false,
       "redistribution_permission": "NOT_ESTABLISHED; link and metadata only"
+    },
+    {
+      "title": "Sardis Expedition object-catalog lead r2-240",
+      "attribution": "Archaeological Exploration of Sardis",
+      "locator": "https://sardisexpedition.org/en/artifacts/r2-240",
+      "inspection_state": "SOURCE_DISCOVERY_ONLY; no catalog content imported",
+      "canonical_admission": false,
+      "redistribution_permission": "PROTECTED_CONTENT_REPUBLICATION_RESTRICTED; link only"
+    },
+    {
+      "title": "Sardis Expedition object-catalog lead r2-242",
+      "attribution": "Archaeological Exploration of Sardis",
+      "locator": "https://sardisexpedition.org/en/artifacts/r2-242",
+      "inspection_state": "SOURCE_DISCOVERY_ONLY; no catalog content imported",
+      "canonical_admission": false,
+      "redistribution_permission": "PROTECTED_CONTENT_REPUBLICATION_RESTRICTED; link only"
+    },
+    {
+      "title": "Sardis Expedition object-catalog lead r2-233",
+      "attribution": "Archaeological Exploration of Sardis",
+      "locator": "https://sardisexpedition.org/en/artifacts/r2-233",
+      "inspection_state": "SOURCE_DISCOVERY_ONLY; no catalog content imported",
+      "canonical_admission": false,
+      "redistribution_permission": "PROTECTED_CONTENT_REPUBLICATION_RESTRICTED; link only"
+    },
+    {
+      "title": "Sardis Expedition object-catalog lead latw-10",
+      "attribution": "Archaeological Exploration of Sardis",
+      "locator": "https://sardisexpedition.org/en/artifacts/latw-10",
+      "inspection_state": "SOURCE_DISCOVERY_ONLY; no catalog content imported",
+      "canonical_admission": false,
+      "redistribution_permission": "PROTECTED_CONTENT_REPUBLICATION_RESTRICTED; link only"
     }
   ]
 }

@@ -24,6 +24,11 @@
       "date": "2026-10-03",
       "version": "0.3.0",
       "change": "Added targeted source inspection packets and version-bound expert decision workflow; no source reading replacement or human review claimed"
+    },
+    {
+      "date": "2026-10-03",
+      "version": "0.3.1",
+      "change": "Documented additional catalog discovery and failed institutional edition-access routes, with rights restrictions. No protected content imported."
     }
   ]
 }
