@@ -1,0 +1,22 @@
+{
+  "checked_on": "2026-10-03",
+  "scope": "Discovery and inspection leads; no automatic snapshot expansion",
+  "entries": [
+    {
+      "title": "Third Lydian inscription from Aphrodisias",
+      "attribution": "Rojas and Acar, 2025",
+      "locator": "10.1515/kadmos-2025-0006",
+      "inspection_state": "METADATA_ONLY",
+      "canonical_admission": false,
+      "redistribution_permission": "NOT_ESTABLISHED; link and metadata only"
+    },
+    {
+      "title": "TITUS Lydian corpus",
+      "attribution": "Tischler, Melchert and Gippert; based on Gusmani editions",
+      "locator": "https://titus.uni-frankfurt.de/texte/etcs/anatol/lydian/lydcot.htm",
+      "inspection_state": "SHARED_EDITION_LINEAGE; typography uncertainty not retained in TITUS",
+      "canonical_admission": false,
+      "redistribution_permission": "NOT_ESTABLISHED; link and metadata only"
+    }
+  ]
+}

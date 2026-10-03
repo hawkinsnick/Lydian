@@ -1,0 +1,1774 @@
+[
+  {
+    "record_id": "lydian:ediana:95",
+    "source_document_id": "95",
+    "catalog_label": "LW 1 (Sardis)",
+    "source_headings": [
+      "· LW 1 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1960a:250"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:51",
+    "source_document_id": "51",
+    "catalog_label": "LW 10 (Sardis)",
+    "source_headings": [
+      "· LW 10 (Sardis)",
+      "· 20’"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1960a:254"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:101",
+    "source_document_id": "101",
+    "catalog_label": "LW 100 (Sardis)",
+    "source_headings": [
+      "· LW 100 (Sardis)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:107",
+    "source_document_id": "107",
+    "catalog_label": "LW 101 (Sardis)",
+    "source_headings": [
+      "· LW 101 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:157"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:26",
+    "source_document_id": "26",
+    "catalog_label": "LW 102",
+    "source_headings": [
+      "· LW 102"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:157"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:108",
+    "source_document_id": "108",
+    "catalog_label": "LW 103 (Sardis)",
+    "source_headings": [
+      "· LW 103 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:158"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:27",
+    "source_document_id": "27",
+    "catalog_label": "LW 104",
+    "source_headings": [
+      "· LW 104"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:158"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:28",
+    "source_document_id": "28",
+    "catalog_label": "LW 105",
+    "source_headings": [
+      "· LW 105"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:158"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:29",
+    "source_document_id": "29",
+    "catalog_label": "LW 106",
+    "source_headings": [
+      "· LW 106"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:158"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:109",
+    "source_document_id": "109",
+    "catalog_label": "LW 107 (Sardis)",
+    "source_headings": [
+      "· LW 107 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:158"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:102",
+    "source_document_id": "102",
+    "catalog_label": "LW 108 (Sardis)",
+    "source_headings": [
+      "· Sardes No. 108"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:158f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:8",
+    "source_document_id": "8",
+    "catalog_label": "LW 109 (Sardis)",
+    "source_headings": [
+      "· LW 109 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:159"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:52",
+    "source_document_id": "52",
+    "catalog_label": "LW 11 (Sardis)",
+    "source_headings": [
+      "· LW 11 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:255"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:53",
+    "source_document_id": "53",
+    "catalog_label": "LW 12 (Sardis)",
+    "source_headings": [
+      "· LW 12 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:255"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:54",
+    "source_document_id": "54",
+    "catalog_label": "LW 13 (Sardis)",
+    "source_headings": [
+      "· LW 13 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:256"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:55",
+    "source_document_id": "55",
+    "catalog_label": "LW 14 (Sardis)",
+    "source_headings": [
+      "· LW 14 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:256f.",
+      "Gusmani 1964a:257"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:56",
+    "source_document_id": "56",
+    "catalog_label": "LW 15 (Sardis)",
+    "source_headings": [
+      "· LW 15 (Sardis)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:57",
+    "source_document_id": "57",
+    "catalog_label": "LW 16 (Sardis)",
+    "source_headings": [
+      "· LW 16 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:258"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:90",
+    "source_document_id": "90",
+    "catalog_label": "LW 17 (Sardis)",
+    "source_headings": [
+      "· LW 17 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:258"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:58",
+    "source_document_id": "58",
+    "catalog_label": "LW 18 (Sardis)",
+    "source_headings": [
+      "· LW 18 (Sardis)",
+      "· 1"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:258"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:59",
+    "source_document_id": "59",
+    "catalog_label": "LW 19 (Sardis)",
+    "source_headings": [
+      "· LW 19 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:258"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:96",
+    "source_document_id": "96",
+    "catalog_label": "LW 2 (Sardis)",
+    "source_headings": [
+      "· LW 2 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:251"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:60",
+    "source_document_id": "60",
+    "catalog_label": "LW 20 (Sardis)",
+    "source_headings": [
+      "· LW 20 (Sardis)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:61",
+    "source_document_id": "61",
+    "catalog_label": "LW 21 (Sardis)",
+    "source_headings": [
+      "· LW 21 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:259"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:62",
+    "source_document_id": "62",
+    "catalog_label": "LW 22 (Sardis)",
+    "source_headings": [
+      "· LW 22 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:259"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:63",
+    "source_document_id": "63",
+    "catalog_label": "LW 23 (Sardis)",
+    "source_headings": [
+      "· LW 23 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:259f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:64",
+    "source_document_id": "64",
+    "catalog_label": "LW 24 (Sardis)",
+    "source_headings": [
+      "· LW 24 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:260f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:65",
+    "source_document_id": "65",
+    "catalog_label": "LW 25 (Sardis)",
+    "source_headings": [
+      "· LW 25 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:261"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:66",
+    "source_document_id": "66",
+    "catalog_label": "LW 26 (Sardis)",
+    "source_headings": [
+      "· LW 26 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:261f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:67",
+    "source_document_id": "67",
+    "catalog_label": "LW 27 (Sardis)",
+    "source_headings": [
+      "· LW 27 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:262"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:68",
+    "source_document_id": "68",
+    "catalog_label": "LW 28 (Sardis)",
+    "source_headings": [
+      "· LW 28 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:262"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:69",
+    "source_document_id": "69",
+    "catalog_label": "LW 29 (Sardis)",
+    "source_headings": [
+      "· LW 29 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:262"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:99",
+    "source_document_id": "99",
+    "catalog_label": "LW 3 (Sardis)",
+    "source_headings": [
+      "· LW 3 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:251"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:10",
+    "source_document_id": "10",
+    "catalog_label": "LW 30 (Sardis)",
+    "source_headings": [
+      "· LW 30 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:262"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:11",
+    "source_document_id": "11",
+    "catalog_label": "LW 31 (Sardis)",
+    "source_headings": [
+      "· LW 31 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:263"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:12",
+    "source_document_id": "12",
+    "catalog_label": "LW 32 (Sardis)",
+    "source_headings": [
+      "· LW 32 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:263"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:70",
+    "source_document_id": "70",
+    "catalog_label": "LW 33 (Sardis)",
+    "source_headings": [
+      "· LW 33 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:263"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:71",
+    "source_document_id": "71",
+    "catalog_label": "LW 34 (Sardis)",
+    "source_headings": [
+      "· LW 34 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:263"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:72",
+    "source_document_id": "72",
+    "catalog_label": "LW 35 (Sardis)",
+    "source_headings": [
+      "· LW 35 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:263"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:73",
+    "source_document_id": "73",
+    "catalog_label": "LW 36 (Sardis)",
+    "source_headings": [
+      "· LW 36 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:263"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:74",
+    "source_document_id": "74",
+    "catalog_label": "LW 37 (Sardis)",
+    "source_headings": [
+      "· LW 37 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:263"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:75",
+    "source_document_id": "75",
+    "catalog_label": "LW 38 (Sardis)",
+    "source_headings": [
+      "· LW 38 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:263"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:76",
+    "source_document_id": "76",
+    "catalog_label": "LW 39 (Sardis)",
+    "source_headings": [
+      "· LW 39 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:263"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:103",
+    "source_document_id": "103",
+    "catalog_label": "LW 40 (Pergamum)",
+    "source_headings": [
+      "· LW 40 (Pergamum)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:264 / Payne & Sasseville 2016a"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:97",
+    "source_document_id": "97",
+    "catalog_label": "LW 41 (Middle Kaystros)",
+    "source_headings": [
+      "· LW 41 (Middle Kaystros)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:264"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:82",
+    "source_document_id": "82",
+    "catalog_label": "LW 42 (Emre; Maionia)",
+    "source_headings": [
+      "· LW 42 (Emre; Maionia)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:264"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:83",
+    "source_document_id": "83",
+    "catalog_label": "LW 43 (Magnesia on Mt. Sipylus)",
+    "source_headings": [
+      "· LW 43 (Magnesia on Mt. Sipylus)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:265"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:84",
+    "source_document_id": "84",
+    "catalog_label": "LW 44 (Magnesia on Mt. Sipylus), 1st column",
+    "source_headings": [
+      "· LW 44 (Magnesia on Mt. Sipylus) 1st column"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:265"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:85",
+    "source_document_id": "85",
+    "catalog_label": "LW 44 (Magnesia on Mt. Sipylus), 2nd column",
+    "source_headings": [
+      "· LW 44 (Magnesia on Mt. Sipylus) 2nd column"
+    ],
+    "source_citations_verbatim": [
+      "See LW 44, 1st column"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:87",
+    "source_document_id": "87",
+    "catalog_label": "LW 45 (Kogamos valley)",
+    "source_headings": [
+      "· LW 45 (Kogamos valley)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:266"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:86",
+    "source_document_id": "86",
+    "catalog_label": "LW 46 (Magnesia on Mt. Sipylus)",
+    "source_headings": [
+      "· LW 46 (Magnesia on Mt. Sipylus)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:266"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:81",
+    "source_document_id": "81",
+    "catalog_label": "LW 47 (Middle Kaystros)",
+    "source_headings": [
+      "· LW 47 (Middle Kaystros)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:266"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:20",
+    "source_document_id": "20",
+    "catalog_label": "LW 48 (Ephesus)",
+    "source_headings": [
+      "· LW 48 (Ephesus)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:266"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:9",
+    "source_document_id": "9",
+    "catalog_label": "LW 49 (Silsilis; High Egypt)",
+    "source_headings": [
+      "· LW 49 (Silsilis; High Egypt)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:266"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:45",
+    "source_document_id": "45",
+    "catalog_label": "LW 4a (Sardis)",
+    "source_headings": [
+      "· LW 4a (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:252"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:46",
+    "source_document_id": "46",
+    "catalog_label": "LW 4b (Sardis)",
+    "source_headings": [
+      "· LW 4b (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:252",
+      "See LW 4a"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:47",
+    "source_document_id": "47",
+    "catalog_label": "LW 5 (Sardis)",
+    "source_headings": [
+      "· LW 5 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:252"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:100",
+    "source_document_id": "100",
+    "catalog_label": "LW 50 (Middle Kaystros)",
+    "source_headings": [
+      "· LW 50 (Middle Kaystros)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:267"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:30",
+    "source_document_id": "30",
+    "catalog_label": "LW 51 (Sardis)",
+    "source_headings": [
+      "· LW 51 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:267"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:3",
+    "source_document_id": "3",
+    "catalog_label": "LW 52 (Ephesus)",
+    "source_headings": [
+      "· LW 52 (Ephesus)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:267"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:88",
+    "source_document_id": "88",
+    "catalog_label": "LW 53 (High Hermos)",
+    "source_headings": [
+      "· LW 53 (High Hermos)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:267"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:31",
+    "source_document_id": "31",
+    "catalog_label": "LW 54 (Sardis)",
+    "source_headings": [
+      "· LW 54 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:268"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:24",
+    "source_document_id": "24",
+    "catalog_label": "LW 55",
+    "source_headings": [
+      "· LW 55"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:268"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:25",
+    "source_document_id": "25",
+    "catalog_label": "LW 56",
+    "source_headings": [
+      "· LW 56"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:268"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:32",
+    "source_document_id": "32",
+    "catalog_label": "LW 57 (Sardis)",
+    "source_headings": [
+      "· LW 57 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:268"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:5",
+    "source_document_id": "5",
+    "catalog_label": "LW 58 (Sardis)",
+    "source_headings": [
+      "· LW 58 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:268"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:77",
+    "source_document_id": "77",
+    "catalog_label": "LW 59 (Sardis)",
+    "source_headings": [
+      "· LW 59 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:269"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:48",
+    "source_document_id": "48",
+    "catalog_label": "LW 6 (Sardis)",
+    "source_headings": [
+      "· LW 6 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:252"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:14",
+    "source_document_id": "14",
+    "catalog_label": "LW 60 (Sardis)",
+    "source_headings": [
+      "· LW 60 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:269"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:78",
+    "source_document_id": "78",
+    "catalog_label": "LW 61 (Sardis)",
+    "source_headings": [
+      "· LW 61 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:269"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:110",
+    "source_document_id": "110",
+    "catalog_label": "LW 62 (Middle Kaystros)",
+    "source_headings": [
+      "· LW 62 (Middle Kaystros)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:151 / Poetto 2006a"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:6",
+    "source_document_id": "6",
+    "catalog_label": "LW 63 (Sardis)",
+    "source_headings": [
+      "· LW 63 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:151"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:21",
+    "source_document_id": "21",
+    "catalog_label": "LW 64 (Sardis)",
+    "source_headings": [
+      "· LW 64 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:152"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:104",
+    "source_document_id": "104",
+    "catalog_label": "LW 65 (Sardis)",
+    "source_headings": [
+      "· LW 65 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:152"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:43",
+    "source_document_id": "43",
+    "catalog_label": "LW 66 (Sardis)",
+    "source_headings": [
+      "· LW 66 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:152"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:2",
+    "source_document_id": "2",
+    "catalog_label": "LW 67 (Sardis)",
+    "source_headings": [
+      "· LW 67 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:152"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:33",
+    "source_document_id": "33",
+    "catalog_label": "LW 68 (Sardis)",
+    "source_headings": [
+      "· LW 68 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:152"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:4",
+    "source_document_id": "4",
+    "catalog_label": "LW 69 (Colophon)",
+    "source_headings": [
+      "· LW 69 (Colophon) (Weidauer Nr. 115)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:152"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:49",
+    "source_document_id": "49",
+    "catalog_label": "LW 7 (Sardis)",
+    "source_headings": [
+      "· LW 7 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:253"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:79",
+    "source_document_id": "79",
+    "catalog_label": "LW 70 (Sardis)",
+    "source_headings": [
+      "· LW 70 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:153"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:91",
+    "source_document_id": "91",
+    "catalog_label": "LW 71 (Sardis)",
+    "source_headings": [
+      "· LW 71 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:153"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:7",
+    "source_document_id": "7",
+    "catalog_label": "LW 72 (Sardis)",
+    "source_headings": [
+      "· LW 72 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:153"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:111",
+    "source_document_id": "111",
+    "catalog_label": "LW 73 (Kerč; Chersonesus Taurica)",
+    "source_headings": [
+      "· LW 73 (Kerč; Chersonesus Taurica)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:154f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:38",
+    "source_document_id": "38",
+    "catalog_label": "LW 74",
+    "source_headings": [
+      "· LW 74"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:154f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:39",
+    "source_document_id": "39",
+    "catalog_label": "LW 75",
+    "source_headings": [
+      "· LW 75",
+      "· 2"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:154f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:40",
+    "source_document_id": "40",
+    "catalog_label": "LW 76",
+    "source_headings": [
+      "· LW 76"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:154f.",
+      "Gusmani 1980a:154"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:41",
+    "source_document_id": "41",
+    "catalog_label": "LW 77",
+    "source_headings": [
+      "· LW 77"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:154f.",
+      "Gusmani 1980a:154"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:42",
+    "source_document_id": "42",
+    "catalog_label": "LW 78",
+    "source_headings": [
+      "· LW 78"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:154"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:112",
+    "source_document_id": "112",
+    "catalog_label": "LW 79 (Aphrodisias)",
+    "source_headings": [
+      "· LW 79 (Aphrodisias)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:154"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:89",
+    "source_document_id": "89",
+    "catalog_label": "LW 8 (Sardis)",
+    "source_headings": [
+      "· LW 8 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:253"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:92",
+    "source_document_id": "92",
+    "catalog_label": "LW 80 (Sardis)",
+    "source_headings": [
+      "· LW 80 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:154f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:80",
+    "source_document_id": "80",
+    "catalog_label": "LW 81 (Sardis)",
+    "source_headings": [
+      "· LW 81 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:155"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:93",
+    "source_document_id": "93",
+    "catalog_label": "LW 82 (Sardis)",
+    "source_headings": [
+      "· LW 82 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:155"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:34",
+    "source_document_id": "34",
+    "catalog_label": "LW 83 (Sardis)",
+    "source_headings": [
+      "· LW 83 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:155"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:35",
+    "source_document_id": "35",
+    "catalog_label": "LW 84 (Sardis)",
+    "source_headings": [
+      "· LW 84 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:155"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:13",
+    "source_document_id": "13",
+    "catalog_label": "LW 85 (Sardis)",
+    "source_headings": [
+      "· LW 85 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:156"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:105",
+    "source_document_id": "105",
+    "catalog_label": "LW 86 (Sardis)",
+    "source_headings": [
+      "· LW 86 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:156"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:15",
+    "source_document_id": "15",
+    "catalog_label": "LW 87 (Sardis)",
+    "source_headings": [
+      "· LW 87 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:156"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:16",
+    "source_document_id": "16",
+    "catalog_label": "LW 88 (Sardis)",
+    "source_headings": [
+      "· LW 88 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:156"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:17",
+    "source_document_id": "17",
+    "catalog_label": "LW 89 (Sardis)",
+    "source_headings": [
+      "· LW 89 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:156"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:50",
+    "source_document_id": "50",
+    "catalog_label": "LW 9 (Sardis)",
+    "source_headings": [
+      "· LW 9 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1964a:253"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:36",
+    "source_document_id": "36",
+    "catalog_label": "LW 90 (Sardis)",
+    "source_headings": [
+      "· LW 90 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:156"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:44",
+    "source_document_id": "44",
+    "catalog_label": "LW 91 (Sardis)",
+    "source_headings": [
+      "· LW 91 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:156"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:18",
+    "source_document_id": "18",
+    "catalog_label": "LW 92 (Sardis)",
+    "source_headings": [
+      "· LW 92 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:156"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:106",
+    "source_document_id": "106",
+    "catalog_label": "LW 93 (Sardis)",
+    "source_headings": [
+      "· LW 93 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:156"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:37",
+    "source_document_id": "37",
+    "catalog_label": "LW 94 (Sardis)",
+    "source_headings": [
+      "· LW 94 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:156"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:113",
+    "source_document_id": "113",
+    "catalog_label": "LW 95",
+    "source_headings": [
+      "· LW 95"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:156"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:0",
+    "source_document_id": "0",
+    "catalog_label": "LW 96 (Bayraklı; near Smyrna)",
+    "source_headings": [
+      "· LW 96 (Bayraklı; near Smyrna)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:157"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:22",
+    "source_document_id": "22",
+    "catalog_label": "LW 96 (Bayraklı; near Smyrna)",
+    "source_headings": [
+      "· LW 97 (Bayraklı; near Smyrna)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:157"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:23",
+    "source_document_id": "23",
+    "catalog_label": "LW 96 (Bayraklı; near Smyrna)",
+    "source_headings": [
+      "· LW 98 (Bayraklı; near Smyrna)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:157"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:19",
+    "source_document_id": "19",
+    "catalog_label": "LW 99 (Sardis)",
+    "source_headings": [
+      "· LW 99 (Sardis)"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani 1980a:157"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:114",
+    "source_document_id": "114",
+    "catalog_label": "LW/N 110",
+    "source_headings": [
+      "· LW/N 110"
+    ],
+    "source_citations_verbatim": [
+      "Poetto & Salvatori 1981a: 42f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:115",
+    "source_document_id": "115",
+    "catalog_label": "LW/N 111",
+    "source_headings": [
+      "· LW/N 111"
+    ],
+    "source_citations_verbatim": [
+      "Lemaire 1992a"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:116",
+    "source_document_id": "116",
+    "catalog_label": "LW/N 113 (Miletus)",
+    "source_headings": [
+      "· LW/N 113 (Miletus)"
+    ],
+    "source_citations_verbatim": [
+      "Adiego 1997:156f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:1",
+    "source_document_id": "1",
+    "catalog_label": "LW/N 114",
+    "source_headings": [
+      "· LW 114"
+    ],
+    "source_citations_verbatim": [
+      "Browne 2000a"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:98",
+    "source_document_id": "98",
+    "catalog_label": "LW/N 115 (Lake Koloe)",
+    "source_headings": [
+      "· LW/N 115 (Lake Koloe)",
+      "· 11"
+    ],
+    "source_citations_verbatim": [
+      "Gusmani & Akkan 2004a"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:94",
+    "source_document_id": "94",
+    "catalog_label": "LW/N 116",
+    "source_headings": [
+      "· LW 116"
+    ],
+    "source_citations_verbatim": [
+      "Egetmeyer 2012a"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "lydian:ediana:117",
+    "source_document_id": "117",
+    "catalog_label": "LW/N 117",
+    "source_headings": [
+      "· LW/N 117 (Kelainai)"
+    ],
+    "source_citations_verbatim": [
+      "Adiego & Ivantchik 2016a"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  }
+]

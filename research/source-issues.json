@@ -1,0 +1,24 @@
+{
+  "issues": [
+    {
+      "issue": "LW96 catalog label collision",
+      "source_ids": [
+        "0",
+        "22",
+        "23"
+      ],
+      "decision": "Preserve distinct source IDs and LW96/LW97/LW98 headings; object identity unresolved"
+    },
+    {
+      "issue": "Melchert 2001c bibliography conflict",
+      "decision": "Overview calls this Lydian corpus; literature manager returns A Hittite Fertility Rite?; block automatic bibliographic join"
+    }
+  ],
+  "correction_history": [
+    {
+      "date": "2026-10-03",
+      "version": "0.2.0",
+      "change": "Added governance controls without replacing source readings or admitting objects"
+    }
+  ]
+}
