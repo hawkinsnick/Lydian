@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Lydian",
+  "lineages": [
+    {
+      "id": "LYD-LIN-GUSMANI",
+      "type": "critical_edition_lineage",
+      "sources": [
+        "Gusmani 1964",
+        "Gusmani 1980-1986"
+      ],
+      "role": "foundational numbering/readings and supplements"
+    },
+    {
+      "id": "LYD-LIN-MELCHERT",
+      "type": "reediting_lineage",
+      "sources": [
+        "Melchert 2001c",
+        "TITUS Lydian"
+      ],
+      "depends_on": [
+        "Gusmani"
+      ],
+      "boundary": "TITUS states numbering/readings are based on Gusmani, with some apparatus choices and Melchert analyses; not independent physical collation by default."
+    },
+    {
+      "id": "LYD-LIN-EDIANA",
+      "type": "annotated_digital_lineage",
+      "sources": [
+        "eDiAna Lydian"
+      ],
+      "depends_on": [
+        "Melchert 2001c",
+        "Gusmani lineage"
+      ],
+      "boundary": "eDiAna says corpus adapts Melchert, mostly based on Gusmani; its annotations/new additions must be tracked separately from inherited readings."
+    },
+    {
+      "id": "LYD-LIN-SARDIS",
+      "type": "archaeological_object_catalogue",
+      "sources": [
+        "Archaeological Exploration of Sardis"
+      ],
+      "boundary": "Object metadata/images may corroborate object identity/context; quoted inscription text or translations may depend on Gusmani or older publications and are not automatically independent readings."
+    }
+  ],
+  "rules": [
+    "Count lineages, not websites, when assessing reading independence.",
+    "Keep object identity/context corroboration distinct from textual-reading corroboration.",
+    "Never infer physical object count from eDiAna document IDs or response headings."
+  ]
+}
