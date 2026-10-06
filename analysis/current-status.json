@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "project": "Lydian",
   "version": "0.4.0",
-  "stage": "SOURCE_ATTRIBUTED_DIGITAL_REFERENCE",
+  "stage": "LINEAR_A_METHOD_PARITY_RIGHTS_ACCESS_FRONTIER",
   "source_version": "2023",
   "snapshot_date": "2026-10-03",
   "directory_document_ids": 118,
@@ -30,5 +30,17 @@
     "catalog-fragment.html": "d384f00fe658d523c5abd2936c92a1f1ef257a8e1a14fe2825c7f747074d4deb",
     "response.json": "f09395d8932696e82a20851e0048dce941e95e98ec50000ab4abe0a507894ef1"
   },
-  "source_license": "CC-BY-SA-4.0"
+  "source_license": "CC-BY-SA-4.0",
+  "checked": "2026-10-06",
+  "method_parity": {
+    "source_lineage": "research/source-lineage-register.json",
+    "disagreements": "research/disagreement-register.json",
+    "rights": "research/rights-source-matrix.json",
+    "blockers": "research/residual-blocker-ledger.json",
+    "readiness": "docs/RIGHTS-ONLY-READINESS.md",
+    "api": "scripts/research_api.py",
+    "exports": "scripts/export_research_layer.py",
+    "validator": "scripts/test_preexpert_parity.py"
+  },
+  "next_gate": "Obtain rights/access sufficient for systematic direct collation of Gusmani foundational editions, TITUS/Melchert-derived critical text, and protected object-level evidence; preserve source dependence and require expert/object adjudication for canonical verification."
 }
