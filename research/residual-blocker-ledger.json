@@ -3,13 +3,13 @@
   "corpus": "Lydian",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
   "checked": "2026-10-06",
-  "assessment": "OPEN_MACHINE_FRONTIER",
+  "assessment": "RIGHTS_ACCESS_DOMINANT_PRE_EXPERT_ENGINEERING_COMPLETE",
   "blockers": [
     {
       "id": "LYD-BLK-001",
-      "class": "SOURCE_RECONCILIATION",
-      "status": "OPEN",
-      "needed": "maximize record-level lineage and object/publication concordance from lawful public evidence"
+      "class": "RIGHTS_ACCESS",
+      "status": "MAXIMIZED_WITH_CURRENT_RIGHTS_CLEAR_PUBLIC_EVIDENCE",
+      "needed": "additional record-level critical-edition/object evidence requires rights-clear source access; public object metadata may continue as discovery without upgrading readings"
     },
     {
       "id": "LYD-BLK-002",
@@ -35,8 +35,8 @@
     {
       "id": "LYD-BLK-005",
       "class": "ENGINEERING",
-      "status": "OPEN",
-      "needed": "API, loss-aware exports, parity validator, rights/lineage/disagreement interfaces and CI"
+      "status": "COMPLETE",
+      "needed": "Implemented lineage/disagreement/rights controls, browser, API, loss-aware exports, parity validation and reviewer interfaces."
     },
     {
       "id": "LYD-BLK-006",
@@ -45,5 +45,9 @@
       "needed": "expert/object collation and adjudication after admissible evidence exists"
     }
   ],
-  "completion_rule": "Close machine-resolvable reconciliation and engineering before treating rights/access as the current material-growth frontier."
+  "completion_rule": "Close machine-resolvable reconciliation and engineering before treating rights/access as the current material-growth frontier.",
+  "validation": {
+    "ci_wired": false,
+    "latest_status": "NOT_CHECKED"
+  }
 }
