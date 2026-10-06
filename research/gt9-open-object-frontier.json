@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Lydian",
+  "checked": "2026-10-06",
+  "target": "DEFENSIBLE_SCORE_GT_9",
+  "sources": [
+    {
+      "id": "LYD-OBJ-MET-26.59.7",
+      "authority": "The Metropolitan Museum of Art",
+      "object_number": "26.59.7",
+      "object_type": "marble stele",
+      "culture": "Lydian",
+      "date": "6th century BCE?",
+      "provenience": "Sardis; temple of Artemis context",
+      "role": "open museum object-identity/provenance seed",
+      "rights_note": "Met Open Access applies to eligible data/public-domain images; verify component status before bundling."
+    },
+    {
+      "id": "LYD-OPEN-SARDIS-VI2",
+      "authority": "Sardis VI Part II historical edition scan",
+      "role": "historical edition/concordance lead",
+      "scope": "inscriptions 1-56 at Sardis plus 40-51 elsewhere; old/new-number concordance and plates",
+      "status": "PUBLIC_SCAN_ROUTE_DISCOVERED",
+      "boundary": "Rights and exact reuse basis must be assessed before systematic structured derivative."
+    },
+    {
+      "id": "LYD-OPEN-EDAK-2026",
+      "authority": "Epigraphic Database of Ancient Asia Minor beta dataset",
+      "doi": "10.25592/uhhfdm.18503",
+      "rights": "CC BY 4.0",
+      "scope": "Greek/Latin inscriptions including Lydia; not a Lydian-language corpus",
+      "role": "geographic/object/bibliographic cross-reference source where exact matches exist",
+      "boundary": "Do not treat Greek/Latin Lydia records as Lydian-language evidence."
+    }
+  ],
+  "next_actions": [
+    "Crosswalk Met 26.59.7 to Lydian edition identifiers using authoritative bibliographic concordances.",
+    "Assess Sardis VI.2 scan rights and extract only lawful factual concordance/object metadata.",
+    "Use CC-BY EDAK only for relevant object/place/bibliographic cross-links, not language-corpus inflation."
+  ]
+}
