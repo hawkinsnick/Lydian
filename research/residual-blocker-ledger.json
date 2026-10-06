@@ -47,7 +47,9 @@
   ],
   "completion_rule": "Close machine-resolvable reconciliation and engineering before treating rights/access as the current material-growth frontier.",
   "validation": {
-    "ci_wired": false,
-    "latest_status": "NOT_CHECKED"
+    "ci_wired": true,
+    "workflow": ".github/workflows/validate.yml",
+    "latest_status": "PENDING_OR_NOT_YET_REPORTED",
+    "note": "Do not claim CI pass until GitHub reports completed success."
   }
 }
