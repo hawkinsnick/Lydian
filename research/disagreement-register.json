@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Lydian",
+  "items": [
+    {
+      "id": "LYD-DIS-001",
+      "scope": "LW 96 (Bayraklı; near Smyrna)",
+      "kind": "catalog_identity_collision",
+      "status": "UNRESOLVED",
+      "evidence": "analysis/current-status.json",
+      "boundary": "Preserve source document IDs 0,22,23 separately until bibliographic/object reconciliation."
+    },
+    {
+      "id": "LYD-DIS-002",
+      "scope": "TITUS versus Gusmani main text",
+      "kind": "editorial_choice",
+      "status": "SYSTEMATIC_POSSIBILITY",
+      "boundary": "TITUS states that in a few cases it adopts a critical-apparatus reading rather than Gusmani's main text; record-specific joins require direct collation."
+    },
+    {
+      "id": "LYD-DIS-003",
+      "scope": "TITUS uncertainty/emendation typography",
+      "kind": "representation_loss",
+      "status": "KNOWN",
+      "boundary": "TITUS notes historical presentation limitations for italic/bold uncertainty/emendation; absence of styling cannot be treated as certainty."
+    },
+    {
+      "id": "LYD-DIS-004",
+      "scope": "post-Gusmani/new inscriptions",
+      "kind": "coverage",
+      "status": "OPEN_SOURCE_FRONTIER",
+      "boundary": "Later publications and eDiAna additions require explicit publication/object concordance; do not force legacy LW numbering."
+    }
+  ]
+}
