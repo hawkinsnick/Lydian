@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Lydian",
+  "sources": [
+    {
+      "id": "eDiAna",
+      "role": "licensed digital reference/annotation",
+      "rights": "CC-BY-SA-4.0",
+      "use": "current 118-document snapshot and derived reference records; preserve attribution/share-alike and lineage"
+    },
+    {
+      "id": "TITUS",
+      "role": "digital edition",
+      "rights": "SYSTEMATIC_REDISTRIBUTION_TERMS_NOT_ESTABLISHED",
+      "use": "public inspection, locators and original comparison metadata; do not wholesale copy until terms clear"
+    },
+    {
+      "id": "Gusmani-1964-1986",
+      "role": "foundational critical edition/dictionary/supplements",
+      "rights": "COPYRIGHTED_CRITICAL_EDITION_SYSTEMATIC_DERIVATIVE_RIGHTS_NOT_ESTABLISHED",
+      "use": "bibliographic/locator facts and lawfully inspectable targeted evidence; systematic public structured critical-edition extraction requires permission/clear terms"
+    },
+    {
+      "id": "Melchert-2001c",
+      "role": "re-edited corpus basis for eDiAna",
+      "rights": "SYSTEMATIC_DERIVATIVE_RIGHTS_NOT_ESTABLISHED",
+      "use": "lineage/bibliography unless rights-compatible text is available"
+    },
+    {
+      "id": "Sardis-Expedition",
+      "role": "object catalogue/photos/context",
+      "rights": "ITEM/CONTENT_RIGHTS_CONTROLLED_BY_SITE_AND_CREDITS",
+      "use": "public factual discovery/identity metadata and links; do not redistribute protected photos/catalogue prose without permission"
+    },
+    {
+      "id": "Gusmani-1975-Sardis-M3",
+      "role": "primary publication route for later Sardis material",
+      "rights": "EXPEDITION_HOSTED_SCAN; SYSTEMATIC_REPUBLICATION_RIGHTS_NOT_ESTABLISHED",
+      "use": "targeted collation metadata; do not redistribute scan/figures"
+    },
+    {
+      "id": "Rojas-Acar-2025",
+      "role": "new Aphrodisias inscription",
+      "rights": "PUBLICATION_RIGHTS_NOT_ESTABLISHED",
+      "use": "metadata/DOI until lawful text/object reuse basis established"
+    }
+  ],
+  "rule": "Public accessibility and bibliographic citation do not create permission for systematic redistribution of protected editions, photographs, facsimiles or substantial transcriptions."
+}
