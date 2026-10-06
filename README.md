@@ -43,3 +43,7 @@ See [the research standards guide](docs/RESEARCH-STANDARDS.md) for record-level 
 
 ## Offline corpus browser
 Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
+
+
+## Linear A method-parity gate
+Lydian has reached the machine-resolvable pre-expert method-parity baseline for the evidence currently lawful to use: the complete frozen eDiAna capture is preserved with source lineage, disagreement and rights controls; the browser, read-only API, loss-aware exports, reproducible validation and source-bound expert-review workflow are explicit. Read `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json` before completeness claims. Further systematic critical-edition growth is constrained by rights/access to Gusmani's foundational editions, TITUS/Melchert-derived text and protected object-level evidence. eDiAna/TITUS/Gusmani are dependent reading lineages unless record-specific independent collation is demonstrated. Expert adjudication remains downstream.
