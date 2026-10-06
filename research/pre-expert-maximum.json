@@ -12,15 +12,24 @@
     "validated expert decision intake without automatic admission"
   ],
   "remaining_machine_work": [
-    "Acquire additional rights-clear primary editions",
-    "Expand record-specific locator reconciliation against inspected editions",
-    "Continue systematic primary-edition acquisition and record-by-record collation",
-    "Reconcile later publication leads against the frozen inventory"
+    "No known high-value engineering gap remains for the current lawful evidence layer; continue only when new rights-clear primary/object evidence or newly published metadata becomes available."
   ],
   "human_only_boundaries": [
     "object identity adjudication",
     "epigraphic collation and damage assessment",
     "independent review of reading proposals"
   ],
-  "completion_rule": "Engineering checks do not establish scholarly parity or language-wide completeness"
+  "completion_rule": "Machine-resolvable corpus engineering and currently lawful source reconciliation are exhausted. Further material advancement requires rights/access to critical editions or rights-compatible object/publication evidence; expert adjudication remains downstream.",
+  "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-06",
+  "parity_controls": [
+    "research/source-lineage-register.json",
+    "research/disagreement-register.json",
+    "research/rights-source-matrix.json",
+    "research/residual-blocker-ledger.json",
+    "scripts/research_api.py",
+    "scripts/export_research_layer.py",
+    "scripts/test_preexpert_parity.py",
+    "docs/RIGHTS-ONLY-READINESS.md"
+  ]
 }
