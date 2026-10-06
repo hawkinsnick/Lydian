@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Lydian",
+  "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-06",
+  "assessment": "OPEN_MACHINE_FRONTIER",
+  "blockers": [
+    {
+      "id": "LYD-BLK-001",
+      "class": "SOURCE_RECONCILIATION",
+      "status": "OPEN",
+      "needed": "maximize record-level lineage and object/publication concordance from lawful public evidence"
+    },
+    {
+      "id": "LYD-BLK-002",
+      "class": "RIGHTS_ACCESS",
+      "status": "BLOCKED",
+      "scope": "Gusmani 1964 and 1980-1986",
+      "needed": "rights/access sufficient for systematic structured critical-edition collation and public derivative redistribution"
+    },
+    {
+      "id": "LYD-BLK-003",
+      "class": "RIGHTS_ACCESS",
+      "status": "BLOCKED",
+      "scope": "TITUS/Melchert corpus text",
+      "needed": "systematic reuse terms or permission sufficient for full structured comparison/redistribution"
+    },
+    {
+      "id": "LYD-BLK-004",
+      "class": "RIGHTS_ACCESS",
+      "status": "PARTIAL",
+      "scope": "Sardis object-level visual evidence",
+      "needed": "item-level permission/clear reuse terms for protected photographs and catalogue content where required"
+    },
+    {
+      "id": "LYD-BLK-005",
+      "class": "ENGINEERING",
+      "status": "OPEN",
+      "needed": "API, loss-aware exports, parity validator, rights/lineage/disagreement interfaces and CI"
+    },
+    {
+      "id": "LYD-BLK-006",
+      "class": "SCIENTIFIC_REVIEW",
+      "status": "DOWNSTREAM",
+      "needed": "expert/object collation and adjudication after admissible evidence exists"
+    }
+  ],
+  "completion_rule": "Close machine-resolvable reconciliation and engineering before treating rights/access as the current material-growth frontier."
+}
