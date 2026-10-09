@@ -2,11 +2,11 @@
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
   "config_sha256": "6ed6c3060ed4161aecb7166007e17d70ec01c62116a82721ddaab4ee75649f1a",
-  "evidence_fingerprint": "39710442b2736ed52c433db2809fc07777d929ded49244fbb258018be8fa05d4",
+  "evidence_fingerprint": "d30b24361d8cd5090a144a82497f7049de9e0cd31787a901ff4c8d7768267108",
   "input_sha256": {
-    "analysis/current-status.json": "220ce1e0a613fdacf242bcff0123b837a732641fc17ebaae9a4e02229bf32e49",
+    "analysis/current-status.json": "ad9f5965d3fa5f0e853295c0d78083c786d85cfe7dfadff60a233e4a88e04811",
     "data/reference/records.json": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
-    "research/pre-expert-maximum.json": "e4f7dce33d39f9985b30a8e7447ea07016d7f3a82c94a9c7da53779ba45fa8d5",
+    "research/pre-expert-maximum.json": "233378fe479826ea6bcdd0244a7720001a9f4e93350e48d61076b7ec05928fe5",
     "research/publication-reconciliation.json": "ca914208e5deda01a8284edaf9345025ad94e8522724565e52a29f9aaa3457f7",
     "research/rights-evidence.json": "ce6f4be255c3d2baa00ab36f095593475a290983df86bda4e77ed1e735cc92ca",
     "research/source-access.json": "831947aaffb3d4a5cbb644e37d2f1a65a426c60f450c9e723ea88255f52b6f55",
@@ -4858,34 +4858,7 @@
       "native_status": null,
       "native_task_id": null,
       "source_path": "research/pre-expert-maximum.json",
-      "task": "Acquire additional rights-clear primary editions"
-    },
-    {
-      "blocker_is_not_established_by_a_label": true,
-      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
-      "json_pointer": "/remaining_machine_work/1",
-      "native_status": null,
-      "native_task_id": null,
-      "source_path": "research/pre-expert-maximum.json",
-      "task": "Expand record-specific locator reconciliation against inspected editions"
-    },
-    {
-      "blocker_is_not_established_by_a_label": true,
-      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
-      "json_pointer": "/remaining_machine_work/2",
-      "native_status": null,
-      "native_task_id": null,
-      "source_path": "research/pre-expert-maximum.json",
-      "task": "Continue systematic primary-edition acquisition and record-by-record collation"
-    },
-    {
-      "blocker_is_not_established_by_a_label": true,
-      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
-      "json_pointer": "/remaining_machine_work/3",
-      "native_status": null,
-      "native_task_id": null,
-      "source_path": "research/pre-expert-maximum.json",
-      "task": "Reconcile later publication leads against the frozen inventory"
+      "task": "No known high-value engineering gap remains for the current lawful evidence layer; continue only when new rights-clear primary/object evidence or newly published metadata becomes available."
     }
   ],
   "terminal_pre_expert_maximum_established": false
