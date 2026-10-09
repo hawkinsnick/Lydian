@@ -1,0 +1,4865 @@
+{
+  "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
+  "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
+  "config_sha256": "6ed6c3060ed4161aecb7166007e17d70ec01c62116a82721ddaab4ee75649f1a",
+  "evidence_fingerprint": "d30b24361d8cd5090a144a82497f7049de9e0cd31787a901ff4c8d7768267108",
+  "input_sha256": {
+    "analysis/current-status.json": "ad9f5965d3fa5f0e853295c0d78083c786d85cfe7dfadff60a233e4a88e04811",
+    "data/reference/records.json": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+    "research/pre-expert-maximum.json": "233378fe479826ea6bcdd0244a7720001a9f4e93350e48d61076b7ec05928fe5",
+    "research/publication-reconciliation.json": "ca914208e5deda01a8284edaf9345025ad94e8522724565e52a29f9aaa3457f7",
+    "research/rights-evidence.json": "ce6f4be255c3d2baa00ab36f095593475a290983df86bda4e77ed1e735cc92ca",
+    "research/source-access.json": "831947aaffb3d4a5cbb644e37d2f1a65a426c60f450c9e723ea88255f52b6f55",
+    "research/source-checks.json": "d4a8e59b525c5e8740374da3b76866140561ac8162498cd39f29e4f036776d95",
+    "research/source-frontier.json": "b9ecaa5ac24c322ec8685262b4df12ef757ba4bfb22fb1351a3f911c9a96b728",
+    "research/source-register.json": "5e5b43347d15c74121e6837933b0b1a95e89f0136c0b4f8d38d0cef504460dd3",
+    "research/source-worklist.json": "f3a1b8fa205f3d89af43e8668f097b26a386ca3d2d8cd6cecca31f61a437936e"
+  },
+  "native_review_links": [
+    "docs/EXPERT-REVIEW.md",
+    "review/README.md",
+    "research/admission-policy.json",
+    "DATA-LICENSE-MATRIX.md",
+    "LICENSING.md"
+  ],
+  "question_definitions": {
+    "language_or_script_classification": "Attribute membership and classification to named authorities; preserve disagreement.",
+    "object_identity": "Confirm the object, face and inventory concordance; distinguish source entries from physical objects.",
+    "reading_and_layout": "Compare the exact edition rows, figures and layout; preserve competing readings with page/line locators.",
+    "reuse_rights": "Check the applicable license or permission for each component; project terms do not override upstream rights.",
+    "source_independence": "Identify shared editorial and photographic lineage; a derivative is not an independent witness.",
+    "uncertainty": "Retain damage, restorations, unreadable signs and competing segmentations; do not silently normalize them."
+  },
+  "record_identity_is_not_object_identity": true,
+  "record_views": [
+    {
+      "enumerated": 118,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "digital_directory_record",
+      "view": "ediana-records"
+    }
+  ],
+  "records": [
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/0",
+      "native_id": "lydian:ediana:95",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:95",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/0/references",
+        "/0/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "8961e4cabaa27d2fc67eb7901f081c637cc21cc7de7018c1432e389a02ee88ec",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/1",
+      "native_id": "lydian:ediana:51",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:51",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/1/references",
+        "/1/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "5761ee871602d325afd0b48e84824fa82415c054f88c35fda1a1b1986b231777",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/2",
+      "native_id": "lydian:ediana:101",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:101",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/2/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "fee327d62fb1e024fc53cb5a548f148ab87f7e3f4f152fe114e6cbbccadd1f6f",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/3",
+      "native_id": "lydian:ediana:107",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:107",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/3/references",
+        "/3/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "9a0c22aa14a7565c26b1a4fee35e7ad9042d98ebdc536d921aedd7512c42a48c",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/4",
+      "native_id": "lydian:ediana:26",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:26",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/4/references",
+        "/4/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "a67c1fcc7f88ad327acbf60cf810206c5b48384c8557b2084b59b7f9ae15e178",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/5",
+      "native_id": "lydian:ediana:108",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:108",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/5/references",
+        "/5/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "025b67fa6bb119e7aa3435e7756f9da97f916a7577465fdfacde6c9d9afc6594",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/6",
+      "native_id": "lydian:ediana:27",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:27",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/6/references",
+        "/6/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "65c1ab31d74c0cb6a6cd9c19a2affc595025bbf528e508d7bb4a7b8fa434a466",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/7",
+      "native_id": "lydian:ediana:28",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:28",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/7/references",
+        "/7/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "df490e58cd5da43adf078513ce932a050954f880fd8ad53e7be9eaad44ce75e6",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/8",
+      "native_id": "lydian:ediana:29",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:29",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/8/references",
+        "/8/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "1a5b0cb64131a7885551a084fc63eac444cf2f242b6abff5c9bc166fafc3a6c3",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/9",
+      "native_id": "lydian:ediana:109",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:109",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/9/references",
+        "/9/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "0ddb63e653fa37cd2fefcd3d3bc66130d41badb20e20a67b277bbe7ffdd97c73",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/10",
+      "native_id": "lydian:ediana:102",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:102",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/10/references",
+        "/10/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "f823a2caea07f7651fd6e9e2e28b479242ed200774703c54acfe773eeccfa829",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/11",
+      "native_id": "lydian:ediana:8",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:8",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/11/references",
+        "/11/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "8bf70c37c882d5a4f97d34be0741130276052f547fc52b952924585c6b22a6bd",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/12",
+      "native_id": "lydian:ediana:52",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:52",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/12/references",
+        "/12/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "dd70216d52fe9e190d6624761d0e1a9a08578c24e2881a73a1ee0890d034f866",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/13",
+      "native_id": "lydian:ediana:53",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:53",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/13/references",
+        "/13/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "d0da6ab98eff99465d1e2c52ca37036dee550c7f51181a36aff1f95e5d9dbf62",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/14",
+      "native_id": "lydian:ediana:54",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:54",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/14/references",
+        "/14/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "fadda15678e9d9d536158756c492c38c8b0e8700d6f6ddb3432f4399ed4d363b",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/15",
+      "native_id": "lydian:ediana:55",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:55",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/15/references",
+        "/15/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "0ac03dba90e2d84237a592628ad08cc24292a12321f269a4240871a4756c6cc4",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/16",
+      "native_id": "lydian:ediana:56",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:56",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/16/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "96bf014a106cddae622986f680611663acb54981b72ad7bc43da791f3378d4e9",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/17",
+      "native_id": "lydian:ediana:57",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:57",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/17/references",
+        "/17/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "b33673055424689cf683cb8c8d8daff545df7befa7b3f228e2b157e7646a26c2",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/18",
+      "native_id": "lydian:ediana:90",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:90",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/18/references",
+        "/18/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "8772c18718328acf1af9bfc033317328b2683c15ed93f25f3930dd6e2a7b94cb",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/19",
+      "native_id": "lydian:ediana:58",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:58",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/19/references",
+        "/19/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "05d9c2abafec2785ccfa9d1f1d683d6d19154762c23dd3bd0a3fa8db0740cd28",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/20",
+      "native_id": "lydian:ediana:59",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:59",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/20/references",
+        "/20/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "49f1f58958d3664ae965cbdb114f61d0b2788de8d3ab12b8fb6378125464df57",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/21",
+      "native_id": "lydian:ediana:96",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:96",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/21/references",
+        "/21/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "affac86362788e9a3c339c876f40e424da27758c932ac8363249943e30ec214c",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/22",
+      "native_id": "lydian:ediana:60",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:60",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/22/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "c40552a9fc0aa0e3191b4a12484d57690e5daf78f8f688bd2b13a041e0fff1ba",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/23",
+      "native_id": "lydian:ediana:61",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:61",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/23/references",
+        "/23/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "56e95cb448b7591e58e21d607917fb82bdcd39c5377187138831d876f84b1416",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/24",
+      "native_id": "lydian:ediana:62",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:62",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/24/references",
+        "/24/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "6f95951ee24fa644995817288f8cde296270cdca26dccf07316995240f1bae67",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/25",
+      "native_id": "lydian:ediana:63",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:63",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/25/references",
+        "/25/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "eb36d69755c073b41cb4d00a8010da2b373509ef19d2be5084906758c32c4836",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/26",
+      "native_id": "lydian:ediana:64",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:64",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/26/references",
+        "/26/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "d2f690fe66d4c6c91e814459d1b177190cd95648c457afc7fc05427eb6db951a",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/27",
+      "native_id": "lydian:ediana:65",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:65",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/27/references",
+        "/27/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "06554ad9dfcad42d3a6330502397817343d53c6b0d5a260a157850259d89ac8c",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/28",
+      "native_id": "lydian:ediana:66",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:66",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/28/references",
+        "/28/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "3a9a520b5366d965ce9c73cdd033271e7297dc965bdeebf0758bd2525b29fe95",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/29",
+      "native_id": "lydian:ediana:67",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:67",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/29/references",
+        "/29/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "3fda20623a35807ae2b23840444c51cfbda867de2c9c7d834d27d701516d402e",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/30",
+      "native_id": "lydian:ediana:68",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:68",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/30/references",
+        "/30/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "9362ca234a599faf02157fe6b55d401a3c47e56f5391e74197ddb70a842b39bf",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/31",
+      "native_id": "lydian:ediana:69",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:69",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/31/references",
+        "/31/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "9f47f8b28c43a931473835b610bf5143db389b927a947739ada46952e6bd2d0a",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/32",
+      "native_id": "lydian:ediana:99",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:99",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/32/references",
+        "/32/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "865426ad1ce936f32c546036150515d6041c5710229e318b4c1b5538ed4b8179",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/33",
+      "native_id": "lydian:ediana:10",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:10",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/33/references",
+        "/33/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "d9141de8e082c4161976a63fb6ab49dc3dc769a24bd6d7819b892b13a8b33857",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/34",
+      "native_id": "lydian:ediana:11",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:11",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/34/references",
+        "/34/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "a4ae878248ce7226ad51a89f364273fba508b3d62a07f3c74854fe675abd52d4",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/35",
+      "native_id": "lydian:ediana:12",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:12",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/35/references",
+        "/35/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "6cc99f20130986250c2532958cd9c6567637a34b1f83e0852ffad2e277e986f3",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/36",
+      "native_id": "lydian:ediana:70",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:70",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/36/references",
+        "/36/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "651f00f418689a720c54432d12f2d7bd5de02223da1e8a3dad6ed6a4671ce11d",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/37",
+      "native_id": "lydian:ediana:71",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:71",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/37/references",
+        "/37/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "ac113b4641e57d30ffa23a1f59810ed337f22f06f1eb0b79d63f9dff04950f27",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/38",
+      "native_id": "lydian:ediana:72",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:72",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/38/references",
+        "/38/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "88cdf3f062e374430f5929b7693691a2ec3c9900ffcfd724b9445acaaaa4dd35",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/39",
+      "native_id": "lydian:ediana:73",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:73",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/39/references",
+        "/39/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "892b938cba5e96dbea287705b9482ab7d5cc0e6a8041c826dd79cf1a667fe1c8",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/40",
+      "native_id": "lydian:ediana:74",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:74",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/40/references",
+        "/40/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "df4b75966d9f04d33508cf464cc3cc2124466bb9bb8a150ec29c3ee4d7373118",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/41",
+      "native_id": "lydian:ediana:75",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:75",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/41/references",
+        "/41/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "ab5e68a8a186eea2e9d4fd950a381b2aad28b690ca9930c1d918fb2da35b65c6",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/42",
+      "native_id": "lydian:ediana:76",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:76",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/42/references",
+        "/42/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "faf18c4c078dd4c5c5bec62ba63cc1b8b3a5a120ffbc0744ac340c51ada1fb4c",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/43",
+      "native_id": "lydian:ediana:103",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:103",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/43/references",
+        "/43/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "61bdf67dcda90b2160b64369e17e8815e302b87b08684016a6cb95b6088937b7",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/44",
+      "native_id": "lydian:ediana:97",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:97",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/44/references",
+        "/44/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "29c117baef0038578d8a718bab0527612bb006eec148c00a3d3d8991e2fb3585",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/45",
+      "native_id": "lydian:ediana:82",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:82",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/45/references",
+        "/45/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "3cc10f5431c2ea620ef5ee2c179d122d38c01b7879ff4d4c38d54da06c708b80",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/46",
+      "native_id": "lydian:ediana:83",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:83",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/46/references",
+        "/46/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "c3f76edd2a5f9661b86ea44efb4ad561dc944e912cb071b5db5ab6c0d0cc9322",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/47",
+      "native_id": "lydian:ediana:84",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:84",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/47/references",
+        "/47/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "5f74050906fa80b179c012686919e25f114114d6f58be9586f6782ea9b38b5b5",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/48",
+      "native_id": "lydian:ediana:85",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:85",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/48/references",
+        "/48/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "7fa4f5e43e0966a519384d77866f526a7e2270c11d1d85809796638b1595b008",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/49",
+      "native_id": "lydian:ediana:87",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:87",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/49/references",
+        "/49/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "1dae01313fe18559e0b0511612adf61115c102baac0b03e603939ca388a67b09",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/50",
+      "native_id": "lydian:ediana:86",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:86",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/50/references",
+        "/50/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "c4f1a3a086832904bf897552ff9b6f5c795f682b41c9d389220159343e052899",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/51",
+      "native_id": "lydian:ediana:81",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:81",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/51/references",
+        "/51/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "7c32b407fd66cfb2bf0ea785acf26d7a317f9f6520559092971fdcb2938a9902",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/52",
+      "native_id": "lydian:ediana:20",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:20",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/52/references",
+        "/52/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "b1dc71e9f9cef636b8f0e1e5fe07f5ce6069c4df45cd7724e9f2d60cae1432e1",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/53",
+      "native_id": "lydian:ediana:9",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:9",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/53/references",
+        "/53/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "8e7f8681d361b9fe268b547d38f680239de2e53e961e39984cd289ca7bebb042",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/54",
+      "native_id": "lydian:ediana:45",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:45",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/54/references",
+        "/54/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "2dc7001fdab1170c1e48a8bf82743c02ed7a5211c9e5c8c91b66a8fe9be04f72",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/55",
+      "native_id": "lydian:ediana:46",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:46",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/55/references",
+        "/55/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "0da5b25e1b77a1a112971bc2ea2e6e6183cb1c70d50f27d52d8057a988bbdb50",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/56",
+      "native_id": "lydian:ediana:47",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:47",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/56/references",
+        "/56/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "fa2f6b5351290ddb6e9ad713851d8967a8abc9b7d000c72ab8eb0a8b7610b251",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/57",
+      "native_id": "lydian:ediana:100",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:100",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/57/references",
+        "/57/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "9f693dfe7dde47e28e74bd5b37e53acb5dff87edfe528f9a5be6190ebcfc1462",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/58",
+      "native_id": "lydian:ediana:30",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:30",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/58/references",
+        "/58/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "31cd36490ee38035b10e9c085d89a41f82eac649956b83b4a1abc0a21e3d2fa7",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/59",
+      "native_id": "lydian:ediana:3",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:3",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/59/references",
+        "/59/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "8361c3f7869e674e55c8d0c7b5238dc02510b02748f12d3892122096894914e9",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/60",
+      "native_id": "lydian:ediana:88",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:88",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/60/references",
+        "/60/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "082713532aa40520ba64b82c3220375a2aae46eb339ee06bb0caa9cc96056863",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/61",
+      "native_id": "lydian:ediana:31",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:31",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/61/references",
+        "/61/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "8ba17ef8e410754d0600282b7add0e9b22a0a6945e039fc346b48760216a4e18",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/62",
+      "native_id": "lydian:ediana:24",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:24",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/62/references",
+        "/62/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "d16bf3f3fb014bfb8def5ef30c99e57c2b7bb5a12f399f3d97aea363cc085caa",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/63",
+      "native_id": "lydian:ediana:25",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:25",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/63/references",
+        "/63/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "ca7181f3d5438afd62b7579c4a9b1d5eb0a2eff7e6725b5d49c518790f4cdeca",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/64",
+      "native_id": "lydian:ediana:32",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:32",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/64/references",
+        "/64/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "b2275fe61e97fed1b108b4ed75712e1ac6d0d907a31191b0b76a3eac5ca1298a",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/65",
+      "native_id": "lydian:ediana:5",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:5",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/65/references",
+        "/65/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "f9af359f547e72e21bcb61dc8fddee8a6fec5cfbec31254b162874fbd1e271b2",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/66",
+      "native_id": "lydian:ediana:77",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:77",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/66/references",
+        "/66/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "caa37c8f4d10f74ab7d43addf4d12ede13129c60ee8f8e5d4d3f8caf3487b6ed",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/67",
+      "native_id": "lydian:ediana:48",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:48",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/67/references",
+        "/67/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "1881d93cc1b8dc4b4b77a6fc5b7e6188284ab38219b49611f76e3ca62237a952",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/68",
+      "native_id": "lydian:ediana:14",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:14",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/68/references",
+        "/68/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "6bb53ca517f85ee9871fbd8aa811e82be25c337726a140c1d671fd6c0d184d33",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/69",
+      "native_id": "lydian:ediana:78",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:78",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/69/references",
+        "/69/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "a7344e6e8f63347039f862bbbab6a4f1216771e4c38a062f4c39eaffe21ff3d1",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/70",
+      "native_id": "lydian:ediana:110",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:110",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/70/references",
+        "/70/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "6a17fcc8818b5e959f50205fd237d04da1b08e2b7cdd67d5f732ff36f34096eb",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/71",
+      "native_id": "lydian:ediana:6",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:6",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/71/references",
+        "/71/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "44992a8d1f8b77e3e680e50adcac81f2a10616df8a7b99018e4663e6556bcab6",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/72",
+      "native_id": "lydian:ediana:21",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:21",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/72/references",
+        "/72/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "62560f7cc83feedf683933973817047178c4b584f2ac0466b2e57cdccdf3b324",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/73",
+      "native_id": "lydian:ediana:104",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:104",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/73/references",
+        "/73/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "bdf9accc468e714c65d87909258226a207a9d1105f0d0e67d692c3e0ff62be48",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/74",
+      "native_id": "lydian:ediana:43",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:43",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/74/references",
+        "/74/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "63feb52e36a4dbacf95588f4fc26b31b49397df201b32aa9dd0839c062d1eeee",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/75",
+      "native_id": "lydian:ediana:2",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:2",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/75/references",
+        "/75/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "c5262c392f56b7b6766d9ad68e793b9d03bd70ee81f5ab3c044fc42c7d30952b",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/76",
+      "native_id": "lydian:ediana:33",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:33",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/76/references",
+        "/76/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "d691f816a5410c9d5a3648e26ef0670bc4b8edf35755de85dfc8e5127df72ed1",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/77",
+      "native_id": "lydian:ediana:4",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:4",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/77/references",
+        "/77/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "7eb59242c65c80b4d41dddddd52cff6082ef217a3a64ebd0df317eb44590afb3",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/78",
+      "native_id": "lydian:ediana:49",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:49",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/78/references",
+        "/78/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "f7493587c351d2bfb888372afdc56e1b49b458c358e14e455af1aa8ea0e9b545",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/79",
+      "native_id": "lydian:ediana:79",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:79",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/79/references",
+        "/79/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "f15210ac722ffa4c7df7c32cf51a76b0af7e8e914dbc6e386881eddb36c82a55",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/80",
+      "native_id": "lydian:ediana:91",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:91",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/80/references",
+        "/80/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "304e4cfea94c0bdc41d444f62222649fc32b3180a177e9d58775aca8c43046d8",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/81",
+      "native_id": "lydian:ediana:7",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:7",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/81/references",
+        "/81/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "0beeca86568c519d15c939e4b1d51998b0496e9bdc6561e1103163f345516d36",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/82",
+      "native_id": "lydian:ediana:111",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:111",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/82/references",
+        "/82/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "5decc748ec075663dfe5770a9a47e641e0673b29943033c2cf2d2a1535bed638",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/83",
+      "native_id": "lydian:ediana:38",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:38",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/83/references",
+        "/83/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "8ce4ad10da7b35ed016afce91bdb8b3ec3b3059614d0cea0cf1f1caba3dd0904",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/84",
+      "native_id": "lydian:ediana:39",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:39",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/84/references",
+        "/84/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "a96ef29d6ae7b5a9d933b5d62fe8078ceb3013775b0bf72cc0dd08c663b35be6",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/85",
+      "native_id": "lydian:ediana:40",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:40",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/85/references",
+        "/85/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "07b7deb8c8234766842ca74320849e7efc25acefae2c27485f4b3439a840b8b0",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/86",
+      "native_id": "lydian:ediana:41",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:41",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/86/references",
+        "/86/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "aaa294c28734256d834a685d10c591dd505ef17e0138460807b6773b63b27df9",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/87",
+      "native_id": "lydian:ediana:42",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:42",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/87/references",
+        "/87/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "602e195f3b5e3cade04c8acad23f549ed370307b743de753eb5819d9ada3db1b",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/88",
+      "native_id": "lydian:ediana:112",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:112",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/88/references",
+        "/88/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "2a32a26d42ddfa8c4b1f7a2aae878e0928dc40844c7883c58093562bff8b8142",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/89",
+      "native_id": "lydian:ediana:89",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:89",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/89/references",
+        "/89/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "12c0c9b1abfa85f3960ed9e8eb984b7f0cf7ad0bfb9ecaec9bd285a539599575",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/90",
+      "native_id": "lydian:ediana:92",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:92",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/90/references",
+        "/90/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "9ff1e33978171155eeda3c736ad8c141b35452a5e51d20acabd6b01ef22eaff3",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/91",
+      "native_id": "lydian:ediana:80",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:80",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/91/references",
+        "/91/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "ff766d1f6570303bac4cf34101d9700b96c3037cd83237e8f77dc7526e4e61e9",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/92",
+      "native_id": "lydian:ediana:93",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:93",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/92/references",
+        "/92/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "27923ba4b1b8e75d21f9bd2b53c43374c2b771d357f3e2fdbe8b3ce6513a028d",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/93",
+      "native_id": "lydian:ediana:34",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:34",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/93/references",
+        "/93/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "df3146402d95b5d4a8330741dcbab2aa98bde1bcc62308db05c1d1c7d832988a",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/94",
+      "native_id": "lydian:ediana:35",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:35",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/94/references",
+        "/94/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "b9e533dbec490caee39a0dc577270275d84093ff5cf2a26c6a62d0e625498c5b",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/95",
+      "native_id": "lydian:ediana:13",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:13",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/95/references",
+        "/95/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "166bef1a607b394b224b79b1a5305c3805019ce3a56901ee5da067ae79a27b8e",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/96",
+      "native_id": "lydian:ediana:105",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:105",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/96/references",
+        "/96/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "4f11b7635b3a8c49bbf3ddf76162505d95e110a58ff72536b67352589de67714",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/97",
+      "native_id": "lydian:ediana:15",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:15",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/97/references",
+        "/97/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "dc3028eb2baa007ef90e5f4ce1020792eb2dfd810e068c58d3d7c33c46a2b62d",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/98",
+      "native_id": "lydian:ediana:16",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:16",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/98/references",
+        "/98/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "46c29d5abec7a13d4dab249e3685d74341c39655938f438717c92068eaa149ea",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/99",
+      "native_id": "lydian:ediana:17",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:17",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/99/references",
+        "/99/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "b15f92fe3debfe4d4c40ddd06b8b93b7acd3fbf2f65a4a2cc53ab9240b774e81",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/100",
+      "native_id": "lydian:ediana:50",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:50",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/100/references",
+        "/100/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "d719e95932fb5cf36c60b96696919caa4387cfb5ff1f129d940a295284d3b167",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/101",
+      "native_id": "lydian:ediana:36",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:36",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/101/references",
+        "/101/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "ec051276652d24004263c1e37b90a6efb08d45909bf21399f42171f821067230",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/102",
+      "native_id": "lydian:ediana:44",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:44",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/102/references",
+        "/102/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "871f9e2ddfcb412ec92146501bf9c4fe0b8baaaa29e7c5fe710a272d2e5d9e08",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/103",
+      "native_id": "lydian:ediana:18",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:18",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/103/references",
+        "/103/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "c4b06edc0475d6bc552665ed42ff91c348e61da2dbc3eadeb9b59f6f5ff77498",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/104",
+      "native_id": "lydian:ediana:106",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:106",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/104/references",
+        "/104/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "d90115647c0a2cfd89ba3bb4b3db57c618a6c6b81fa407c09546509be22f83c5",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/105",
+      "native_id": "lydian:ediana:37",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:37",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/105/references",
+        "/105/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "82088fce4c1f5dd702c53006a22934b9ae198c4cdc70428dcd06837b30b6c538",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/106",
+      "native_id": "lydian:ediana:113",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:113",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/106/references",
+        "/106/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "0c5067bac775fd65789f316a122375a6eac410810851195200967eecb77a34da",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/107",
+      "native_id": "lydian:ediana:0",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:0",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/107/references",
+        "/107/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "b66a5f2ca2b234d9e6f3eb3c2aacff961bcbb86e245fe8f39e6ddfdef1f899de",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/108",
+      "native_id": "lydian:ediana:22",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:22",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/108/references",
+        "/108/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "b81e3691d0a7a74c5b67898460e26cfd2ce98d76561428b9b1329272aea91782",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/109",
+      "native_id": "lydian:ediana:23",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:23",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/109/references",
+        "/109/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "f0a11fbe2baef1b7f35a59e54bf9ba3fd03849f5c7a4db769728708362bc011a",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/110",
+      "native_id": "lydian:ediana:19",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:19",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/110/references",
+        "/110/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "75e56396827d46ccb5c250b2e130ac4fee5054cd151df54b3c832a374a627ada",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/111",
+      "native_id": "lydian:ediana:114",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:114",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/111/references",
+        "/111/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "9a83605d530ca720acab40d63d7afb8784471bd8fdad95d1ea3cd71496795add",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/112",
+      "native_id": "lydian:ediana:115",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:115",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/112/references",
+        "/112/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "85938730eb1c8b774a5524cca56727e3767f42d59549f0a43ee95058336e1c47",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/113",
+      "native_id": "lydian:ediana:116",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:116",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/113/references",
+        "/113/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "c005d41772cad018d0b4163c655e1925f54cb8e3acb59219e17c11a8edee4588",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/114",
+      "native_id": "lydian:ediana:1",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:1",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/114/references",
+        "/114/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "c6f4e76c9b2251e0a1396ff9d76d4915864c6dbcff4438a8f51a3af0e750ce59",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/115",
+      "native_id": "lydian:ediana:98",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:98",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/115/references",
+        "/115/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "25eba94ca4ee6a0cfe8f44d1b780a63c7dbbf979764ecfe9ce0195cae27d0788",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/116",
+      "native_id": "lydian:ediana:94",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:94",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/116/references",
+        "/116/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "c6fd040b9269e0e6a2f4cf419db2f825207352407cc41527afc48365a514e9b3",
+      "unit": "digital_directory_record"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/117",
+      "native_id": "lydian:ediana:117",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "ediana-records:lydian:ediana:117",
+      "source_file_sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_lead_pointers": [
+        "/117/references",
+        "/117/source_url"
+      ],
+      "source_path": "data/reference/records.json",
+      "source_record_sha256": "dc3e4f09a9cf6de725b6f3f550012138be7e95a3fe6d4a926744049679cd7fe3",
+      "unit": "digital_directory_record"
+    }
+  ],
+  "repository": "hawkinsnick/Lydian",
+  "review_dimensions": [
+    "object_identity",
+    "reading_and_layout",
+    "uncertainty",
+    "language_or_script_classification",
+    "source_independence",
+    "reuse_rights"
+  ],
+  "schema_version": "1.0",
+  "scientific_approval_granted": false,
+  "scope": "Declared native snapshots and source/task registers only; not a language-wide inventory",
+  "source_leads": [
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/2/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/3/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/3/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/4/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/4/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/5/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/5/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/8/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/8/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/9/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/9/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/10/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/10/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/11/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/11/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/12/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/12/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/13/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/13/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/14/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/14/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/15/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/15/references/1",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/15/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/16/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/17/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/17/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/18/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/18/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/19/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/19/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/20/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/20/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/21/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/21/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/22/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/23/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/23/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/24/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/24/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/25/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/25/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/26/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/26/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/27/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/27/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/28/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/28/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/29/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/29/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/30/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/30/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/31/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/31/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/32/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/32/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/33/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/33/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/34/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/34/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/35/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/35/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/36/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/36/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/37/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/37/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/38/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/38/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/39/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/39/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/40/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/40/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/41/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/41/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/42/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/42/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/43/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/43/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/44/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/44/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/45/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/45/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/46/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/46/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/47/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/47/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/48/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/48/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/49/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/49/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/50/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/50/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/51/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/51/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/52/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/52/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/53/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/53/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/54/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/54/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/55/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/55/references/1",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/55/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/56/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/56/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/57/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/57/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/58/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/58/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/59/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/59/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/60/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/60/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/61/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/61/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/62/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/62/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/63/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/63/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/64/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/64/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/65/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/65/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/66/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/66/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/67/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/67/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/68/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/68/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/69/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/69/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/70/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/70/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/71/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/71/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/72/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/72/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/73/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/73/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/74/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/74/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/75/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/75/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/76/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/76/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/77/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/77/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/78/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/78/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/79/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/79/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/80/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/80/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/81/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/81/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/82/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/82/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/83/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/83/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/84/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/84/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/85/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/85/references/1",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/85/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/86/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/86/references/1",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/86/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/87/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/87/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/88/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/88/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/89/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/89/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/90/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/90/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/91/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/91/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/92/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/92/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/93/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/93/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/94/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/94/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/95/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/95/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/96/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/96/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/97/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/97/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/98/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/98/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/99/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/99/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/100/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/100/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/101/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/101/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/102/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/102/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/103/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/103/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/104/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/104/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/105/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/105/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/106/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/106/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/107/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/107/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/108/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/108/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/109/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/109/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/110/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/110/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/111/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/111/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/112/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/112/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/113/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/113/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/114/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/114/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/115/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/115/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/116/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/116/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/117/references/0",
+      "kind": "references",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/117/source_url",
+      "kind": "source_url",
+      "source_path": "data/reference/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/title",
+      "kind": "title",
+      "source_path": "research/publication-reconciliation.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_url",
+      "kind": "source_url",
+      "source_path": "research/publication-reconciliation.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_url",
+      "kind": "source_url",
+      "source_path": "research/rights-evidence.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/0/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/1/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/2/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/3/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/4/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/5/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/6/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/7/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/8/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/9/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/10/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/10/edition",
+      "kind": "edition",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/11/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/12/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/13/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/14/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/15/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/16/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-access.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/0/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/0/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/0/locators/1",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/0/locators/2",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/0/locators/3",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/1/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/1/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/1/locators/1",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/1/locators/2",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/2/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/2/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/2/locators/1",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/2/locators/2",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/2/bibliography",
+      "kind": "bibliography",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/2/bibliography/title",
+      "kind": "title",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/3/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/3/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/3/bibliography",
+      "kind": "bibliography",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/3/bibliography/title",
+      "kind": "title",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/4/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/4/bibliography",
+      "kind": "bibliography",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/4/bibliography/title",
+      "kind": "title",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/4/bibliography/doi",
+      "kind": "doi",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/4/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/5/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/5/bibliography",
+      "kind": "bibliography",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/5/bibliography/title",
+      "kind": "title",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/5/bibliography/doi",
+      "kind": "doi",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/5/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/6/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/6/bibliography",
+      "kind": "bibliography",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/6/bibliography/title",
+      "kind": "title",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/6/bibliography/doi",
+      "kind": "doi",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/6/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/7/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/7/bibliography",
+      "kind": "bibliography",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/7/bibliography/title",
+      "kind": "title",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/7/bibliography/doi",
+      "kind": "doi",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/7/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/7/locators/1",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/7/locators/2",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/8/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/8/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/8/locators/1",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/9/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/9/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/10/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/10/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/11/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/11/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/12/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/12/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/13/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/13/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/14/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/14/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/15/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/15/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/16/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/16/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/17/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/17/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/18/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/18/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/19/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/19/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/20/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/20/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/21/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/21/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/22/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/22/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/23/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/23/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/24/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/24/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/25/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/25/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/26/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/26/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/27/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/27/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/28/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/28/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/29/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/29/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/30/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/30/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/31/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/31/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/32/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/32/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/33/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/33/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/34/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/34/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/35/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/35/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/36/source_url",
+      "kind": "source_url",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/checks/36/locators/0",
+      "kind": "locators",
+      "source_path": "research/source-checks.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/0/title",
+      "kind": "title",
+      "source_path": "research/source-frontier.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/1/title",
+      "kind": "title",
+      "source_path": "research/source-frontier.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/2/title",
+      "kind": "title",
+      "source_path": "research/source-frontier.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/3/title",
+      "kind": "title",
+      "source_path": "research/source-frontier.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/4/title",
+      "kind": "title",
+      "source_path": "research/source-frontier.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/5/title",
+      "kind": "title",
+      "source_path": "research/source-frontier.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/6/title",
+      "kind": "title",
+      "source_path": "research/source-frontier.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/7/title",
+      "kind": "title",
+      "source_path": "research/source-frontier.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/url",
+      "kind": "url",
+      "source_path": "research/source-register.json"
+    }
+  ],
+  "tasks": [
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_machine_work/0",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "No known high-value engineering gap remains for the current lawful evidence layer; continue only when new rights-clear primary/object evidence or newly published metadata becomes available."
+    }
+  ],
+  "terminal_pre_expert_maximum_established": false
+}
