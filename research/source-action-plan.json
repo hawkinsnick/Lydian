@@ -1,0 +1,56 @@
+{
+  "format": "corpus-source-action-plan-v1",
+  "corpus": "Lydian",
+  "checked": "2026-10-11",
+  "claim_scope": "BOUNDED_SOURCE_AUDIT_NOT_GLOBAL_EXHAUSTION",
+  "rights_only_ready": false,
+  "tasks": [
+    {
+      "id": "LYD-MET-ACCESS",
+      "source": "Met object 26.59.7 public data route",
+      "dependency": "ACCESS",
+      "status": "BLOCKED",
+      "evidence": [
+        "research/gt9-open-object-frontier.json",
+        "research/source-route-check-2026-10-11.json"
+      ],
+      "next_action": "Find a current documented museum record/API route after the tested accession search returned 410.",
+      "acceptance": "Actual current institutional record; failure of this endpoint is not global unavailability."
+    },
+    {
+      "id": "LYD-OBJECT",
+      "source": "Met 26.59.7 and Sardis object concordance",
+      "dependency": "RECONCILIATION",
+      "status": "OPEN",
+      "evidence": [
+        "research/gt9-open-object-frontier.json",
+        "research/source-frontier.json"
+      ],
+      "next_action": "Use authoritative factual accession/publication identifiers to crosswalk exact edition records, keeping unmatched cases.",
+      "acceptance": "Attributed exact object/edition join; public metadata does not upgrade inherited readings."
+    },
+    {
+      "id": "LYD-EDITIONS",
+      "source": "Gusmani and TITUS/Melchert systematic derivatives",
+      "dependency": "PERMISSION",
+      "status": "BLOCKED",
+      "evidence": [
+        "research/rights-source-matrix.json"
+      ],
+      "next_action": "Determine compatible terms for each protected source and intended operation.",
+      "acceptance": "Source-specific rights grant or clear terms, not a blanket rights-only assertion."
+    },
+    {
+      "id": "LYD-REVIEW",
+      "source": "Physical/epigraphic collation",
+      "dependency": "HUMAN_REVIEW",
+      "status": "WAITING_FOR_EVIDENCE",
+      "evidence": [
+        "research/residual-blocker-ledger.json"
+      ],
+      "next_action": "Preserve dependent eDiAna/TITUS/Gusmani lineage while obtaining independent physical evidence.",
+      "acceptance": "Independent source-bound adjudication."
+    }
+  ],
+  "rule": "Assess access, intended-use permission, source delivery, machine reconciliation and human adjudication separately. Never infer global exhaustion from a dated search or route failure. Do not reopen completed evidence by ignoring existing native audits."
+}

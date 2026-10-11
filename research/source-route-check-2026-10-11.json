@@ -1,0 +1,15 @@
+{
+  "format": "bounded-source-route-check-v1",
+  "checked": "2026-10-11",
+  "method": "urllib.request.urlopen; ordinary public route, 25-second timeout; no access bypass",
+  "attempts": [
+    {
+      "source": "Met accession search",
+      "url": "https://collectionapi.metmuseum.org/public/collection/v1/search?q=26.59.7",
+      "http_status": 410,
+      "classification": "ACCESS_ATTEMPT_FAILED",
+      "permission_determined": false
+    }
+  ],
+  "inference_boundary": "Failure applies to the tested route at this checkpoint, not all copies or future delivery. No permission refusal, global unavailability or canonical evidence is inferred."
+}

@@ -1,8 +1,8 @@
 {
-  "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
+  "builder_sha256": "2c5306631cb0fa09a6c1d686d5f7e7265b32cb33c1faed1edf0d519dad2f196f",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "96dc57153c1708ba8f00839454dd495dcdca03efad665e95146ebb2c5a3aa77d",
-  "evidence_fingerprint": "db2c0833f7150a1edc8a3567b775d40987394c70e98672e290c392f7c7ec0408",
+  "config_sha256": "f6adf182bfd3d59115b19641a1a84b908817269928e7544ce0bcdce22a0b54fe",
+  "evidence_fingerprint": "903d86b361efd4343a919f1d5ac93609a69f8882c2d2f2898db991679b41cbb8",
   "input_sha256": {
     "analysis/current-status.json": "ad2e7691e84ce6f53f691088b2565bd900af56dd16b4eab2b6ffca1313f2fc86",
     "analysis/upstream-epidoc-validation.json": "93ddf5c07574dbed0c5e5fa2a495a7ea4784359872f2332353c70f9b61d0f7a1",
@@ -13,9 +13,11 @@
     "research/publication-reconciliation.json": "ca914208e5deda01a8284edaf9345025ad94e8522724565e52a29f9aaa3457f7",
     "research/rights-evidence.json": "ce6f4be255c3d2baa00ab36f095593475a290983df86bda4e77ed1e735cc92ca",
     "research/source-access.json": "831947aaffb3d4a5cbb644e37d2f1a65a426c60f450c9e723ea88255f52b6f55",
+    "research/source-action-plan.json": "4c62cd43055daf2eb32472391a3950a66a97e7fab0ab447d0d65c95959a226df",
     "research/source-checks.json": "d4a8e59b525c5e8740374da3b76866140561ac8162498cd39f29e4f036776d95",
     "research/source-frontier.json": "b9ecaa5ac24c322ec8685262b4df12ef757ba4bfb22fb1351a3f911c9a96b728",
     "research/source-register.json": "5e5b43347d15c74121e6837933b0b1a95e89f0136c0b4f8d38d0cef504460dd3",
+    "research/source-route-check-2026-10-11.json": "637ac263db46502725178998630304375264d961dafb380741a295607d5d3a92",
     "research/source-worklist.json": "f3a1b8fa205f3d89af43e8668f097b26a386ca3d2d8cd6cecca31f61a437936e"
   },
   "native_review_links": [
@@ -4200,6 +4202,30 @@
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/tasks/0/source",
+      "kind": "source",
+      "source_path": "research/source-action-plan.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/tasks/1/source",
+      "kind": "source",
+      "source_path": "research/source-action-plan.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/tasks/2/source",
+      "kind": "source",
+      "source_path": "research/source-action-plan.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/tasks/3/source",
+      "kind": "source",
+      "source_path": "research/source-action-plan.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
       "json_pointer": "/checks/0/source_url",
       "kind": "source_url",
       "source_path": "research/source-checks.json"
@@ -4851,6 +4877,18 @@
       "json_pointer": "/0/url",
       "kind": "url",
       "source_path": "research/source-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/0/source",
+      "kind": "source",
+      "source_path": "research/source-route-check-2026-10-11.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/attempts/0/url",
+      "kind": "url",
+      "source_path": "research/source-route-check-2026-10-11.json"
     }
   ],
   "tasks": [
@@ -4858,10 +4896,51 @@
       "blocker_is_not_established_by_a_label": true,
       "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
       "json_pointer": "/remaining_machine_work/0",
+      "native_dependency": null,
       "native_status": null,
       "native_task_id": null,
       "source_path": "research/pre-expert-maximum.json",
       "task": "No known high-value engineering gap remains for the current lawful evidence layer; continue only when new rights-clear primary/object evidence or newly published metadata becomes available."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/tasks/0",
+      "native_dependency": "ACCESS",
+      "native_status": "BLOCKED",
+      "native_task_id": "LYD-MET-ACCESS",
+      "source_path": "research/source-action-plan.json",
+      "task": "Find a current documented museum record/API route after the tested accession search returned 410."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/tasks/1",
+      "native_dependency": "RECONCILIATION",
+      "native_status": "OPEN",
+      "native_task_id": "LYD-OBJECT",
+      "source_path": "research/source-action-plan.json",
+      "task": "Use authoritative factual accession/publication identifiers to crosswalk exact edition records, keeping unmatched cases."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/tasks/2",
+      "native_dependency": "PERMISSION",
+      "native_status": "BLOCKED",
+      "native_task_id": "LYD-EDITIONS",
+      "source_path": "research/source-action-plan.json",
+      "task": "Determine compatible terms for each protected source and intended operation."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/tasks/3",
+      "native_dependency": "HUMAN_REVIEW",
+      "native_status": "WAITING_FOR_EVIDENCE",
+      "native_task_id": "LYD-REVIEW",
+      "source_path": "research/source-action-plan.json",
+      "task": "Preserve dependent eDiAna/TITUS/Gusmani lineage while obtaining independent physical evidence."
     }
   ],
   "terminal_pre_expert_maximum_established": false

@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "corpus": "Lydian",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-06",
-  "assessment": "RIGHTS_ACCESS_DOMINANT_PRE_EXPERT_ENGINEERING_COMPLETE",
+  "checked": "2026-10-11",
+  "assessment": "SOURCE_SPECIFIC_ACCESS_PERMISSION_RECONCILIATION_AND_HUMAN_GATES",
   "blockers": [
     {
       "id": "LYD-BLK-001",
@@ -51,5 +51,7 @@
     "workflow": ".github/workflows/validate.yml",
     "latest_status": "PENDING_OR_NOT_YET_REPORTED",
     "note": "Do not claim CI pass until GitHub reports completed success."
-  }
+  },
+  "source_action_plan": "research/source-action-plan.json",
+  "rights_only_ready": false
 }
