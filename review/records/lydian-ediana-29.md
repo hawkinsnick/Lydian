@@ -5,7 +5,7 @@ Source label: LW 106
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `105fa02c01aed1e29e7589dc22d3ad43e83a1f672c5e72d3b09f7381a2310258`
-Evidence fingerprint: `87e68863335bfe5f198205102d1fbf363a282f15747fab7fab996e59ecd7c005`
+Evidence fingerprint: `e4394d2d461fd3a0c6a8a28ad5aac4b7feecfc70eb9a3c08787584117fd01b9b`
 
 ## Captured source evidence
 

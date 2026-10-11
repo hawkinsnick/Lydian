@@ -3,3 +3,5 @@ Copyright (c) 2026 hawkinsnick corpus project contributors, for project-original
 Lydian reference source: eDiAna, edited by Jared Miller, Elisabeth Rieken, Olav Hackstein and Ilya Yakubovich, with project contributors. https://www.ediana.gwi.uni-muenchen.de/
 
 The eDiAna source files and derived reference corpus retain CC BY-SA 4.0. The project-original CC BY-NC/PolyForm terms do not restrict those components. Edition references in the response are preserved. Independently acquired print editions and photographs require separate rights assessment.
+
+The eDiAna-derived EpiDoc reference XML retains the same eDiAna attribution and CC BY-SA 4.0 as the frozen native reference. Project-original noncommercial terms do not supersede this source component. See docs/EPIDOC-REFERENCE.md and interchange/export-manifest.json.

@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "skill_version": "0.3.1",
-  "source_commit": "b21444642e5731b4c8a0ae1070e10a3fbedefa73",
-  "evidence_fingerprint_sha256": "ef25d16496eb574b8b1ff5f543d5ff09c46462a3f37d170c4c93f97d7ef0a32c",
+  "source_commit": "668b41ff880142c8bcb58a8bad68781f5bc26306",
+  "evidence_fingerprint_sha256": "680693092e72c3b7c9d6a205e4717db9357d70d27f8eabf7108b9970a62767d9",
   "bundle_index": "ai-skill/generated/research-bundle-index.json",
   "commit_semantics": "commit used for bundle generation; subsequent bundle-only commits do not change indexed evidence"
 }

@@ -1,15 +1,15 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "b21444642e5731b4c8a0ae1070e10a3fbedefa73",
-  "evidence_fingerprint_sha256": "ef25d16496eb574b8b1ff5f543d5ff09c46462a3f37d170c4c93f97d7ef0a32c",
+  "source_commit": "668b41ff880142c8bcb58a8bad68781f5bc26306",
+  "evidence_fingerprint_sha256": "680693092e72c3b7c9d6a205e4717db9357d70d27f8eabf7108b9970a62767d9",
   "canonical_repository": true,
   "artifacts": [
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "ad9f5965d3fa5f0e853295c0d78083c786d85cfe7dfadff60a233e4a88e04811",
-      "bytes": 1902
+      "sha256": "ad2e7691e84ce6f53f691088b2565bd900af56dd16b4eab2b6ffca1313f2fc86",
+      "bytes": 2158
     },
     {
       "role": "reference_records",
@@ -38,8 +38,8 @@
     {
       "role": "notice",
       "path": "NOTICE",
-      "sha256": "ee65a1ee34dce0279818ca24c3bcf6bbbb4a9d2e51fbde58db7a31d41bba8dfd",
-      "bytes": 598
+      "sha256": "e416022d6486fe418616787da0e08468cb87abd3da740a804ec00fd56f7101f6",
+      "bytes": 868
     },
     {
       "role": "third_party",
@@ -86,8 +86,8 @@
     {
       "role": "pre-expert-maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "233378fe479826ea6bcdd0244a7720001a9f4e93350e48d61076b7ec05928fe5",
-      "bytes": 1516
+      "sha256": "443453a7a9a3a898c1d693a6c14075471b44d9cf6ec1fe24f5810dfae560a651",
+      "bytes": 1772
     },
     {
       "role": "acquisition",
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "4f156841eaa39019f183d49046bc2689773ae83994aee1187999f578b9091e07",
-      "bytes": 5333
+      "sha256": "664d3801b93955e748e3c32ba126f24a9d97c2859d86d4e8e3b9c11a710d33bc",
+      "bytes": 5863
     },
     {
       "role": "source-checks",
@@ -122,13 +122,13 @@
     {
       "role": "packets",
       "path": "review/packets.json",
-      "sha256": "a9820e3bd51d2a309542852cb6f09e128529273070b2d343ae071c44b2ddf61e",
+      "sha256": "41f68db749ce68dbe84cde826633adfedd2c7c81b02f564a15a80098d521884f",
       "bytes": 131477
     },
     {
       "role": "handoff-manifest",
       "path": "review/handoff-manifest.json",
-      "sha256": "5596f4a552ff0f9298c802729643b0b22ca9002486088932580d2ca809cea37a",
+      "sha256": "a96130079e510efec2a5d263f21e83df230a01a37eb1d02b63005df65aab9ead",
       "bytes": 2670
     },
     {
@@ -146,14 +146,44 @@
     {
       "role": "collection_work_ledger",
       "path": "research/collection-work-ledger.json",
-      "sha256": "8345d86d3b6581c8d111b2a3dfd16c0b63b91bbe22124e118995025f654c4c05",
-      "bytes": 178152
+      "sha256": "0c188180e54c12fbed0558f81fff6853a5e82c2a878c546848ac90cf6b33b07e",
+      "bytes": 178489
     },
     {
       "role": "collection_review_packet",
       "path": "review/collection-packet.json",
-      "sha256": "b3717565dd4c82e270534c187ad84f0fd009a94c42ed7cd9296b6f7e931350dc",
+      "sha256": "09e0bcdcb4fda75e213d47aa8bdda48cb147de8a4cd8601a2c35ea2cdf3f362e",
       "bytes": 1929
+    },
+    {
+      "role": "reference_epidoc",
+      "path": "interchange/epidoc/ediana-reference.xml",
+      "sha256": "97536cc55eed56b2e18c6d23afae44df61acd41bbe3f1ac90c25fbcf1edff6f6",
+      "bytes": 176745
+    },
+    {
+      "role": "reference_export_manifest",
+      "path": "interchange/export-manifest.json",
+      "sha256": "32a406dcee430bd35ffd9003fc594f576e5c8d9915b68c03a2f0e3c66efb7baa",
+      "bytes": 1603
+    },
+    {
+      "role": "upstream_epidoc_validation",
+      "path": "analysis/upstream-epidoc-validation.json",
+      "sha256": "93ddf5c07574dbed0c5e5fa2a495a7ea4784359872f2332353c70f9b61d0f7a1",
+      "bytes": 565
+    },
+    {
+      "role": "upstream_epidoc_pins",
+      "path": "interchange/epidoc/upstream-pins.json",
+      "sha256": "240d9f8b31142c9146b6c5f63ce29019af9101cefa276a590cbe78ff637ab01a",
+      "bytes": 1025
+    },
+    {
+      "role": "reference_epidoc_guide",
+      "path": "docs/EPIDOC-REFERENCE.md",
+      "sha256": "3097e05e8fccbc551ba374abdcb4088b1d9bf518a1064629bcbec9db6b609505",
+      "bytes": 1801
     },
     {
       "role": "raw_source",

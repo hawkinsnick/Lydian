@@ -9,7 +9,8 @@
     "rights separation",
     "AI evidence fingerprints",
     "source-bound review packets",
-    "validated expert decision intake without automatic admission"
+    "validated expert decision intake without automatic admission",
+    "Complete frozen native-reference EpiDoc roundtrip with pinned upstream RNG and all embedded Schematron patterns"
   ],
   "remaining_machine_work": [
     "No known high-value engineering gap remains for the current lawful evidence layer; continue only when new rights-clear primary/object evidence or newly published metadata becomes available."
@@ -21,7 +22,7 @@
   ],
   "completion_rule": "Machine-resolvable corpus engineering and currently lawful source reconciliation are exhausted. Further material advancement requires rights/access to critical editions or rights-compatible object/publication evidence; expert adjudication remains downstream.",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-06",
+  "checked": "2026-10-11",
   "parity_controls": [
     "research/source-lineage-register.json",
     "research/disagreement-register.json",
@@ -31,5 +32,6 @@
     "scripts/export_research_layer.py",
     "scripts/test_preexpert_parity.py",
     "docs/RIGHTS-ONLY-READINESS.md"
-  ]
+  ],
+  "interoperability_scope": "Native frozen reference only; not raw-source completeness, primary critical edition or expert acceptance."
 }
