@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "368e3b4633d0ae9fcf38169af6b7bb200d9363b5",
-  "evidence_fingerprint_sha256": "680693092e72c3b7c9d6a205e4717db9357d70d27f8eabf7108b9970a62767d9",
+  "source_commit": "6edd4b31e5da79d9234d5eb965a3ca6ddf5be745",
+  "evidence_fingerprint_sha256": "6f87ec4236bcdd683c9719cf750ea33558a57a5bf7c3cb70660672dd725451d4",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "664d3801b93955e748e3c32ba126f24a9d97c2859d86d4e8e3b9c11a710d33bc",
-      "bytes": 5863
+      "sha256": "bf0a8e59179cd1aa1eeed577d3caa8f3f4f22e3a9e14f12e8f68e4cd0f16a1f8",
+      "bytes": 6355
     },
     {
       "role": "source-checks",
@@ -146,13 +146,13 @@
     {
       "role": "collection_work_ledger",
       "path": "research/collection-work-ledger.json",
-      "sha256": "0c188180e54c12fbed0558f81fff6853a5e82c2a878c546848ac90cf6b33b07e",
-      "bytes": 178489
+      "sha256": "c54f69ef70a90bae27e403b8032d82fafdb187399db56518c890cbd07e866fc0",
+      "bytes": 181924
     },
     {
       "role": "collection_review_packet",
       "path": "review/collection-packet.json",
-      "sha256": "09e0bcdcb4fda75e213d47aa8bdda48cb147de8a4cd8601a2c35ea2cdf3f362e",
+      "sha256": "471985d5cec47ffd9c9e1599db2f648f44c510195768f77ed923f94a47f6ca40",
       "bytes": 1929
     },
     {
@@ -184,6 +184,24 @@
       "path": "docs/EPIDOC-REFERENCE.md",
       "sha256": "3097e05e8fccbc551ba374abdcb4088b1d9bf518a1064629bcbec9db6b609505",
       "bytes": 1801
+    },
+    {
+      "role": "source_action_plan",
+      "path": "research/source-action-plan.json",
+      "sha256": "4c62cd43055daf2eb32472391a3950a66a97e7fab0ab447d0d65c95959a226df",
+      "bytes": 2406
+    },
+    {
+      "role": "source_action_guide",
+      "path": "docs/SOURCE-ACTION-PLAN.md",
+      "sha256": "a6316f531596086c1977a1760403ab7d5ee111ba4dfc279ce8ca7ab165270b9a",
+      "bytes": 1835
+    },
+    {
+      "role": "source_route_check",
+      "path": "research/source-route-check-2026-10-11.json",
+      "sha256": "637ac263db46502725178998630304375264d961dafb380741a295607d5d3a92",
+      "bytes": 646
     },
     {
       "role": "raw_source",

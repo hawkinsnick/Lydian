@@ -1,3 +1,5 @@
+> Current stopping assessment (11 October 2026): rights-only readiness is not established. Use [the source-specific action plan](SOURCE-ACTION-PLAN.md) for access, permission, reconciliation and human dependencies. The baseline capabilities below do not establish evidence exhaustion.
+
 # Linear A method parity and rights frontier
 
 Lydian is maintained to the same evidence-control standard as Linear A while preserving the distinction between a licensed digital reference corpus and an independently collated critical edition.
