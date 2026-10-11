@@ -34,6 +34,8 @@
     "analysis/upstream-epidoc-validation.json",
     "interchange/epidoc/upstream-pins.json",
     "research/source-action-plan.json",
-    "research/source-route-check-2026-10-11.json"
+    "research/source-route-check-2026-10-11.json",
+    "research/cross-corpus-dependencies.json",
+    "docs/AI-INTEGRITY.md"
   ]
 }
