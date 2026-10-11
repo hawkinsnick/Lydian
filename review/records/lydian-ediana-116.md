@@ -5,7 +5,7 @@ Source label: LW/N 113 (Miletus)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `6b70e78acec57ac1dc7fd97b8a8bc4e512be202d36f1833bcb23aff59486b5c2`
-Evidence fingerprint: `87e68863335bfe5f198205102d1fbf363a282f15747fab7fab996e59ecd7c005`
+Evidence fingerprint: `e4394d2d461fd3a0c6a8a28ad5aac4b7feecfc70eb9a3c08787584117fd01b9b`
 
 ## Captured source evidence
 

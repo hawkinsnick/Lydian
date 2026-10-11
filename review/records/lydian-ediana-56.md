@@ -5,7 +5,7 @@ Source label: LW 15 (Sardis)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `226171109c5ff7252161efc8971c41427149f0175a2fcb4261a6dfe8c608f44f`
-Evidence fingerprint: `87e68863335bfe5f198205102d1fbf363a282f15747fab7fab996e59ecd7c005`
+Evidence fingerprint: `e4394d2d461fd3a0c6a8a28ad5aac4b7feecfc70eb9a3c08787584117fd01b9b`
 
 ## Captured source evidence
 

@@ -42,5 +42,12 @@
     "exports": "scripts/export_research_layer.py",
     "validator": "scripts/test_preexpert_parity.py"
   },
-  "next_gate": "Obtain rights/access sufficient for systematic direct collation of Gusmani foundational editions, TITUS/Melchert-derived critical text, and protected object-level evidence; preserve source dependence and require expert/object adjudication for canonical verification."
+  "next_gate": "Obtain rights/access sufficient for systematic direct collation of Gusmani foundational editions, TITUS/Melchert-derived critical text, and protected object-level evidence; preserve source dependence and require expert/object adjudication for canonical verification.",
+  "epidoc_reference_scope": {
+    "native_records": 118,
+    "nonempty_source_rows": 471,
+    "export_manifest": "interchange/export-manifest.json",
+    "upstream_validation": "analysis/upstream-epidoc-validation.json",
+    "expert_acceptance": false
+  }
 }
