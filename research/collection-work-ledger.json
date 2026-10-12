@@ -1,14 +1,16 @@
 {
   "builder_sha256": "2c5306631cb0fa09a6c1d686d5f7e7265b32cb33c1faed1edf0d519dad2f196f",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "f6adf182bfd3d59115b19641a1a84b908817269928e7544ce0bcdce22a0b54fe",
-  "evidence_fingerprint": "903d86b361efd4343a919f1d5ac93609a69f8882c2d2f2898db991679b41cbb8",
+  "config_sha256": "e04d704c596528fdb941c1914d6cb153e821c0d3278bb969b9d077a990ea20a8",
+  "evidence_fingerprint": "df5e7272363dc8fbce12f04b5942a1de16b3b1b4adda99152061e2fb96278345",
   "input_sha256": {
     "analysis/current-status.json": "ad2e7691e84ce6f53f691088b2565bd900af56dd16b4eab2b6ffca1313f2fc86",
     "analysis/upstream-epidoc-validation.json": "93ddf5c07574dbed0c5e5fa2a495a7ea4784359872f2332353c70f9b61d0f7a1",
     "data/reference/records.json": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+    "docs/AI-INTEGRITY.md": "8619d2ac88ca104eb10570b6c5c83021da5e5cdb57a7af1de076131d185207b0",
     "interchange/epidoc/upstream-pins.json": "240d9f8b31142c9146b6c5f63ce29019af9101cefa276a590cbe78ff637ab01a",
     "interchange/export-manifest.json": "32a406dcee430bd35ffd9003fc594f576e5c8d9915b68c03a2f0e3c66efb7baa",
+    "research/cross-corpus-dependencies.json": "a2897fb1e7faf6eb4f5f2774e71245e714b89f08555e8babd00a5d6ba472bd19",
     "research/pre-expert-maximum.json": "443453a7a9a3a898c1d693a6c14075471b44d9cf6ec1fe24f5810dfae560a651",
     "research/publication-reconciliation.json": "ca914208e5deda01a8284edaf9345025ad94e8522724565e52a29f9aaa3457f7",
     "research/rights-evidence.json": "ce6f4be255c3d2baa00ab36f095593475a290983df86bda4e77ed1e735cc92ca",
