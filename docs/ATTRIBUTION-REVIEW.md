@@ -68,3 +68,5 @@ python scripts/evidence_query.py --list attribution-review
 Pair-attribution states describe documentary limitations, not scientific acceptance. A partial located comparison can be a real scholarly alternative without full typographic, physical-position or independent collation. `NOT_APPLICABLE` marks controls and interpretations for which a two-reading pair is not the appropriate unit. No unknown pair/witness total is replaced with zero.
 
 LW40 chronology correction: the2016 publication text has already been inspected in its separate packet. The older acquire2016 question is historical; exact PDF typography and sign/object collation remain open. The two review queries now return both packets.
+
+Current follow-up: [fresh selected source collation](SOURCE-COLLATION-2026-10-15.md). Three selected comparisons. Littmann’s tentative historical interpretation and Gusmani’s d/v ambiguity, conventions and published figure context are directly page-checked. Payne–Sasseville2016 was freshly inspected as author-posted web text only; exact PDF typography and RTI remain open after403 responses.

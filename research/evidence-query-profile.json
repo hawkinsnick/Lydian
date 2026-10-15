@@ -25,9 +25,25 @@
       "id_pointer": "/review_id",
       "unit": "bounded documentary attribution review task",
       "scope": "Four controls plus all37 existing source checks, including LW40 proposals, catalogue collisions, source typography and Gusmani concordance candidates."
+    },
+    {
+      "name": "source-collation-2026-10-15",
+      "path": "research/source-collation-2026-10-15.json",
+      "pointer": "/cases",
+      "id_pointer": "/review_id",
+      "unit": "selected source collation task",
+      "scope": "Three selected comparisons. Littmann’s tentative historical interpretation and Gusmani’s d/v ambiguity, conventions and published figure context are directly page-checked. Payne–Sasseville2016 was freshly inspected as author-posted web text only; exact PDF typography and RTI remain open after403 responses."
     }
   ],
-  "relations": [],
+  "relations": [
+    {
+      "from": "attribution-review",
+      "to": "source-collation-2026-10-15",
+      "from_pointer": "/review_id",
+      "to_pointer": "/review_id",
+      "label": "EXACT_NATIVE_REVIEW_ID_CURRENT_SOURCE_QUALIFICATION_NOT_ACCEPTANCE"
+    }
+  ],
   "artifacts": [
     {
       "path": "data/reference/records.json",
@@ -101,15 +117,23 @@
     },
     {
       "path": "research/attribution-review.json",
-      "sha256": "54318d84056d52d4692aef68d206e101b543224d60cc94c49051de52a333afa0",
+      "sha256": "a5950cfd5d6f1654e1787de11de09062b05fd1a8715a52bd083c651c706e6c69",
       "encoding": "json",
       "role": "bounded attribution review",
+      "source_snapshot_commit": null
+    },
+    {
+      "path": "research/source-collation-2026-10-15.json",
+      "sha256": "efe7cf4e240d4b98adc40a3df8d63812493ba4ef8de58f47ddfb3601a4da9cd6",
+      "encoding": "json",
+      "role": "fresh bounded source collation; consultation modes differ by source",
       "source_snapshot_commit": null
     }
   ],
   "scholarly_limits": [
     "Exact source document IDs remain distinct even where catalogue labels collide. Native line labels, editorial signs, references, source license and primary_edition_verified=false remain literal. Physical objects and independently collated alternative pairs are not counted by this view.",
-    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total.",
+    "Three selected comparisons. Littmann’s tentative historical interpretation and Gusmani’s d/v ambiguity, conventions and published figure context are directly page-checked. Payne–Sasseville2016 was freshly inspected as author-posted web text only; exact PDF typography and RTI remain open after403 responses."
   ],
   "native_artifacts_snapshot_commit": null,
   "snapshot_commit_scope": "Mixed inputs retain their per-artifact anchors. New original review artifacts are byte-pinned and identified by published repository history, not assigned to an earlier commit."

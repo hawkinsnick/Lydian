@@ -26,6 +26,11 @@
       "path": "research/source-register.json",
       "sha256": "5e5b43347d15c74121e6837933b0b1a95e89f0136c0b4f8d38d0cef504460dd3",
       "source_snapshot_commit": "edbc1c17244559f9a361035fc3c482d7a083a185"
+    },
+    {
+      "path": "research/source-collation-2026-10-15.json",
+      "sha256": "efe7cf4e240d4b98adc40a3df8d63812493ba4ef8de58f47ddfb3601a4da9cd6",
+      "source_snapshot_commit": null
     }
   ],
   "complete_selections": [
@@ -174,7 +179,7 @@
       "review_id": "LYD-LW40-HISTORICAL",
       "case_class": "READING_COMPARISON",
       "finding": "The historical Pergamon discussion proposes a restoration involving Athena and describes dependence on a published squeeze photograph. Modern LW40 has different readings and cites Payne–Sasseville 2016. Retain the historical proposal as a competing interpretation; do not transfer its restored goddess name into the frozen text.",
-      "remaining_gap": "The later2016 publication text is already represented in LYD-LW40-2016; its exact typographic uncertainty and sign/object collation remain open. Do not treat the older packet’s acquire2016 question as a present access finding.",
+      "remaining_gap": "Do not convert a historical interpretation into a secure sign string. Exact modern typography and present object access remain open.",
       "evidence": [
         {
           "path": "research/source-checks.json",
@@ -187,6 +192,10 @@
         {
           "path": "research/source-checks.json",
           "pointer": "/checks/7"
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/0"
         }
       ],
       "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
@@ -254,7 +263,7 @@
       "review_id": "LYD-LW40-2016",
       "case_class": "READING_COMPARISON",
       "finding": "The 2016 edition places the goddess name in the final word and reads the third word as a verb. This differs from the frozen third-word form and the 1916 syntactic proposal. The authors report object collation and RTI use; those are their evidence assertions, not a project examination. Do not silently replace the frozen reading.",
-      "remaining_gap": "Compare all damaged signs in the original PDF typography and RTI before transcribing uncertainty; Verify the third-word conflict and distinguish syntactic analysis from sign reading; Reconcile inventory and current access to the column drum",
+      "remaining_gap": "Both ordinary PDF routes returned403. Exact diacritics and complete first-line typography remain pending; extracted web glyphs must not be normalized into a fresh diplomatic line.",
       "evidence": [
         {
           "path": "research/source-checks.json",
@@ -267,6 +276,10 @@
         {
           "path": "research/source-checks.json",
           "pointer": "/checks/3"
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/1"
         }
       ],
       "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
@@ -277,7 +290,7 @@
       "review_id": "LYD-GUSMANI1975-LW59",
       "case_class": "READING_COMPARISON",
       "finding": "The published concordance supplies an edition-specific candidate link to modern LW59. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending. The p.2 commentary preserves d/v ambiguity and uncertainty in the dating interpretation. Its b transcription and the captured p require an edition-specific convention crosswalk, not an automatic spelling correction.",
-      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "remaining_gap": "Published photograph/drawing inspected, but damaged signs and the modern b/p convention bridge are not independently adjudicated. Do not replace frozen underdots or date the fragment as an observation.",
       "evidence": [
         {
           "path": "research/source-checks.json",
@@ -286,6 +299,10 @@
         {
           "path": "research/source-register.json",
           "pointer": ""
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/2"
         }
       ],
       "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
