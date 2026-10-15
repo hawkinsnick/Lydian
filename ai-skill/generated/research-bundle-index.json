@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "62c7583e3a01d383d632134594722d49d705ff3b",
-  "evidence_fingerprint_sha256": "31d095ba883da0f3dd18efd0c544d3cfc488eb7b807fe514279341717f458baa",
+  "source_commit": "792b51cc5369b4f2507529a56889816fe237b95d",
+  "evidence_fingerprint_sha256": "1d8a20324c2f9fa66b2bcdef3f0667a3b5eae4a1120a664050b73b83375206a6",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "2444962e90dcac498bd8c4ab0d46869c3f64bbb4d5b9f6a77273657d9c56eaac",
-      "bytes": 8690
+      "sha256": "0a31adf596c17350fe4d2c4384056344933aa5483e2d48ecf77c2225f4e7367f",
+      "bytes": 9655
     },
     {
       "role": "source-checks",
@@ -236,14 +236,14 @@
     {
       "role": "native_evidence_profile",
       "path": "research/evidence-query-profile.json",
-      "sha256": "18689998118d8dde3d54d2ab6208bdbd76df16777feb12709fb4d7ed77c2ec7a",
-      "bytes": 3362
+      "sha256": "4f1d96825e8640a6a4627d939723441991c6dbde2bc5cc9bea8c8478e9acb4be",
+      "bytes": 5113
     },
     {
       "role": "native_evidence_coverage",
       "path": "analysis/evidence-query-coverage.json",
-      "sha256": "e5ec28968e20b8d72585efb1a63646c68211985184b8b521b09014709c51176b",
-      "bytes": 5778
+      "sha256": "ca754db6949b58bba2f17192df44909e65c84cad92a5cfa943d1a716ddaf68fe",
+      "bytes": 6518
     },
     {
       "role": "native_evidence_query",
@@ -260,8 +260,38 @@
     {
       "role": "native_evidence_guide",
       "path": "docs/EVIDENCE-AND-ALTERNATIVES.md",
-      "sha256": "05b157671b34627a5779e1ed4406a14506bffa88c97d34b5a173c200ae2c620c",
-      "bytes": 3947
+      "sha256": "aed21c2147e94f653bc72d52fcdbf343200b1f259a206fa398f302145e40a26a",
+      "bytes": 4912
+    },
+    {
+      "role": "attribution_review",
+      "path": "research/attribution-review.json",
+      "sha256": "54318d84056d52d4692aef68d206e101b543224d60cc94c49051de52a333afa0",
+      "bytes": 39049
+    },
+    {
+      "role": "attribution_review",
+      "path": "analysis/attribution-review-audit.json",
+      "sha256": "dea9597d7f3d5baf04d99ade5af3c3c715fa1845ec1e2a59bbfa3854dd68e5a0",
+      "bytes": 1162
+    },
+    {
+      "role": "attribution_review",
+      "path": "docs/ATTRIBUTION-REVIEW.md",
+      "sha256": "ee6efafbf18ead0065dd9f7a165a175dd0a348f558e6078f7cf2ab2e21925f60",
+      "bytes": 20746
+    },
+    {
+      "role": "attribution_review",
+      "path": "scripts/attribution_review.py",
+      "sha256": "29fd40045d96e9ee0d1d8f692b856a1b8a0631b9a5fa4fc86080d951c1236dbf",
+      "bytes": 6044
+    },
+    {
+      "role": "attribution_review",
+      "path": "scripts/test_attribution_review.py",
+      "sha256": "d81e1c610325e822a1e079db18a619defe57654d7318a13a8be336760b37cae0",
+      "bytes": 3274
     }
   ],
   "contract": {
