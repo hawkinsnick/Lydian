@@ -1,0 +1,830 @@
+{
+  "format": "corpus-attribution-review-v1",
+  "repository": "hawkinsnick/Lydian",
+  "checked": "2026-10-15",
+  "scope": "Four controls plus all37 existing source checks, including LW40 proposals, catalogue collisions, source typography and Gusmani concordance candidates.",
+  "consultation_this_pass": "PINNED_REPOSITORY_EVIDENCE_ONLY",
+  "consultation_boundary": "Existing source consultation receipts and limits are inherited exactly from the referenced native packets. This pass inspects those packets, not the underlying publications afresh. No exhaustive literature search, new autopsy or independent review is claimed.",
+  "rights": "Original project review and bibliographic/source pointers only. Native attribution and rights remain attached to evidence; no new source files, figures or full protected editions are redistributed. Linear A GORILA refusal is not relaxed.",
+  "inputs": [
+    {
+      "path": "research/disagreement-register.json",
+      "sha256": "28edecc9ceb7e9f65cf8a51f1d389c739c6f4898ba9b6226df349f2345a31772",
+      "source_snapshot_commit": "edbc1c17244559f9a361035fc3c482d7a083a185"
+    },
+    {
+      "path": "research/source-checks.json",
+      "sha256": "d4a8e59b525c5e8740374da3b76866140561ac8162498cd39f29e4f036776d95",
+      "source_snapshot_commit": "edbc1c17244559f9a361035fc3c482d7a083a185"
+    },
+    {
+      "path": "research/source-lineage-register.json",
+      "sha256": "26ad1e57fe2653e5e9b64627cdb5c863d6b7d374ae356f89949a28e3d89f3a12",
+      "source_snapshot_commit": "edbc1c17244559f9a361035fc3c482d7a083a185"
+    },
+    {
+      "path": "research/source-register.json",
+      "sha256": "5e5b43347d15c74121e6837933b0b1a95e89f0136c0b4f8d38d0cef504460dd3",
+      "source_snapshot_commit": "edbc1c17244559f9a361035fc3c482d7a083a185"
+    }
+  ],
+  "complete_selections": [
+    {
+      "path": "research/disagreement-register.json",
+      "pointer": "/items",
+      "expected_rows": 4
+    },
+    {
+      "path": "research/source-checks.json",
+      "pointer": "/checks",
+      "expected_rows": 37
+    }
+  ],
+  "cases": [
+    {
+      "review_id": "LYD-DIS-001",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "Source headings/TITUS support LW96/97/98 candidates despite repeated LW96 catalogue labels; three document IDs remain distinct.",
+      "remaining_gap": "Confirm Gusmani and inventories; a digital heading crosswalk is not physical certification.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/0"
+        },
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/0"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-DIS-002",
+      "case_class": "COVERAGE_GAP",
+      "finding": "The possibility of adopting critical-apparatus readings is stated globally, not located for every record.",
+      "remaining_gap": "Exact Gusmani main-text/apparatus/TITUS locus comparison remains necessary.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/1"
+        },
+        {
+          "path": "research/source-lineage-register.json",
+          "pointer": "/lineages/1"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-DIS-003",
+      "case_class": "REPRESENTATION",
+      "finding": "A source typography limitation can lose uncertainty/emendation information. Plain digital styling cannot certify secure signs.",
+      "remaining_gap": "Inspect original edition typography at each questioned locus.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/2"
+        },
+        {
+          "path": "research/source-lineage-register.json",
+          "pointer": "/lineages/1"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-DIS-004",
+      "case_class": "COVERAGE_GAP",
+      "finding": "Later sources and new objects need dated publication-specific concordances.",
+      "remaining_gap": "Do not force later material into legacy LW numbering without an explicit join.",
+      "evidence": [
+        {
+          "path": "research/disagreement-register.json",
+          "pointer": "/items/3"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-CATALOG-96-98",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "TITUS separately numbers inscriptions 96, 97 and 98. Local response headings also distinguish LW96/LW97/LW98 although all three catalog labels say LW96. This supports a digital concordance candidate, not physical-object identification.",
+      "remaining_gap": "Confirm each object against Gusmani 1980 p.157 and inventory evidence; Assess differences in editorial uncertainty before accepting an edition crosswalk",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/0"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-MELCHERT-KEY",
+      "case_class": "BIBLIOGRAPHY",
+      "finding": "The overview identifies a Lydian Corpus dated 07/02/2001. The literature-manager result under the same siglum has a different Hittite title. Preserve both assertions; do not merge the works.",
+      "remaining_gap": "Obtain the Lydian corpus document using title and author, not siglum alone",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/1"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-1916-NUMBERING",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "Textual comparison supports provisional concordances L.17 → modern LW1 and L.1a/b → LW4a/b. Equal ordinal numbers are not a valid join. These are edition-to-record candidates; current object inventories and full sign collation remain unresolved.",
+      "remaining_gap": "Confirm changed numbering against Buckler 1924 and Gusmani; Collate sign values, restored letters and the a/b layout separately",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/2"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-LW40-HISTORICAL",
+      "case_class": "READING_COMPARISON",
+      "finding": "The historical Pergamon discussion proposes a restoration involving Athena and describes dependence on a published squeeze photograph. Modern LW40 has different readings and cites Payne–Sasseville 2016. Retain the historical proposal as a competing interpretation; do not transfer its restored goddess name into the frozen text.",
+      "remaining_gap": "The later2016 publication text is already represented in LYD-LW40-2016; its exact typographic uncertainty and sign/object collation remain open. Do not treat the older packet’s acquire2016 question as a present access finding.",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/3"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        },
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/7"
+        }
+      ],
+      "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-2024-LW15",
+      "case_class": "INTERPRETATION",
+      "finding": "The authors offer a new etymological and contextual interpretation of kocwid in LW15 lines 1–3. This is an attributed lexical/phonological proposal, not a newly verified inscription or a transferable cross-corpus sign value. Preserve their uncertainty and compare the cited passage with the frozen transcription.",
+      "remaining_gap": "Evaluate lexical interpretation separately from signs and restorations; Assess the proposed sound law without treating cognate comparison as independent decipherment evidence",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/4"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-2024-LW12",
+      "case_class": "INTERPRETATION",
+      "finding": "The authors offer a new etymological and contextual interpretation of kocwid in LW12 lines 7–9. This is an attributed lexical/phonological proposal, not a newly verified inscription or a transferable cross-corpus sign value. Preserve their uncertainty and compare the cited passage with the frozen transcription.",
+      "remaining_gap": "Evaluate lexical interpretation separately from signs and restorations; Assess the proposed sound law without treating cognate comparison as independent decipherment evidence",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/5"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-2024-LW13",
+      "case_class": "INTERPRETATION",
+      "finding": "The authors offer a new etymological and contextual interpretation of kocwid in LW13 lines 9–10. This is an attributed lexical/phonological proposal, not a newly verified inscription or a transferable cross-corpus sign value. Preserve their uncertainty and compare the cited passage with the frozen transcription.",
+      "remaining_gap": "Evaluate lexical interpretation separately from signs and restorations; Assess the proposed sound law without treating cognate comparison as independent decipherment evidence",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/6"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-LW40-2016",
+      "case_class": "READING_COMPARISON",
+      "finding": "The 2016 edition places the goddess name in the final word and reads the third word as a verb. This differs from the frozen third-word form and the 1916 syntactic proposal. The authors report object collation and RTI use; those are their evidence assertions, not a project examination. Do not silently replace the frozen reading.",
+      "remaining_gap": "Compare all damaged signs in the original PDF typography and RTI before transcribing uncertainty; Verify the third-word conflict and distinguish syntactic analysis from sign reading; Reconcile inventory and current access to the column drum",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/7"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        },
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/3"
+        }
+      ],
+      "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW59",
+      "case_class": "READING_COMPARISON",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW59. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending. The p.2 commentary preserves d/v ambiguity and uncertainty in the dating interpretation. Its b transcription and the captured p require an edition-specific convention crosswalk, not an automatic spelling correction.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/8"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW70",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW70. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/9"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW71",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW71. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/10"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW80",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW80. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/11"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW61",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW61. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/12"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW66",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW66. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/13"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW60",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW60. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/14"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW63",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW63. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/15"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW72",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW72. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/16"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW57",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW57. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/17"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW65",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW65. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/18"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW81",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW81. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/19"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW58",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW58. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/20"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW68",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW68. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/21"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW82",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW82. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/22"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW83",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW83. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/23"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW84",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW84. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/24"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW85",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW85. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/25"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW86",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW86. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/26"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW87",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW87. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/27"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW88",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW88. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/28"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW89",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW89. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/29"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW90",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW90. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/30"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW91",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW91. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/31"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW92",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW92. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/32"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW93",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW93. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/33"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW64",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW64. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/34"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW94",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW94. Preserve the A-group subdivision and IN/P prefix in inventory references. Full sign, uncertainty and layout collation remains pending.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/35"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW67",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The published concordance supplies an edition-specific candidate link to modern LW67. The source brackets B I 5 =67 and places it in material of uncertain affiliation. Preserve that classification uncertainty; directory membership does not settle language.",
+      "remaining_gap": "Confirm modern edition and physical object concordance; Inspect the entry and original figures before adopting any reading; Separate dated inventory assertions from current object verification",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/36"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    }
+  ],
+  "new_readings_admitted": 0,
+  "independent_reviews_added": 0
+}
