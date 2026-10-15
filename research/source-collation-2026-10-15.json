@@ -1,0 +1,215 @@
+{
+  "format": "corpus-source-collation-v1",
+  "repository": "hawkinsnick/Lydian",
+  "checked_local_date": "2026-10-15",
+  "date_basis": "America/Chicago user date",
+  "scope": "Selected source-located comparison tasks, not the whole corpus or an exhaustive literature review. Fresh source modalities are recorded individually; publication inspection does not establish epigraphic truth.",
+  "inputs": [
+    {
+      "path": "research/source-checks.json",
+      "sha256": "d4a8e59b525c5e8740374da3b76866140561ac8162498cd39f29e4f036776d95",
+      "source_snapshot_commit": "07fbe82dddf088dc87303513c98f0169ad6c4ccc"
+    },
+    {
+      "path": "data/reference/records.json",
+      "sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "source_snapshot_commit": "07fbe82dddf088dc87303513c98f0169ad6c4ccc"
+    }
+  ],
+  "frozen_readings_input": "data/reference/records.json",
+  "frozen_readings_changed": false,
+  "sources": [
+    {
+      "source_id": "gusmani1975",
+      "citation": "Roberto Gusmani (1975), Lydische Sprachdenkmäler, Sardis Monograph3, Teil A.",
+      "doi": null,
+      "url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+      "consultation": "DIRECT_RENDERED_PDF_PAGE_IMAGES",
+      "source_pdf_sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+      "source_pdf_bytes": 6821649,
+      "access_receipt": {
+        "id": "gusmani1975",
+        "url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+        "resolved_url": "https://sardis-images.s3.amazonaws.com/pdf/Sardis_M3.pdf",
+        "status": 200,
+        "bytes": 6821649,
+        "sha256": "cb4767c7906e608ca8453f70bbee565c55010fcefa760fe909e9edf899b318cc",
+        "pdf_magic": true
+      },
+      "limits": "Published transcription, commentary, table and photograph/drawing inspected. The scan does not support independent damaged-sign adjudication or a global modern convention crosswalk.",
+      "source_file_redistributed": false,
+      "page_inspections": [
+        {
+          "pdf_ordinal": 17,
+          "printed_locator": "printed p.1, A I1 transcription",
+          "render_sha256": "00940b6cec48776fe1e0764aad2cbdd9c39bbd24ed1578b4aec69960240be60a",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 18,
+          "printed_locator": "printed p.2, commentary",
+          "render_sha256": "eecffd5af76c3b1bb92061fe91965aa6cfad53a4843bd2adfb31f2bb634c62a7",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 58,
+          "printed_locator": "printed p.42, concordance C/D",
+          "render_sha256": "af3b2f3f5ceadc0ed14f6ea65b45b4b0b06b684b8a1ac340a1ad14e6b5647b19",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 66,
+          "printed_locator": "printed p.50, sign/transcription table",
+          "render_sha256": "f772499143bc3aa702218f5bfa0a644ed4ae0cc869cda5dc5163190040d26379",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 146,
+          "printed_locator": "unnumbered illustration leaf, Abb.1–2 A I1",
+          "render_sha256": "7897c2320d3110fe1522fb59ca427dc0134d9543403e119dbca1df1fe9c2f70c",
+          "render_redistributed": false
+        }
+      ]
+    },
+    {
+      "source_id": "littmann1916",
+      "citation": "Enno Littmann (1916), Lydian inscriptions, Part I.",
+      "doi": null,
+      "url": "https://dn790006.ca.archive.org/0/items/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf",
+      "consultation": "DIRECT_RENDERED_PDF_PAGE_IMAGES",
+      "source_pdf_sha256": "95815c6e69eb05e439f1f634e8ced07cfd3a62866287ce3ad94c1fc45c9360c6",
+      "source_pdf_bytes": 7180131,
+      "access_receipt": {
+        "id": "littmann1916",
+        "url": "https://archive.org/download/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf",
+        "resolved_url": "https://dn790006.ca.archive.org/0/items/lydianinscriptio00littuoft/lydianinscriptio00littuoft.pdf",
+        "status": 200,
+        "bytes": 7180131,
+        "sha256": "95815c6e69eb05e439f1f634e8ced07cfd3a62866287ce3ad94c1fc45c9360c6",
+        "pdf_magic": true
+      },
+      "limits": "Publication inspection only; no project object autopsy or independent review.",
+      "source_file_redistributed": false,
+      "page_inspections": [
+        {
+          "pdf_ordinal": 51,
+          "printed_locator": "printed p.39, Pergamon discussion and drawing",
+          "render_sha256": "e7ad1ac4c783115a821cd73b90f2354982c4ef9228ded7358e4cc73c8c71b296",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 52,
+          "printed_locator": "printed p.40, continuation",
+          "render_sha256": "a2435fdd017193fe69a0f246e1cdcc76d4310828dd56422a14935945ea9772b4",
+          "render_redistributed": false
+        }
+      ]
+    },
+    {
+      "source_id": "payne2016",
+      "citation": "Annick Payne and David Sasseville (2016), Die lydische Athene: eine neue Edition von LW40, Historische Sprachforschung129,66–82.",
+      "doi": "10.13109/hisp.2016.129.1.66",
+      "url": "https://www.researchgate.net/publication/311499251_Die_lydische_Athene_Eine_neue_Edition_von_LW_40",
+      "consultation": "DIRECT_AUTHOR_POSTED_WEB_TEXT_PAGE_MARKERS",
+      "source_pdf_sha256": null,
+      "source_pdf_bytes": null,
+      "access_receipt": {
+        "id": "payne2016",
+        "url": "https://www.researchgate.net/profile/Annick-Payne/publication/311499251_Die_lydische_Athene_Eine_neue_Edition_von_LW_40/links/642f22fe4e83cd0e2f95ad7a/Die-lydische-Athene-Eine-neue-Edition-von-LW-40.pdf",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      "limits": "Fresh author-posted article text inspected at the p.70 Neulesung section. Both author-PDF and publisher-PDF downloads returned403. Exact PDF diacritics, photographs and RTI remain uninspected this pass.",
+      "source_file_redistributed": false,
+      "page_inspections": [],
+      "web_locators": [
+        "p.70, Neulesung, numbered transcription and n.9",
+        "pp.66,69–70, attribution and earlier edition history"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "review_id": "LYD-LW40-HISTORICAL",
+      "comparison_class": "HISTORICAL_INTERPRETATION",
+      "source_ids": [
+        "littmann1916"
+      ],
+      "observations": [
+        "Printed pp.39–40 mark the Athena restoration/translation as tentative. Littmann states that he lacked object access and drew from Bohn’s published squeeze photograph."
+      ],
+      "remaining_work": [
+        "Do not convert a historical interpretation into a secure sign string. Exact modern typography and present object access remain open."
+      ],
+      "details": {
+        "authority_access": "PUBLISHED_SQUEEZE_PHOTOGRAPH_REPORTED_BY_LITTMANN",
+        "literal_translation_fragment": "Atana(?)"
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-checks.json",
+        "pointer": "/checks/3"
+      }
+    },
+    {
+      "review_id": "LYD-LW40-2016",
+      "comparison_class": "ACCESS_LIMITED_READING_COMPARISON",
+      "source_ids": [
+        "payne2016"
+      ],
+      "observations": [
+        "The p.70 author-posted text locates the newer verb reading in the third word; the authors’2015 object collation and2016 RTI work are reported evidence, not project examination."
+      ],
+      "remaining_work": [
+        "Both ordinary PDF routes returned403. Exact diacritics and complete first-line typography remain pending; extracted web glyphs must not be normalized into a fresh diplomatic line."
+      ],
+      "details": {
+        "limited_word_form": "acνil",
+        "full_line_typography_verified": false,
+        "source_object_autopsy_is_project_autopsy": false
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-checks.json",
+        "pointer": "/checks/7"
+      }
+    },
+    {
+      "review_id": "LYD-GUSMANI1975-LW59",
+      "comparison_class": "SIGN_UNCERTAINTY_AND_CONVENTIONS",
+      "source_ids": [
+        "gusmani1975"
+      ],
+      "observations": [
+        "A I1 is concorded to59 and IN62.107 on p.42. The p.1 transcription and p.2 commentary retain d/v ambiguity; the following round sign is argued against f. The sign table p.50 uses the author’s b convention."
+      ],
+      "remaining_work": [
+        "Published photograph/drawing inspected, but damaged signs and the modern b/p convention bridge are not independently adjudicated. Do not replace frozen underdots or date the fragment as an observation."
+      ],
+      "details": {
+        "edition_entry": "A I1",
+        "source_reported_inventory": "IN62.107",
+        "source_printed_ambiguity": [
+          "d",
+          "v"
+        ],
+        "modern_convention_crosswalk_established": false,
+        "source_uncertainty_distinct_from_date_interpretation": true
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-checks.json",
+        "pointer": "/checks/8"
+      }
+    }
+  ],
+  "accepted_readings_added": 0,
+  "independent_reviews_added": 0,
+  "source_files_redistributed": false,
+  "project_representation_corrections": 0
+}

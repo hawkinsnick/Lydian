@@ -7,3 +7,7 @@ Removed the obsolete second AI publisher from native integrity CI. The existing 
 ## 2026-10-15 — Native evidence and alternative-reading queries
 
 Added pinned native evidence profiles, exact-ID/JSON-pointer queries, coverage replay, loss/corruption/identity/path tests and CI. Updated researcher documentation, AI instructions and evidence bundle indexing. Existing source data and scientific acceptance states are unchanged.
+
+## 2026-10-15 — Selected source collation
+
+Three selected comparisons. Littmann’s tentative historical interpretation and Gusmani’s d/v ambiguity, conventions and published figure context are directly page-checked. Payne–Sasseville2016 was freshly inspected as author-posted web text only; exact PDF typography and RTI remain open after403 responses. Frozen readings and independent-review status remain unchanged.
