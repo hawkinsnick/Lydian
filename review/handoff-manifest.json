@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "evidence_fingerprint": "e4394d2d461fd3a0c6a8a28ad5aac4b7feecfc70eb9a3c08787584117fd01b9b",
+  "evidence_fingerprint": "193ff4bc9cedbc8f507f148bab8fbbafb3be7b1dbef2acf7cb295d0891daa77d",
   "input_fingerprints": [
     {
       "path": "data/reference/records.json",
@@ -24,7 +24,7 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "d4a8e59b525c5e8740374da3b76866140561ac8162498cd39f29e4f036776d95"
+      "sha256": "3f5f81168c775d924e9cfce25880bbe5cb1966c1c2234467d135986233d5c5e0"
     },
     {
       "path": "research/source-access.json",

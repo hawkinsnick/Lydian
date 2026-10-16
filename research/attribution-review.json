@@ -14,8 +14,8 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "d4a8e59b525c5e8740374da3b76866140561ac8162498cd39f29e4f036776d95",
-      "source_snapshot_commit": "edbc1c17244559f9a361035fc3c482d7a083a185"
+      "sha256": "3f5f81168c775d924e9cfce25880bbe5cb1966c1c2234467d135986233d5c5e0",
+      "source_snapshot_commit": null
     },
     {
       "path": "research/source-lineage-register.json",
@@ -29,7 +29,7 @@
     },
     {
       "path": "research/source-collation-2026-10-15.json",
-      "sha256": "efe7cf4e240d4b98adc40a3df8d63812493ba4ef8de58f47ddfb3601a4da9cd6",
+      "sha256": "3701c4f46088e451b9d4a352a7f99d8d588abe3aee6b27030fe0ba5a0db4ba67",
       "source_snapshot_commit": null
     }
   ],

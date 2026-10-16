@@ -5,7 +5,7 @@ Source label: LW/N 111
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `fe7acc9d3ade0f1cb095ed6f0c0110356ebb99615ca0539e5f6f17f1496ac3d3`
-Evidence fingerprint: `e4394d2d461fd3a0c6a8a28ad5aac4b7feecfc70eb9a3c08787584117fd01b9b`
+Evidence fingerprint: `193ff4bc9cedbc8f507f148bab8fbbafb3be7b1dbef2acf7cb295d0891daa77d`
 
 ## Captured source evidence
 

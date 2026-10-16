@@ -5,7 +5,7 @@ Source label: LW 44 (Magnesia on Mt. Sipylus), 2nd column
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `a60be6ba0c6f8f4bd5dbb15debb48bf5b8c2966618a12461c2a76e8584c24977`
-Evidence fingerprint: `e4394d2d461fd3a0c6a8a28ad5aac4b7feecfc70eb9a3c08787584117fd01b9b`
+Evidence fingerprint: `193ff4bc9cedbc8f507f148bab8fbbafb3be7b1dbef2acf7cb295d0891daa77d`
 
 ## Captured source evidence
 

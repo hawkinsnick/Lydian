@@ -5,7 +5,7 @@ Source label: LW 73 (Kerč; Chersonesus Taurica)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `f880a60d3c4f43444ecda7cc3f9e340b15651e5b59dfdb4d3af2d1e46dd12522`
-Evidence fingerprint: `e4394d2d461fd3a0c6a8a28ad5aac4b7feecfc70eb9a3c08787584117fd01b9b`
+Evidence fingerprint: `193ff4bc9cedbc8f507f148bab8fbbafb3be7b1dbef2acf7cb295d0891daa77d`
 
 ## Captured source evidence
 

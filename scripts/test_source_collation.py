@@ -98,7 +98,12 @@ class SourceCollationTests(unittest.TestCase):
             self.assertEqual(d['PIS-ADIEGO2012-N37']['limited_restoration_fragment'],'[Tas?]')
             self.assertFalse(d['PIS-KESME2-AMBIGUITIES']['segmentation_is_observed_spacing'])
         elif name == 'Lydian':
-            self.assertFalse(d['LYD-LW40-2016']['full_line_typography_verified'])
+            self.assertTrue(d['LYD-LW40-2016']['full_line_typography_verified'])
+            self.assertEqual(d['LYD-LW40-2016']['source_printed_lines_unicode'], ['ẹšν̣ tasẽν̣ acνil', 'partaras maλiλ'])
+            source = Collation().sources['payne2016']
+            self.assertEqual(source['consultation'], 'DIRECT_RENDERED_PDF_PAGE_IMAGES')
+            self.assertEqual(source['previous_consultation_record']['consultation'], 'DIRECT_AUTHOR_POSTED_WEB_TEXT_PAGE_MARKERS')
+            self.assertFalse(d['LYD-LW40-2016']['interactive_rti_examined'])
             self.assertEqual(d['LYD-GUSMANI1975-LW59']['source_printed_ambiguity'],['d','v'])
 
 
