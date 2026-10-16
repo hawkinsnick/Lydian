@@ -32,7 +32,7 @@
       "pointer": "/cases",
       "id_pointer": "/review_id",
       "unit": "selected source collation task",
-      "scope": "Three selected comparisons. Littmann’s tentative historical interpretation and Gusmani’s d/v ambiguity, conventions and published figure context are directly page-checked. Payne–Sasseville2016 was freshly inspected as author-posted web text only; exact PDF typography and RTI remain open after403 responses."
+      "scope": "All three selected source contexts now have rendered-PDF consultation records. The supplied Payne–Sasseville PDF closes the LW40 printed-typography check; the authors’ object/RTI evidence remains distinct from project examination."
     }
   ],
   "relations": [
@@ -75,10 +75,10 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "d4a8e59b525c5e8740374da3b76866140561ac8162498cd39f29e4f036776d95",
+      "sha256": "3f5f81168c775d924e9cfce25880bbe5cb1966c1c2234467d135986233d5c5e0",
       "encoding": "json",
       "role": "corpus-level source/rights/context register",
-      "source_snapshot_commit": "192d53d5a316625055927111f549c2ccf1392343"
+      "source_snapshot_commit": null
     },
     {
       "path": "research/source-worklist.json",
@@ -117,14 +117,14 @@
     },
     {
       "path": "research/attribution-review.json",
-      "sha256": "a5950cfd5d6f1654e1787de11de09062b05fd1a8715a52bd083c651c706e6c69",
+      "sha256": "62044b50761e37d7232d98594aa5612f7fe431702282c1453348f7df1e2b9e48",
       "encoding": "json",
       "role": "bounded attribution review",
       "source_snapshot_commit": null
     },
     {
       "path": "research/source-collation-2026-10-15.json",
-      "sha256": "efe7cf4e240d4b98adc40a3df8d63812493ba4ef8de58f47ddfb3601a4da9cd6",
+      "sha256": "3701c4f46088e451b9d4a352a7f99d8d588abe3aee6b27030fe0ba5a0db4ba67",
       "encoding": "json",
       "role": "fresh bounded source collation; consultation modes differ by source",
       "source_snapshot_commit": null

@@ -5,7 +5,7 @@ Source label: LW 55
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `c29ea913e6a5c3fa512ccc2c4a746b948047e22afbd0db883f9bf005196c9ccd`
-Evidence fingerprint: `e4394d2d461fd3a0c6a8a28ad5aac4b7feecfc70eb9a3c08787584117fd01b9b`
+Evidence fingerprint: `193ff4bc9cedbc8f507f148bab8fbbafb3be7b1dbef2acf7cb295d0891daa77d`
 
 ## Captured source evidence
 

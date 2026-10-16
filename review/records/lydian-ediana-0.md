@@ -5,7 +5,7 @@ Source label: LW 96 (Bayraklı; near Smyrna)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `4954413c751ad6f5b3f534ac7760bab37cce4d08bceebb45f280ee77fe7523a9`
-Evidence fingerprint: `e4394d2d461fd3a0c6a8a28ad5aac4b7feecfc70eb9a3c08787584117fd01b9b`
+Evidence fingerprint: `193ff4bc9cedbc8f507f148bab8fbbafb3be7b1dbef2acf7cb295d0891daa77d`
 
 ## Captured source evidence
 

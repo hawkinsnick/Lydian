@@ -195,7 +195,7 @@
       "record_ids": [
         "lydian:ediana:103"
       ],
-      "inspection": "AUTHOR_POSTED_PDF_TEXT_INSPECTED_VIA_WEB; LOCAL_DOWNLOAD_BLOCKED; TYPOGRAPHIC_UNCERTAINTY_NOT_VISUALLY_VERIFIED",
+      "inspection": "SUPPLIED_PDF_RENDERED_PAGES_VISUALLY_INSPECTED; NO_PROJECT_OBJECT_AUTOPSY_OR_INDEPENDENT_REVIEW",
       "source_url": "https://www.researchgate.net/profile/Annick-Payne/publication/311499251_Die_lydische_Athene_Eine_neue_Edition_von_LW_40/links/642f22fe4e83cd0e2f95ad7a/Die-lydische-Athene-Eine-neue-Edition-von-LW-40.pdf",
       "bibliography": {
         "authors": [
@@ -216,21 +216,32 @@
       ],
       "source_pointer": "/LW 40 (Pergamum)/1",
       "captured_reading": "ẹšν̣ tasẹ̃ν̣ f̣?acνil",
-      "proposed_reading": "acνil",
-      "proposal_scope": "third_word_only; surrounding word uncertainty has not been re-encoded from extracted text",
-      "proposal_state": "ATTRIBUTED_EDITION_READING; EXACT_TYPOGRAPHIC_COLLATION_PENDING",
+      "proposed_reading": "ẹšν̣ tasẽν̣ acνil / partaras maλiλ",
+      "proposal_scope": "Two printed Lydian lines, visually checked; attributed edition transcription, not canonical replacement",
+      "proposal_state": "ATTRIBUTED_EDITION_PRINTED_TYPOGRAPHY_VERIFIED; PHYSICAL_READING_NOT_ADJUDICATED",
       "finding": "The 2016 edition places the goddess name in the final word and reads the third word as a verb. This differs from the frozen third-word form and the 1916 syntactic proposal. The authors report object collation and RTI use; those are their evidence assertions, not a project examination. Do not silently replace the frozen reading.",
       "object_inventory_source_assertion": {
         "inventory": "IvP1",
         "asserted_in": 2016,
         "current_location_verified": false
       },
-      "independence": "Authors report collation on 20 October 2015 and RTI-assisted completion in September 2016. Shared object and earlier editions remain relevant; project has only inspected the publication text.",
+      "independence": "Published object/RTI images and sign commentary inspected; authors’2015 collation and2016 RTI work are not a project autopsy or examination of the interactive RTI.",
       "canonical_change": false,
       "expert_questions": [
-        "Compare all damaged signs in the original PDF typography and RTI before transcribing uncertainty",
+        "Adjudicate damaged signs against the object or lawful interactive RTI; printed typography was verified in the supplied PDF",
         "Verify the third-word conflict and distinguish syntactic analysis from sign reading",
         "Reconcile inventory and current access to the column drum"
+      ],
+      "previous_inspection": "AUTHOR_POSTED_PDF_TEXT_INSPECTED_VIA_WEB; LOCAL_DOWNLOAD_BLOCKED; TYPOGRAPHIC_UNCERTAINTY_NOT_VISUALLY_VERIFIED",
+      "source_sha256": "b47d3c9983598a6ab69ff169b3415b99fcdc54e942d27c126df5ff29b7f2a504",
+      "pdf_follow_up_packet": "research/source-collation-2026-10-15.json",
+      "pdf_follow_up_locators": [
+        "p.70, Neulesung, printed transcription, published image/drawing and n.9",
+        "p.72, word-divider qualifications, first-word images and sign commentary",
+        "p.73, damage marks and second-word images/commentary",
+        "p.74, third-word images/commentary and partaras initial p convention",
+        "p.75, partaras and maλiλ images/commentary",
+        "p.76, final-word commentary and grammatical analysis"
       ]
     },
     {

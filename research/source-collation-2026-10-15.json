@@ -7,8 +7,8 @@
   "inputs": [
     {
       "path": "research/source-checks.json",
-      "sha256": "d4a8e59b525c5e8740374da3b76866140561ac8162498cd39f29e4f036776d95",
-      "source_snapshot_commit": "07fbe82dddf088dc87303513c98f0169ad6c4ccc"
+      "sha256": "3f5f81168c775d924e9cfce25880bbe5cb1966c1c2234467d135986233d5c5e0",
+      "source_snapshot_commit": null
     },
     {
       "path": "data/reference/records.json",
@@ -110,21 +110,79 @@
       "citation": "Annick Payne and David Sasseville (2016), Die lydische Athene: eine neue Edition von LW40, Historische Sprachforschung129,66–82.",
       "doi": "10.13109/hisp.2016.129.1.66",
       "url": "https://www.researchgate.net/publication/311499251_Die_lydische_Athene_Eine_neue_Edition_von_LW_40",
-      "consultation": "DIRECT_AUTHOR_POSTED_WEB_TEXT_PAGE_MARKERS",
-      "source_pdf_sha256": null,
-      "source_pdf_bytes": null,
+      "consultation": "DIRECT_RENDERED_PDF_PAGE_IMAGES",
+      "source_pdf_sha256": "b47d3c9983598a6ab69ff169b3415b99fcdc54e942d27c126df5ff29b7f2a504",
+      "source_pdf_bytes": 9039949,
       "access_receipt": {
-        "id": "payne2016",
-        "url": "https://www.researchgate.net/profile/Annick-Payne/publication/311499251_Die_lydische_Athene_Eine_neue_Edition_von_LW_40/links/642f22fe4e83cd0e2f95ad7a/Die-lydische-Athene-Eine-neue-Edition-von-LW-40.pdf",
-        "error": "HTTP Error 403: Forbidden"
+        "acquisition": "USER_SUPPLIED_PDF",
+        "uploaded_filename": "Payne_Sasseville_2016.pdf",
+        "checked_local_date": "2026-10-15",
+        "bytes": 9039949,
+        "sha256": "b47d3c9983598a6ab69ff169b3415b99fcdc54e942d27c126df5ff29b7f2a504",
+        "pdf_magic": true,
+        "page_count": 17,
+        "public_download_succeeded": false
       },
-      "limits": "Fresh author-posted article text inspected at the p.70 Neulesung section. Both author-PDF and publisher-PDF downloads returned403. Exact PDF diacritics, photographs and RTI remain uninspected this pass.",
+      "limits": "Supplied PDF pages visually inspected. Published photographs/drawings are source evidence; no project object autopsy, interactive RTI inspection, independent review or automatic reading acceptance.",
       "source_file_redistributed": false,
-      "page_inspections": [],
+      "page_inspections": [
+        {
+          "pdf_ordinal": 5,
+          "render_sha256": "0670a955e763ee1ab412681972beac2f55745ed0aad5bb851fd506632a319f11",
+          "render_redistributed": false,
+          "printed_locator": "p.70, Neulesung, printed transcription, published image/drawing and n.9"
+        },
+        {
+          "pdf_ordinal": 7,
+          "render_sha256": "ff9693b00193da489f073065d5805393c87591ed41f2805992f5c1bac5094717",
+          "render_redistributed": false,
+          "printed_locator": "p.72, word-divider qualifications, first-word images and sign commentary"
+        },
+        {
+          "pdf_ordinal": 8,
+          "render_sha256": "548944083b7a811b3f35332b97e8010e4a06ffcd7fa69fbe1f2396bd7448a25c",
+          "render_redistributed": false,
+          "printed_locator": "p.73, damage marks and second-word images/commentary"
+        },
+        {
+          "pdf_ordinal": 9,
+          "render_sha256": "98d04c310ec91fc8c4b7b2f970b013c5e2f0370d357deb2bf5b0177830d6cf89",
+          "render_redistributed": false,
+          "printed_locator": "p.74, third-word images/commentary and partaras initial p convention"
+        },
+        {
+          "pdf_ordinal": 10,
+          "render_sha256": "b4ea0f1b1651e9fd3a750a244d8079215849be45ad94992c74e8fc4dcd10590c",
+          "render_redistributed": false,
+          "printed_locator": "p.75, partaras and maλiλ images/commentary"
+        },
+        {
+          "pdf_ordinal": 11,
+          "render_sha256": "cde161ebd6beeb49df6aee15a3fed6666ac718c41b8fce68cfdbe956cb6f5067",
+          "render_redistributed": false,
+          "printed_locator": "p.76, final-word commentary and grammatical analysis"
+        }
+      ],
       "web_locators": [
         "p.70, Neulesung, numbered transcription and n.9",
         "pp.66,69–70, attribution and earlier edition history"
-      ]
+      ],
+      "previous_consultation_record": {
+        "consultation": "DIRECT_AUTHOR_POSTED_WEB_TEXT_PAGE_MARKERS",
+        "source_pdf_sha256": null,
+        "source_pdf_bytes": null,
+        "access_receipt": {
+          "id": "payne2016",
+          "url": "https://www.researchgate.net/profile/Annick-Payne/publication/311499251_Die_lydische_Athene_Eine_neue_Edition_von_LW_40/links/642f22fe4e83cd0e2f95ad7a/Die-lydische-Athene-Eine-neue-Edition-von-LW-40.pdf",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        "limits": "Fresh author-posted article text inspected at the p.70 Neulesung section. Both author-PDF and publisher-PDF downloads returned403. Exact PDF diacritics, photographs and RTI remain uninspected this pass.",
+        "page_inspections": [],
+        "web_locators": [
+          "p.70, Neulesung, numbered transcription and n.9",
+          "pp.66,69–70, attribution and earlier edition history"
+        ]
+      }
     }
   ],
   "cases": [
@@ -138,7 +196,7 @@
         "Printed pp.39–40 mark the Athena restoration/translation as tentative. Littmann states that he lacked object access and drew from Bohn’s published squeeze photograph."
       ],
       "remaining_work": [
-        "Do not convert a historical interpretation into a secure sign string. Exact modern typography and present object access remain open."
+        "Keep Littmann’s tentative interpretation historical. The modern printed typography was checked in the follow-up LYD-LW40-2016; present object access and independent adjudication remain open."
       ],
       "details": {
         "authority_access": "PUBLISHED_SQUEEZE_PHOTOGRAPH_REPORTED_BY_LITTMANN",
@@ -154,20 +212,37 @@
     },
     {
       "review_id": "LYD-LW40-2016",
-      "comparison_class": "ACCESS_LIMITED_READING_COMPARISON",
+      "comparison_class": "DIRECT_PRINTED_TYPOGRAPHY_COMPARISON",
       "source_ids": [
         "payne2016"
       ],
       "observations": [
-        "The p.70 author-posted text locates the newer verb reading in the third word; the authors’2015 object collation and2016 RTI work are reported evidence, not project examination."
+        "Printed p.70 reads ẹšν̣ tasẽν̣ acνil / partaras maλiλ. Underdots are on initial e and the two word-final ν signs; the tilde belongs to ẽ, which has no underdot. The third word has no f prefix or question mark. The second line has no underdots.",
+        "Printed pp.72–76 inspectable images/commentary support attribution of these conventions to the authors, including p for the B-shaped sign in partaras. Their object collation/RTI use is reported evidence, not project examination."
       ],
       "remaining_work": [
-        "Both ordinary PDF routes returned403. Exact diacritics and complete first-line typography remain pending; extracted web glyphs must not be normalized into a fresh diplomatic line."
+        "Printed typography check is complete for the selected transcription. Independent damaged-sign adjudication, interactive RTI access and current object/inventory verification remain open. Preserve the frozen directory text and keep syntactic analysis separate from sign evidence."
       ],
       "details": {
         "limited_word_form": "acνil",
-        "full_line_typography_verified": false,
-        "source_object_autopsy_is_project_autopsy": false
+        "full_line_typography_verified": true,
+        "source_object_autopsy_is_project_autopsy": false,
+        "source_printed_lines_unicode": [
+          "ẹšν̣ tasẽν̣ acνil",
+          "partaras maλiλ"
+        ],
+        "unicode_encoding_note": "Greek small nu U+03BD; damage encoded with U+0323 COMBINING DOT BELOW; ẽ is U+1EBD. This is project Unicode encoding of the visually checked printed form, not a claim about the PDF font mapping.",
+        "source_damage_positions_1_based": {
+          "word1": [
+            1,
+            3
+          ],
+          "word2": [
+            5
+          ]
+        },
+        "frozen_row_unchanged": true,
+        "interactive_rti_examined": false
       },
       "new_canonical_reading": false,
       "independent_review": false,
@@ -211,5 +286,13 @@
   "accepted_readings_added": 0,
   "independent_reviews_added": 0,
   "source_files_redistributed": false,
-  "project_representation_corrections": 0
+  "project_representation_corrections": 0,
+  "follow_up": {
+    "checked_local_date": "2026-10-15",
+    "acquisition": "USER_SUPPLIED_PDFS",
+    "prior_web_only_state_superseded_for_listed_sources": [
+      "payne2016"
+    ],
+    "scope": "Printed publication typography/figures only; no object autopsy, interactive RTI examination, independent expert review or automatic reading admission."
+  }
 }

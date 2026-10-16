@@ -5,7 +5,7 @@ Source label: LW 40 (Pergamum)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `7dd1cb6c96af04bb16307a430ebc066c996420e99d087be4f0a65daf2267d643`
-Evidence fingerprint: `e4394d2d461fd3a0c6a8a28ad5aac4b7feecfc70eb9a3c08787584117fd01b9b`
+Evidence fingerprint: `193ff4bc9cedbc8f507f148bab8fbbafb3be7b1dbef2acf7cb295d0891daa77d`
 
 ## Captured source evidence
 
@@ -52,13 +52,13 @@ Locators: printed p.66 (PDF page 1), object and inventory IvP1 assertion; printe
 
 The 2016 edition places the goddess name in the final word and reads the third word as a verb. This differs from the frozen third-word form and the 1916 syntactic proposal. The authors report object collation and RTI use; those are their evidence assertions, not a project examination. Do not silently replace the frozen reading.
 
-Attributed scholarly proposal for third_word_only; surrounding word uncertainty has not been re-encoded from extracted text:
+Attributed scholarly proposal for Two printed Lydian lines, visually checked; attributed edition transcription, not canonical replacement:
 
 ````text
-acνil
+ẹšν̣ tasẽν̣ acνil / partaras maλiλ
 ````
 
-- Compare all damaged signs in the original PDF typography and RTI before transcribing uncertainty
+- Adjudicate damaged signs against the object or lawful interactive RTI; printed typography was verified in the supplied PDF
 - Verify the third-word conflict and distinguish syntactic analysis from sign reading
 - Reconcile inventory and current access to the column drum
 

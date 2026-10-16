@@ -61,3 +61,8 @@ Four controls plus all37 existing source checks, including LW40 proposals, catal
 Consult `research/source-collation-2026-10-15.json` and `docs/SOURCE-COLLATION-2026-10-15.md` for the selected source comparisons. Use `python scripts/source_collation.py --case ID` to retrieve the fresh source observations beside complete native evidence. Preserve printed forms, project notation and author-prose uncertainty as separate fields. Treat web text, rendered PDF inspection, indirect reports and bibliography-only access as distinct modalities. Do not infer direct edition access from a quoted source, physical autopsy from an author’s report, or acceptance from a successful integrity check.
 
 Three selected comparisons. Littmann’s tentative historical interpretation and Gusmani’s d/v ambiguity, conventions and published figure context are directly page-checked. Payne–Sasseville2016 was freshly inspected as author-posted web text only; exact PDF typography and RTI remain open after403 responses.
+
+
+## Supplied-PDF follow-up — 2026-10-15
+
+All three selected source contexts now have rendered-PDF consultation records. The supplied Payne–Sasseville PDF closes the LW40 printed-typography check; the authors’ object/RTI evidence remains distinct from project examination. Read `research/source-collation-2026-10-15.json` and `docs/SOURCE-COLLATION-2026-10-15.md`; current rendered-PDF receipts supersede the retained web-only access history. Never report those earlier download failures as a current source-acquisition gap. Preserve the packet’s source-specific uncertainty, Unicode notation, component and identity boundaries. Publication inspection adds no accepted reading or independent expert review; do not redistribute the supplied PDFs or page images.
