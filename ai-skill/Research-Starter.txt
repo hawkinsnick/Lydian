@@ -67,6 +67,21 @@ Three selected comparisons. Littmann’s tentative historical interpretation and
 
 All three selected source contexts now have rendered-PDF consultation records. The supplied Payne–Sasseville PDF closes the LW40 printed-typography check; the authors’ object/RTI evidence remains distinct from project examination. Read `research/source-collation-2026-10-15.json` and `docs/SOURCE-COLLATION-2026-10-15.md`; current rendered-PDF receipts supersede the retained web-only access history. Never report those earlier download failures as a current source-acquisition gap. Preserve the packet’s source-specific uncertainty, Unicode notation, component and identity boundaries. Publication inspection adds no accepted reading or independent expert review; do not redistribute the supplied PDFs or page images.
 
+## Research delivery, evidence answers and feedback
+
+Read `docs/RESEARCH-DELIVERY.md` and verify `analysis/research-delivery.json`
+with `python scripts/research_delivery.py --check` before using delivery claims.
+Use `--dossier ID --collection COLLECTION` for exact evidence-bound answers;
+preserve the complete native payload, citations, categories and limitations.
+Use `--search TEXT` for source-record retrieval. Do not convert file pointers
+into missing primary-edition citations, catalogue rows into unique objects,
+source dependence into independent confirmation, or review forms into acceptance.
+Prepare bounded review drafts with `--review-template`; validate submissions with
+`--validate-review`, then require native human-maintainer acceptance. Treat delivery
+and deterministic answer tests as engineering checks, not empirical LLM validation
+or completion of scholarly/source-permission work. Local packaging grants no new
+redistribution rights. Label any model-generated analysis separately and cite it.
+
 
 # Corpus Project AI Research Contract — 0.3
 
