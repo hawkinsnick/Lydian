@@ -61,3 +61,9 @@ The frozen eDiAna reference now has an EpiDoc view of all 118 native document re
 Bounded attribution and comparison review: [source qualifications and remaining gaps](docs/ATTRIBUTION-REVIEW.md).
 
 [Selected publication collation and source qualifications —2026-10-15](docs/SOURCE-COLLATION-2026-10-15.md).
+
+## Research delivery and feedback
+
+[Search, reproducible local packages, evidence-bound answers and review submissions](docs/RESEARCH-DELIVERY.md).
+[Measured delivery scope](analysis/research-delivery.json) retains native evidence
+units and all scholarly, rights and expert-review dependencies.

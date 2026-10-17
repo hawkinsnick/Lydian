@@ -16,3 +16,10 @@ Three selected comparisons. Littmann’s tentative historical interpretation and
 ### 2026-10-15 supplied-PDF source follow-up
 
 All three selected source contexts now have rendered-PDF consultation records. The supplied Payne–Sasseville PDF closes the LW40 printed-typography check; the authors’ object/RTI evidence remains distinct from project examination. Native source tasks, source-version/render receipts, documentation and AI guidance updated; frozen readings and independent reviews unchanged.
+
+## 2026-10-17 — Research delivery controls
+
+Add checksum-bound native search/evidence responses, deterministic local research
+packaging and offline replay, revision-bound review submission forms and rejection
+tests. Update individual AI instructions and documentation. No source record,
+reading, expert acceptance or redistribution permission is added by this change.

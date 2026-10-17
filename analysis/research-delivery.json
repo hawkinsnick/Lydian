@@ -1,0 +1,231 @@
+{
+  "format": "native-research-delivery-v1",
+  "repository": "hawkinsnick/Lydian",
+  "status": "PASS_DELIVERY_CONTROLS_ONLY",
+  "source_attribution_completeness": "NOT_CERTIFIED_BY_FILE_POINTERS",
+  "facts_hypotheses_policy": "PRESERVE_NATIVE_CATEGORIES_NO_AUTOMATIC_PROMOTION",
+  "scholarly_completeness": false,
+  "expert_acceptance_added": false,
+  "model_behavior_empirically_validated": false,
+  "collections": [
+    {
+      "name": "digital-reference",
+      "native_unit": "frozen eDiAna directory record",
+      "record_count": 118,
+      "scope": "Source rows and bibliographic references are not critical-edition or object certification.",
+      "example_ids": [
+        "lydian:ediana:95",
+        "lydian:ediana:51",
+        "lydian:ediana:101"
+      ],
+      "provenance": {
+        "path": "data/reference/records.json",
+        "sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "digital-reference",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "disagreement-register",
+      "native_unit": "research disagreement/control item",
+      "record_count": 4,
+      "scope": "Scope retained; no automatic record linkage.",
+      "example_ids": [
+        "LYD-DIS-001",
+        "LYD-DIS-002",
+        "LYD-DIS-003"
+      ],
+      "provenance": {
+        "path": "research/disagreement-register.json",
+        "sha256": "28edecc9ceb7e9f65cf8a51f1d389c739c6f4898ba9b6226df349f2345a31772",
+        "pointer": "/items",
+        "native_artifacts_snapshot_commit": null,
+        "role": "disagreement-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "attribution-review",
+      "native_unit": "bounded documentary attribution review task",
+      "record_count": 41,
+      "scope": "Four controls plus all37 existing source checks, including LW40 proposals, catalogue collisions, source typography and Gusmani concordance candidates.",
+      "example_ids": [
+        "LYD-DIS-001",
+        "LYD-DIS-002",
+        "LYD-DIS-003"
+      ],
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "62044b50761e37d7232d98594aa5612f7fe431702282c1453348f7df1e2b9e48",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "source-collation-2026-10-15",
+      "native_unit": "selected source collation task",
+      "record_count": 3,
+      "scope": "All three selected source contexts now have rendered-PDF consultation records. The supplied Payne–Sasseville PDF closes the LW40 printed-typography check; the authors’ object/RTI evidence remains distinct from project examination.",
+      "example_ids": [
+        "LYD-LW40-HISTORICAL",
+        "LYD-LW40-2016",
+        "LYD-GUSMANI1975-LW59"
+      ],
+      "provenance": {
+        "path": "research/source-collation-2026-10-15.json",
+        "sha256": "3701c4f46088e451b9d4a352a7f99d8d588abe3aee6b27030fe0ba5a0db4ba67",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "fresh bounded source collation; consultation modes differ by source",
+        "encoding": "json"
+      }
+    }
+  ],
+  "scholarly_limits": [
+    "Exact source document IDs remain distinct even where catalogue labels collide. Native line labels, editorial signs, references, source license and primary_edition_verified=false remain literal. Physical objects and independently collated alternative pairs are not counted by this view.",
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total.",
+    "Three selected comparisons. Littmann’s tentative historical interpretation and Gusmani’s d/v ambiguity, conventions and published figure context are directly page-checked. Payne–Sasseville2016 was freshly inspected as author-posted web text only; exact PDF typography and RTI remain open after403 responses."
+  ],
+  "inputs": [
+    {
+      "path": "DATA-LICENSE-MATRIX.md",
+      "sha256": "3f7ccb9afb09c7c765d7cf5fd575d92090742d60116d7dc55c9bd08e2ee5ecb3",
+      "bytes": 1565
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "a6483079a3962d57e0174a735f70813ce644e4371869e1108114dfee6cfd5674",
+      "bytes": 582
+    },
+    {
+      "path": "LICENSE-CODE",
+      "sha256": "da0ea24fe99ee55dffa4fdcc54c2c533be08b240a37fcf093b6e5a716d5cd74a",
+      "bytes": 324
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "24b4bfcf2de2f729b7ebce80c8011e7d75f82f5626a63bdcf333b28f8a2a2802",
+      "bytes": 762
+    },
+    {
+      "path": "LICENSING.md",
+      "sha256": "ab9b5ec64d32f4e987fa4081dec15853a6b87858a4a8dbb7162af4ab9a54c7e8",
+      "bytes": 2487
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "e416022d6486fe418616787da0e08468cb87abd3da740a804ec00fd56f7101f6",
+      "bytes": 868
+    },
+    {
+      "path": "ai-skill/SKILL.md",
+      "sha256": "80940b7f480209aaaa1011c86084e15d1b07ac096d57e44f29244d79b553e9c1",
+      "bytes": 12412
+    },
+    {
+      "path": "data/reference/records.json",
+      "sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+      "bytes": 152492
+    },
+    {
+      "path": "docs/EXPERT-REVIEW.md",
+      "sha256": "dacd7e3a728b7bfc106408d664bcc2a28bc47f50683a99f123a9cb3b49d1d4ee",
+      "bytes": 3664
+    },
+    {
+      "path": "docs/RESEARCH-DELIVERY.md",
+      "sha256": "e745c98907a4134dc4c1e7b7b89aa584215482be81ceccd835495e84aa889189",
+      "bytes": 4065
+    },
+    {
+      "path": "research/admission-policy.json",
+      "sha256": "175399b744d600673163ec4350b272dc10a54f2246f9e26f9bdb1a7857afc1d0",
+      "bytes": 543
+    },
+    {
+      "path": "research/attribution-review.json",
+      "sha256": "62044b50761e37d7232d98594aa5612f7fe431702282c1453348f7df1e2b9e48",
+      "bytes": 39404
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "sha256": "51449a55011486cb2662334abd438d19edaf218f635c93a70b7201d7e7df04b9",
+      "bytes": 186066
+    },
+    {
+      "path": "research/disagreement-register.json",
+      "sha256": "28edecc9ceb7e9f65cf8a51f1d389c739c6f4898ba9b6226df349f2345a31772",
+      "bytes": 1347
+    },
+    {
+      "path": "research/evidence-query-profile.json",
+      "sha256": "ca1b49486dd0dc5e0caec0b772757566c0cb70ce8d41489c2c0f2103b6467dab",
+      "bytes": 6426
+    },
+    {
+      "path": "research/rights-source-matrix.json",
+      "sha256": "e4d69114a20f6bfd928c0e7bf58180e711ead29d2560c45e28e7e2738e77821e",
+      "bytes": 2195
+    },
+    {
+      "path": "research/source-checks.json",
+      "sha256": "3f5f81168c775d924e9cfce25880bbe5cb1966c1c2234467d135986233d5c5e0",
+      "bytes": 50124
+    },
+    {
+      "path": "research/source-collation-2026-10-15.json",
+      "sha256": "3701c4f46088e451b9d4a352a7f99d8d588abe3aee6b27030fe0ba5a0db4ba67",
+      "bytes": 13606
+    },
+    {
+      "path": "research/source-issues.json",
+      "sha256": "57aef5059b7d19a6f5512f7cb19b4181b938696f1be87fa426c2896a47c1fe49",
+      "bytes": 1362
+    },
+    {
+      "path": "research/source-lineage-register.json",
+      "sha256": "26ad1e57fe2653e5e9b64627cdb5c863d6b7d374ae356f89949a28e3d89f3a12",
+      "bytes": 1721
+    },
+    {
+      "path": "research/source-register.json",
+      "sha256": "5e5b43347d15c74121e6837933b0b1a95e89f0136c0b4f8d38d0cef504460dd3",
+      "bytes": 495
+    },
+    {
+      "path": "research/source-worklist.json",
+      "sha256": "f3a1b8fa205f3d89af43e8668f097b26a386ca3d2d8cd6cecca31f61a437936e",
+      "bytes": 92210
+    },
+    {
+      "path": "review/README.md",
+      "sha256": "7dcce8837c931f1d48a4c40cffb7985802a812e39028f602a0733a2abc225a0b",
+      "bytes": 11206
+    },
+    {
+      "path": "review/collection-packet.json",
+      "sha256": "82583170451eba0457e868fe5ee1aa451674da15e7a83cd05b57299812ada415",
+      "bytes": 1929
+    },
+    {
+      "path": "scripts/evidence_query.py",
+      "sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
+      "bytes": 11289
+    },
+    {
+      "path": "scripts/research_delivery.py",
+      "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
+      "bytes": 10075
+    },
+    {
+      "path": "scripts/test_research_delivery.py",
+      "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
+      "bytes": 5678
+    }
+  ],
+  "boundary": "Source assertions, hypotheses and review tasks retain their native categories. Retrieval and byte replay establish neither scholarly completeness nor expert acceptance. Missing source attribution, access, permission and independent review remain open where recorded."
+}
