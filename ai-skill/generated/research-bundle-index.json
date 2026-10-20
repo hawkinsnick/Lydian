@@ -1,7 +1,7 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "ae86c095a63a21d676256aa2a81e6928dd4a2639",
+  "source_commit": "f8d781267fe002aed607b562dc1dfe537cb7b217",
   "evidence_fingerprint_sha256": "e793fc2f5d5e766fc61be073e63f214312f876d3e8504374889f5bc6806475f9",
   "canonical_repository": true,
   "artifacts": [
