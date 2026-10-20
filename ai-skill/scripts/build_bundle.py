@@ -10,6 +10,8 @@ def build():
     paths += [('attribution_review', 'research/attribution-review.json'), ('attribution_review', 'analysis/attribution-review-audit.json'), ('attribution_review', 'docs/ATTRIBUTION-REVIEW.md'), ('attribution_review', 'scripts/attribution_review.py'), ('attribution_review', 'scripts/test_attribution_review.py')]
     paths += [('selected_source_collation', 'research/source-collation-2026-10-15.json'), ('selected_source_collation', 'analysis/source-collation-2026-10-15.json'), ('selected_source_collation', 'docs/SOURCE-COLLATION-2026-10-15.md'), ('selected_source_collation', 'scripts/source_collation.py'), ('selected_source_collation', 'scripts/test_source_collation.py')]
     paths += [("research_delivery", p) for p in ['scripts/research_delivery.py','scripts/test_research_delivery.py','docs/RESEARCH-DELIVERY.md','analysis/research-delivery.json']]
+    paths += [('skill_function_validation', p) for p in ['ai-skill/SKILL.md', 'ai-skill/manifest.json', 'scripts/validate_ai_skill.py', 'scripts/test_ai_skill_validation.py', 'docs/AI-SKILL-VALIDATION.md', '.github/workflows/ai-skill-function.yml']]
+    paths += [('skill_validator_code', p) for p in ['ai-skill/scripts/build_bundle.py', 'ai-skill/scripts/validate_bundle.py']]
     artifacts=[]
     for role,path in paths:
         b=(ROOT/path).read_bytes();artifacts.append({'role':role,'path':path,'sha256':hashlib.sha256(b).hexdigest(),'bytes':len(b)})
