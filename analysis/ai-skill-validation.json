@@ -1,0 +1,71 @@
+{
+  "format": "corpus-ai-skill-function-check-v1",
+  "repository": "hawkinsnick/Lydian",
+  "status": "PASS_SCOPED_FUNCTIONAL_CHECKS",
+  "scope": "NATIVE_EVIDENCE_RETRIEVAL",
+  "skill_name": "lydian-research",
+  "skill_version": "0.3.1",
+  "skill_sha256": "b617d47dfdea12533874a8b99f39e5d392c9a7947cd0e03fbd122504b15a2193",
+  "bundle_source_commit": "ae86c095a63a21d676256aa2a81e6928dd4a2639",
+  "bundle_sha256": "c59ca81f081d79658f62de4b95c9cb8b29f2af3c3698e8f23c132b2384203f5d",
+  "indexed_artifact_entries_checked": 65,
+  "unique_indexed_paths_checked": 64,
+  "lookups": [
+    {
+      "collection": "digital-reference",
+      "id": "lydian:ediana:95",
+      "native_unit": "frozen eDiAna directory record",
+      "provenance": {
+        "path": "data/reference/records.json",
+        "sha256": "22dd7797a67fe5ad941608145060b4acdd041330853d63329482db1d1f3a57e9",
+        "pointer": "/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "digital-reference",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "disagreement-register",
+      "id": "LYD-DIS-001",
+      "native_unit": "research disagreement/control item",
+      "provenance": {
+        "path": "research/disagreement-register.json",
+        "sha256": "28edecc9ceb7e9f65cf8a51f1d389c739c6f4898ba9b6226df349f2345a31772",
+        "pointer": "/items/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "disagreement-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "attribution-review",
+      "id": "LYD-DIS-001",
+      "native_unit": "bounded documentary attribution review task",
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "62044b50761e37d7232d98594aa5612f7fe431702282c1453348f7df1e2b9e48",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "source-collation-2026-10-15",
+      "id": "LYD-LW40-HISTORICAL",
+      "native_unit": "selected source collation task",
+      "provenance": {
+        "path": "research/source-collation-2026-10-15.json",
+        "sha256": "3701c4f46088e451b9d4a352a7f99d8d588abe3aee6b27030fe0ba5a0db4ba67",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "fresh bounded source collation; consultation modes differ by source",
+        "encoding": "json"
+      }
+    }
+  ],
+  "missing_id_rejected": true,
+  "scholarly_acceptance_granted": false,
+  "empirical_model_accuracy_established": false,
+  "limits": "Deterministic workflow checks only. Independent model usage exercises are recorded separately; no cross-platform accuracy or scholarly acceptance is inferred."
+}
