@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "beed8f15f7028413822d410afb49396c7cb7454b",
-  "evidence_fingerprint_sha256": "644f886705ea337fae445c42fd60c74bd765d0b56bff626805e66c51b70e001d",
+  "source_commit": "737d7883a57cb786e91c41b109551604d228fb6d",
+  "evidence_fingerprint_sha256": "991038acfd6788116537d8950feb154e4055baaaf3a51f3ddeb75ee2437fb07e",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "18572f8b61984793a2b20529739547077018715d5bd2c39187eb713e72fda7a7",
-      "bytes": 14348
+      "sha256": "b9743024254439cca7c0a084c0b6b313c39c4556faa6b7a16ff71aa661f23103",
+      "bytes": 15995
     },
     {
       "role": "source-checks",
@@ -222,6 +222,12 @@
       "bytes": 2023
     },
     {
+      "role": "nonreview_workflow",
+      "path": "docs/NONREVIEW-WORK.md",
+      "sha256": "af8816ab6aa27363eaf53c7b9e4901c16661800fa86c9a1051a212e491181983",
+      "bytes": 2960
+    },
+    {
       "role": "raw_source",
       "path": "data/upstream/ediana/response.json",
       "sha256": "f09395d8932696e82a20851e0048dce941e95e98ec50000ab4abe0a507894ef1",
@@ -326,8 +332,8 @@
     {
       "role": "research_delivery",
       "path": "scripts/research_delivery.py",
-      "sha256": "2c82a9f1fdac786da4b9583c3d463002a77d45fcdd604be86e4234b09070d756",
-      "bytes": 10387
+      "sha256": "41a6e40571391e2a4303b06a9a6eb4bf8575a84ca715d3932b8907edda64566c",
+      "bytes": 10514
     },
     {
       "role": "research_delivery",
@@ -344,14 +350,14 @@
     {
       "role": "research_delivery",
       "path": "analysis/research-delivery.json",
-      "sha256": "138387a564012c0e656db181051d60013474aeab836542b74de8b3d99f61b8cd",
-      "bytes": 8772
+      "sha256": "efcd4a5e10c0ce9b0f338a0b1a91aa0517ce4524f0f95cb22cea7e24f28c9500",
+      "bytes": 8929
     },
     {
       "role": "skill_function_validation",
       "path": "ai-skill/SKILL.md",
-      "sha256": "18572f8b61984793a2b20529739547077018715d5bd2c39187eb713e72fda7a7",
-      "bytes": 14348
+      "sha256": "b9743024254439cca7c0a084c0b6b313c39c4556faa6b7a16ff71aa661f23103",
+      "bytes": 15995
     },
     {
       "role": "skill_function_validation",
